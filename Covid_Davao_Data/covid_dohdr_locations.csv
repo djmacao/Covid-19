@@ -2,9 +2,9 @@ barangay,active,dead,recovered,totalcases
 10-A,0,0,1,1
 12-B,0,0,1,1
 14-B,0,0,1,1
-19-B,4,1,3,8
+19-B,3,1,3,7
 21-C,2,0,2,4
-23-C,11,1,1,13
+23-C,26,1,1,28
 5-A,6,0,0,6
 76-A,1,1,2,4
 9-A,0,1,4,5
@@ -12,7 +12,7 @@ Alfonso Angliongto,0,0,2,2
 Bago Gallera,0,1,2,3
 Bago Oshiro,1,0,0,1
 Baliok,1,0,1,2
-Buhangin Proper,6,2,14,22
+Buhangin Proper,8,2,14,24
 Cabantian,0,0,6,6
 Catalunan Grande,1,1,5,7
 Catalunan Pequeno,1,0,0,1
@@ -24,7 +24,6 @@ Gov. Vicente Duterte,5,1,1,7
 Ilang,0,0,2,2
 Indangan,1,0,2,3
 Langub,0,0,1,1
-Lapu-lapu,1,0,0,1
 Leon Garcia Sr.,8,1,4,13
 Maa,1,1,2,4
 Mabuhay,1,0,0,1
