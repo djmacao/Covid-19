@@ -1,0 +1,216 @@
+DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Date,DateAdmitted,DateDischarged,DateDied,DeathReason,Status,LocA,LocB,LocC,Barangay,CityMun,OrigLocation
+27-Apr-2020,001,130,21,Female,Filipino,"Bongbong, Pantukan, Davao de Oro",Manila,3-Mar-2020,10-Mar-2020,23-Mar-2020,,,Recovered,Bongbong,Pantukan,Davao de Oro,#N/A,Davao de Oro,
+27-Apr-2020,002,262,46,Male,Filipino,"Cabantian, Davao City",Manila,13-Mar-2020,22-Mar-2020,28-Mar-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
+27-Apr-2020,003,263,45,Female,Filipino,"Cabantian, Davao City",Manila,9-Mar-2020,22-Mar-2020,28-Mar-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
+27-Apr-2020,004,442,28,Male,Filipino,"Vicente Hizon Sr., Sasa, Davao City",Manila,14-Mar-2020,24-Mar-2020,1-Apr-2020,,,Recovered,Vicente Hizon Sr.,Sasa,Davao City,Vicente Hizon Sr.,Davao City,
+27-Apr-2020,005,443,32,Male,Filipino,"Langub, Talomo North, Davao City",Suspected Case,15-Mar-2020,23-Mar-2020,31-Mar-2020,,,Recovered,Langub,Talomo North,Davao City,Langub,Davao City,
+27-Apr-2020,006,707,38,Male,Filipino,"Panacan, Davao City",Other Place (Iligan City),13-Mar-2020,16-Mar-2020,4-Apr-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
+27-Apr-2020,007,762,70,Male,Filipino,"Alfonso Angliongto, Davao City",Manila,11-Mar-2020,15-Mar-2020,28-Mar-2020,,,Recovered,Alfonso Angliongto,Davao City,,Alfonso Angliongto,Davao City,"A. Angliongto Sr., Sasa, Davao City"
+27-Apr-2020,008,919,47,Male,Filipino,"Matina Crossing, Davao City",Matina Gallera,27-Mar-2020,4-Apr-2020,9-Apr-2020,,,Recovered,Matina Crossing,Davao City,,Matina Crossing,Davao City,
+27-Apr-2020,009,1001,52,Male,Filipino,"Buhangin Proper, Davao City",Manila,13-Mar-2020,14-Mar-2020,9-Apr-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,010,1384,23,Female,Filipino,"Matina Pangi, Davao City",Manila,10-Mar-2020,24-Mar-2020,1-Apr-2020,,,Recovered,Matina Pangi,Davao City,,Matina Pangi,Davao City,
+27-Apr-2020,011,1385,30,Female,Filipino,"Communal, Davao City",Suspected Case,25-Mar-2020,25-Mar-2020,8-Apr-2020,,,Recovered,Communal,Davao City,,Communal,Davao City,
+27-Apr-2020,012,1386,68,Male,Filipino,"19-B, Davao City",Matina Gallera,15-Mar-2020,24-Mar-2020,,31-Mar-2020,Coronary Artery Diseas,Dead,19-B,Davao City,,19-B,Davao City,
+27-Apr-2020,013,1387,45,Male,Filipino,"Indangan, Davao City",Matina Gallera,15-Mar-2020,27-Mar-2020,8-Apr-2020,,,Recovered,Indangan,Davao City,,Indangan,Davao City,
+27-Apr-2020,014,1388,39,Male,Filipino,"76-A, Davao City",Manila,21-Mar-2020,22-Mar-2020,2-Apr-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,
+27-Apr-2020,015,1389,43,Male,Filipino,"Buhangin Proper, Davao City",Matina Gallera,10-Mar-2020,27-Mar-2020,8-Apr-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,016,1390,60,Male,Filipino,"Cabantian, Davao City",Matina Gallera,21-Mar-2020,24-Mar-2020,26-Mar-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
+27-Apr-2020,017,1391,64,Male,Filipino,"Bago Gallera, Davao City",Matina Gallera,10-Mar-2020,24-Mar-2020,1-Apr-2020,,,Recovered,Bago Gallera,Davao City,,Bago Gallera,Davao City,
+27-Apr-2020,018,1392,72,Male,Filipino,"Poblacion, Matanao, Davao del Sur",Matina Gallera,21-Mar-2020,24-Mar-2020,8-Apr-2020,,,Recovered,Poblacion,Matanao,Davao del Sur,#N/A,Davao del Sur,
+27-Apr-2020,019,1393,28,Male,Filipino,"Talomo Proper, Davao City",Suspected Case,16-Mar-2020,24-Mar-2020,3-Apr-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+27-Apr-2020,020,1394,54,Male,Filipino,"Toril Proper, Davao City",Matina Gallera,15-Mar-2020,24-Mar-2020,4-Apr-2020,,,Recovered,Toril Proper,Davao City,,Toril Proper,Davao City,"Toril, Davao City"
+27-Apr-2020,021,1395,52,Male,Filipino,"Cabantian, Davao City",Other Place (Zamboanga),22-Mar-2020,29-Mar-2020,1-Apr-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
+27-Apr-2020,022,1396,49,Male,Filipino,"Buhangin Proper, Davao City",Suspected Case,15-Mar-2020,27-Mar-2020,,31-Mar-2020,Chronic Kidney Disease; Hypertension,Dead,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,023,1397,65,Male,Filipino,"76-A, Davao City",Matina Gallera,17-Mar-2020,25-Mar-2020,3-Apr-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,
+27-Apr-2020,024,1398,32,Male,Filipino,"Maa, Davao City",Suspected Case,15-Mar-2020,25-Mar-2020,2-Apr-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,
+27-Apr-2020,025,1399,40,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case (PH1510),15-Mar-2020,21-Mar-2020,31-Mar-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,026,1446,59,Male,Filipino,"9-A, Davao City",Matina Gallera,16-Mar-2020,21-Mar-2020,,23-Mar-2020,,Dead,9-A,Davao City,,9-A,Davao City,
+27-Apr-2020,027,1447,45,Male,Filipino,"Maa, Davao City",Matina Gallera,13-Mar-2020,22-Mar-2020,,23-Mar-2020,,Dead,Maa,Davao City,,Maa,Davao City,
+27-Apr-2020,028,1448,37,Male,Filipino,"Daliao, Davao City",Manila,10-Mar-2020,17-Mar-2020,,20-Mar-2020,,Dead,Daliao,Davao City,,Daliao,Davao City,
+27-Apr-2020,029,1449,53,Male,Filipino,"Wilfredo Aquino, Agdao, Davao City",Matina Gallera,15-Mar-2020,22-Mar-2020,,25-Mar-2020,,Dead,Wilfredo Aquino,Agdao,Davao City,Wilfredo Aquino,Davao City,
+27-Apr-2020,030,1492,31,Male,Filipino,"10-A, Davao City",Manila,8-Mar-2020,2-Apr-2020,8-Apr-2020,,,Recovered,10-A,Davao City,,10-A,Davao City,
+27-Apr-2020,031,1507,37,Male,Filipino,"Zone 1 Poblacion, Digos City, Davao del Sur",Matina Gallera,13-Mar-2020,23-Mar-2020,1-Apr-2020,,,Recovered,Zone 1 Poblacion,Digos City,Davao del Sur,#N/A,Davao del Sur,
+27-Apr-2020,032,1510,42,Male,Filipino,"Buhangin Proper, Davao City",Manila,14-Mar-2020,21-Mar-2020,28-Mar-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,033,1511,52,Male,Filipino,"San Vicente,  Panabo City, Davao del Norte",Manila,4-Mar-2020,31-Mar-2020,8-Apr-2020,,,Recovered,San Vicente, Panabo City,Davao del Norte,#N/A,Davao del Norte,
+27-Apr-2020,034,1512,34,Male,Filipino,"Apokon, Tagum City, Davao del Norte",Matina Gallera,16-Mar-2020,23-Mar-2020,21-Apr-2020,,,Recovered,Apokon,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+27-Apr-2020,035,1514,62,Male,Filipino,"Madang Central, Mati City, Davao Oriental",Manila,10-Mar-2020,23-Mar-2020,3-Apr-2020,,,Recovered,Madang Central,Mati City,Davao Oriental,#N/A,Davao Oriental,
+27-Apr-2020,036,1516,59,Female,Filipino,"Madang Central, Mati City, Davao Oriental",Manila,10-Mar-2020,23-Mar-2020,3-Apr-2020,,,Recovered,Madang Central,Mati City,Davao Oriental,#N/A,Davao Oriental,
+27-Apr-2020,037,1528,69,Male,Filipino,"Buhangin Proper, Davao City",Manila,22-Mar-2020,23-Mar-2020,1-Apr-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,038,1529,31,Male,Filipino,"Indangan, Davao City",Other Place (Graduation),20-Mar-2020,23-Mar-2020,29-Mar-2020,,,Recovered,Indangan,Davao City,,Indangan,Davao City,
+27-Apr-2020,039,1531,51,Male,Filipino,"Cabantian, Davao City",Manila,17-Mar-2020,23-Mar-2020,8-Apr-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
+27-Apr-2020,040,1532,61,Male,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Manila,16-Mar-2020,17-Mar-2020,8-Apr-2020,,,Recovered,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
+27-Apr-2020,041,1534,60,Male,Filipino,"Matina Aplaya, Davao City",Matina Gallera,17-Mar-2020,23-Mar-2020,,30-Mar-2020,,Dead,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
+27-Apr-2020,042,1535,48,Male,Filipino,"Talomo Proper, Davao City",Matina Gallera,16-Mar-2020,23-Mar-2020,11-Apr-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+27-Apr-2020,043,1537,63,Male,Filipino,"12-B, Davao City",Other Place (Wedding),15-Mar-2020,19-Mar-2020,9-Apr-2020,,,Recovered,12-B,Davao City,,12-B,Davao City,
+27-Apr-2020,044,1538,57,Male,Filipino,"Buhangin Proper, Davao City",Manila,19-Mar-2020,20-Mar-2020,1-Apr-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,045,1539,47,Male,Filipino,"Matina Pangi, Davao City",Matina Gallera,15-Mar-2020,24-Mar-2020,,29-Mar-2020,,Dead,Matina Pangi,Davao City,,Matina Pangi,Davao City,
+27-Apr-2020,046,1540,57,Male,Filipino,"Visayan Village, Tagum City, Davao del Norte",Matina Gallera,17-Mar-2020,24-Mar-2020,27-Apr-2020,,,Recovered,Visayan Village,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+27-Apr-2020,047,1665,29,Male,Filipino,"Visayan Village, Tagum City, Davao del Norte",Matina Gallera,17-Mar-2020,24-Mar-2020,2-May-2020,,,Recovered,Visayan Village,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+27-Apr-2020,048,2098,36,Male,Filipino,"19-B, Davao City",Suspected Case,19-Mar-2020,24-Mar-2020,3-Apr-2020,,,Recovered,19-B,Davao City,,19-B,Davao City,
+27-Apr-2020,049,2099,20,Male,Filipino,"14-B, Davao City",Confirmed Case (Ph1540),22-Mar-2020,24-Mar-2020,13-Apr-2020,,,Recovered,14-B,Davao City,,14-B,Davao City,
+27-Apr-2020,050,2101,33,Female,Filipino,"San Miguel, Tagum City, Davao del Norte",Matina Gallera,13-Mar-2020,24-Mar-2020,13-Apr-2020,,,Recovered,San Miguel,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+27-Apr-2020,051,2103,34,Female,Filipino,"9-A, Davao City",Confirmed Case (PH2117),23-Mar-2020,28-Mar-2020,7-Apr-2020,,,Recovered,9-A,Davao City,,9-A,Davao City,
+27-Apr-2020,052,2105,57,Male,Filipino,"Catalunan Grande, Davao City",Suspected Case,20-Mar-2020,27-Mar-2020,,31-Mar-2020,,Dead,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+27-Apr-2020,053,2106,56,Male,Filipino,"Catalunan Grande, Davao City",Matina Gallera,19-Mar-2020,25-Mar-2020,6-Apr-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+27-Apr-2020,054,2115,29,Male,Filipino,"Matina Aplaya, Davao City",Suspected Case,23-Mar-2020,30-Mar-2020,31-Mar-2020,,,Recovered,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
+27-Apr-2020,055,2117,15,Female,Filipino,"9-A, Davao City",Confirmed Case (PH1446),25-Mar-2020,28-Mar-2020,7-Apr-2020,,,Recovered,9-A,Davao City,,9-A,Davao City,
+27-Apr-2020,056,2119,55,Male,Filipino,"19-B, Davao City",Confirmed Case (PH2124),23-Mar-2020,1-Apr-2020,9-Apr-2020,,,Recovered,19-B,Davao City,,19-B,Davao City,
+27-Apr-2020,057,2120,42,Female,Filipino,"Central Poblacion, Mati City, Davao Oriental",Confirmed Case (PH1514 & PH1516),18-Mar-2020,26-Mar-2020,8-Apr-2020,,,Recovered,Central Poblacion,Mati City,Davao Oriental,#N/A,Davao Oriental,
+27-Apr-2020,058,2121,51,Male,Filipino,"Magugpo East, Tagum City, Davao del Norte",Matina Gallera,5-Mar-2020,24-Mar-2020,9-Apr-2020,,,Recovered,Magugpo East,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+27-Apr-2020,059,2124,57,Male,Filipino,"Vicente Hizon Sr., Davao City",Confirmed Case (PH443),18-Mar-2020,27-Mar-2020,11-Apr-2020,,,Recovered,Vicente Hizon Sr.,Davao City,,Vicente Hizon Sr.,Davao City,"V. Hizon Sr., Sasa, Davao City"
+27-Apr-2020,060,2126,47,Female,Filipino,"Catalunan Grande, Davao City",Confirmed Case (PH2124),25-Mar-2020,1-Apr-2020,9-Apr-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+27-Apr-2020,061,2874,29,Female,Filipino,"Tigatto, Davao City",Confirmed Case (PH1385),28-Mar-2020,30-Mar-2020,8-Apr-2020,,,Recovered,Tigatto,Davao City,,Tigatto,Davao City,
+27-Apr-2020,062,2920,61,Female,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Suspected Case,27-Mar-2020,,,1-Apr-2020,"Chronic Kidney Disease, Diabetis Mellitus Type II",Dead,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
+27-Apr-2020,063,3020,56,Female,Filipino,"Talomo Proper, Davao City",Other Place (Singapore),21-Mar-2020,31-Mar-2020,28-Apr-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+27-Apr-2020,064,3024,29,Female,Filipino,"Pampanga, Sasa, Davao City",Suspected Case,15-Mar-2020,1-Apr-2020,9-Apr-2020,,,Recovered,Pampanga,Sasa,Davao City,Pampanga,Davao City,
+27-Apr-2020,065,3032,62,Male,Filipino,"Talomo Proper, Davao City",Other Place,25-Mar-2020,28-Mar-2020,23-Apr-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+27-Apr-2020,066,3036,62,Female,Filipino,"Buhangin Proper, Davao City",Suspected Case,23-Mar-2020,28-Mar-2020,,7-Apr-2020,Diabetis Mellitus Type II,Dead,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,067,3041,57,Male,Filipino,"Sasa, Davao City",Matina Gallera,27-Mar-2020,28-Mar-2020,17-Apr-2020,,,Recovered,Sasa,Davao City,,Sasa,Davao City,
+27-Apr-2020,068,3042,4,Male,Filipino,"9-A, Davao City",Confirmed Case (PH2117),20-Mar-2020,28-Mar-2020,7-Apr-2020,,,Recovered,9-A,Davao City,,9-A,Davao City,
+27-Apr-2020,069,3096,40,Male,Filipino,"Matina Aplaya, Davao City",Confirmed Case (PH2124),27-Mar-2020,3-Apr-2020,15-Apr-2020,,,Recovered,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
+27-Apr-2020,070,3100,14,Male,Filipino,"Visayan Village, Tagum City, Davao del Norte",Matina Gallera,7-Mar-2020,24-Mar-2020,9-Apr-2020,,,Recovered,Visayan Village,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+27-Apr-2020,071,3101,74,Male,Filipino,"Matina Crossing, Davao City",Other Place (Singapore),11-Mar-2020,30-Mar-2020,,1-Apr-2020,,Dead,Matina Crossing,Davao City,,Matina Crossing,Davao City,
+27-Apr-2020,072,3105,33,Male,Filipino,"Madaum, Tagum City, Davao del Norte",Other Place (Maco Gallera),22-Mar-2020,30-Mar-2020,30-Apr-2020,,,Recovered,Madaum,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+27-Apr-2020,073,3106,38,Male,Filipino,"Magugpo East, Tagum City, Davao del Norte",Matina Gallera,12-Mar-2020,24-Mar-2020,27-Apr-2020,,,Recovered,Magugpo East,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+27-Apr-2020,074,3192,29,Male,Filipino,"Buhangin Proper, Davao City",Suspected Case,26-Mar-2020,7-Apr-2020,17-Apr-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,075,3197,31,Female,Filipino,"Buhangin Proper, Davao City",Suspected Case,30-Mar-2020,3-Apr-2020,8-Apr-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,076,3202,25,Female,Filipino,"Bago Gallera, Davao City",Confirmed Case (PH2124),28-Mar-2020,29-Mar-2020,30-Apr-2020,,,Recovered,Bago Gallera,Davao City,,Bago Gallera,Davao City,
+27-Apr-2020,077,3203,28,Female,Filipino,"Gov. Paciano Bangoy, Davao City",Confirmed Case (PH1385),28-Mar-2020,28-Mar-2020,,,,Active,Gov. Paciano Bangoy,Davao City,,Gov. Paciano Bangoy,Davao City,"Paciano Bangoy, Agdao, Davao City"
+27-Apr-2020,078,3666,72,Female,Filipino,"Matina Crossing, Davao City",Confirmed Case (PH2105),2-Apr-2020,2-Apr-2020,18-Apr-2020,,,Recovered,Matina Crossing,Davao City,,Matina Crossing,Davao City,
+27-Apr-2020,079,3667,20,Female,Filipino,"Catalunan Grande, Davao City",Confirmed Case (PH2105),3-Apr-2020,5-Apr-2020,8-May-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+27-Apr-2020,080,3718,9,Male,Filipino,"Catalunan Grande, Davao City",Confirmed Case (PH2126),,8-Apr-2020,16-Apr-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+27-Apr-2020,081,3752,54,Male,Filipino,"Sto. Nino, Davao City",Confirmed Case,,8-Apr-2020,18-Apr-2020,,,Recovered,Sto. Nino,Davao City,,Sto. Nino,Davao City,"Sto. Niño, Tugbok, Davao City"
+27-Apr-2020,082,3768,42,Male,Filipino,"Poblacion, Mawab, Davao de Oro",Matina Gallera,15-Mar-2020,1-Apr-2020,5-May-2020,,,Recovered,Poblacion,Mawab,Davao de Oro,#N/A,Davao de Oro,
+27-Apr-2020,083,3770,24,Female,Filipino,"Catalunan Grande, Davao City",Confirmed Case (PH2124),1-Apr-2020,8-Apr-2020,8-May-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+27-Apr-2020,084,3771,30,Male,Filipino,"Alfonso Angliongto, Davao City",Confirmed Case (PH1385),2-Apr-2020,4-Apr-2020,22-Apr-2020,,,Recovered,Alfonso Angliongto,Davao City,,Alfonso Angliongto,Davao City,"A. Angliongto Sr., Sasa, Davao City"
+27-Apr-2020,085,3874,75,Female,Filipino,"Saloy, Calinan, Davao City",Suspected Case,22-Mar-2020,29-Mar-2020,,4-Apr-2020,t/c Myelofibrosis,Dead,Saloy,Calinan,Davao City,Saloy,Davao City,
+27-Apr-2020,086,3875,60,Male,Filipino,"Buhangin Proper, Davao City",Suspected Case,28-Mar-2020,7-Apr-2020,26-Apr-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,087,3988,57,Male,Filipino,"Bago Gallera, Davao City",Suspected Case,31-Mar-2020,7-Apr-2020,,14-Apr-2020,,Dead,Bago Gallera,Davao City,,Bago Gallera,Davao City,
+27-Apr-2020,088,4938,46,Female,Filipino,"Tacunan, Davao City",Suspected Case,1-Apr-2020,1-Apr-2020,,10-Apr-2020,Breast Cancer,Dead,Tacunan,Davao City,,Tacunan,Davao City,
+27-Apr-2020,089,4939,71,Male,Filipino,"Sto. Nino, Tugbok, Davao City",Suspected Case,23-Mar-2020,9-Apr-2020,29-Apr-2020,,,Recovered,Sto. Nino,Tugbok,Davao City,Sto. Nino,Davao City,"Sto. Niño, Tugbok, Davao City"
+27-Apr-2020,090,4940,15,Female,Filipino,"23-C, Davao City",Unknown Travel and Exposure History,7-Apr-2020,10-Apr-2020,23-Apr-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
+27-Apr-2020,091,5260,50,Male,Filipino,"Daliao, Davao City",Suspected Case,6-Apr-2020,10-Apr-2020,,10-Apr-2020,Chronic Kidney Disease secondary to Hypertensive Kidney Disease,Dead,Daliao,Davao City,,Daliao,Davao City,
+27-Apr-2020,092,5262,27,Female,Filipino,"Buhangin Proper, Davao City",Unknown Travel and Exposure History,10-Apr-2020,11-Apr-2020,8-May-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,093,5263,42,Male,Filipino,"Buhangin Proper, Davao City",Unknown Travel and Exposure History,10-Apr-2020,11-Apr-2020,30-Apr-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,094,5466,46,Female,Filipino,"Baliok, Talomo South, Davao City",Confirmed Case (PH4939),4-Apr-2020,10-Apr-2020,30-Apr-2020,,,Recovered,Baliok,Talomo South,Davao City,Baliok,Davao City,
+27-Apr-2020,095,5489,41,Male,Filipino,"Matina Crossing, Davao City",Confirmed Case,27-Mar-2020,11-Apr-2020,24-Apr-2020,,,Recovered,Matina Crossing,Davao City,,Matina Crossing,Davao City,
+27-Apr-2020,096,5668,51,Female,Filipino,"Talomo Proper, Davao City",Confirmed Case,,11-Apr-2020,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+27-Apr-2020,097,5904,75,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Suspected Case,6-Apr-2020,13-Apr-2020,25-Apr-2020,,,Recovered,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+27-Apr-2020,098,5910,28,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Positive Inside the Health Facility,,13-Apr-2020,4-May-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,099,5913,27,Female,Filipino,"Cabantian, Davao City",Unknown Travel and Exposure History,,12-Apr-2020,26-Apr-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
+27-Apr-2020,100,6341,71,Female,Filipino,"Sto. Nino, Davao City",Confirmed Case (PH4939),13-Apr-2020,14-Apr-2020,,26-Apr-2020,,Dead,Sto. Nino,Davao City,,Sto. Nino,Davao City,"Sto. Niño, Tugbok, Davao City"
+27-Apr-2020,101,6342,35,Male,Filipino,"Sto. Nino, Davao City",Confirmed Case (PH4939),24-Mar-2020,15-Apr-2020,8-May-2020,,,Recovered,Sto. Nino,Davao City,,Sto. Nino,Davao City,"Sto. Niño, Tugbok, Davao City"
+27-Apr-2020,102,6343,41,Female,Filipino,"Maa, Davao City",Suspected Case,13-Apr-2020,14-Apr-2020,2-May-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,
+27-Apr-2020,103,6344,40,Male,Filipino,"19-B, Davao City",Confirmed Case (PH6345),8-Apr-2020,15-Apr-2020,,,,Active,19-B,Davao City,,19-B,Davao City,
+27-Apr-2020,104,6345,82,Male,Filipino,"19-B, Davao City",Confirmed Case (Ph1386),6-Apr-2020,15-Apr-2020,25-Apr-2020,,,Recovered,19-B,Davao City,,19-B,Davao City,
+27-Apr-2020,105,6347,43,Male,Filipino,"Tacunan, Davao City",Suspected Case,16-Mar-2020,14-Apr-2020,,22-Apr-2020,"Severe B24, PCP Infection",Dead,Tacunan,Davao City,,Tacunan,Davao City,
+27-Apr-2020,106,6521,47,Male,Filipino,"21-C, Davao City",Unknown Travel and Exposure History,8-Apr-2020,15-Apr-2020,10-May-2020,,,Recovered,21-C,Davao City,,21-C,Davao City,
+27-Apr-2020,107,6522,41,Female,Filipino,"Daliao, Davao City",Confirmed Case (PH5260),11-Apr-2020,15-Apr-2020,8-May-2020,,,Recovered,Daliao,Davao City,,Daliao,Davao City,
+27-Apr-2020,108,6575,19,Male,Filipino,"Daliao, Davao City",Confirmed Case (PH5260),5-Apr-2020,15-Apr-2020,28-Apr-2020,,,Recovered,Daliao,Davao City,,Daliao,Davao City,
+27-Apr-2020,109,6687,20,Female,Filipino,"Baliok, Talomo South, Davao City",Confirmed Case,,17-Apr-2020,,,,Active,Baliok,Talomo South,Davao City,Baliok,Davao City,
+27-Apr-2020,110,6688,75,Female,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH5904),16-Apr-2020,17-Apr-2020,8-May-2020,,,Recovered,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+27-Apr-2020,111,6689,41,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH5904),,18-Apr-2020,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+27-Apr-2020,112,6690,50,Male,Filipino,"Ilang, Davao City",Matina Gallera,3-Apr-2020,7-Apr-2020,26-Apr-2020,,,Recovered,Ilang,Davao City,,Ilang,Davao City,
+27-Apr-2020,113,6691,0,Female,Filipino,"23-C, Davao City",Unknown Travel and Exposure History,,13-Apr-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+27-Apr-2020,114,6792,31,Male,Filipino,"Buhangin Proper, Davao City",Suspected Case,15-Apr-2020,22-Apr-2020,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,115,7284,67,Male,Filipino,"Tigatto, Davao City",Confirmed Case (PH9474),21-Mar-2020,13-Apr-2020,3-May-2020,,,Recovered,Tigatto,Davao City,,Tigatto,Davao City,
+27-Apr-2020,116,7313,30,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH5904),,25-Apr-2020,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+27-Apr-2020,117,7334,50,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH5904),,25-Apr-2020,8-May-2020,,,Recovered,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+27-Apr-2020,118,7424,47,Male,Filipino,"Daliao, Davao City",Confirmed Case (PH6522),,25-Apr-2020,30-Apr-2020,,,Recovered,Daliao,Davao City,,Daliao,Davao City,
+27-Apr-2020,119,7425,27,Female,Filipino,"23-C, Davao City",Confirmed Case (PH6691),22-Apr-2020,22-Apr-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+27-Apr-2020,120,7459,27,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH5904),,26-Apr-2020,13-May-2020,,,Recovered,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+27-Apr-2020,121,7939,28,Male,Filipino,"Buhangin Proper, Davao City",Confirmed Positive Inside the Health Facility,,26-Apr-2020,6-May-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+27-Apr-2020,122,7941,47,Male,Filipino,"Tigatto, Davao City",Suspected Case,9-Apr-2020,17-Apr-2020,8-May-2020,,,Recovered,Tigatto,Davao City,,Tigatto,Davao City,
+27-Apr-2020,123,7952,59,Female,Filipino,"5-A, Davao City",Unknown Travel and Exposure History,12-Apr-2020,23-Apr-2020,,,,Active,5-A,Davao City,,5-A,Davao City,
+27-Apr-2020,124,7927,49,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH5904),,27-Apr-2020,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+27-Apr-2020,125,7827,49,Female,Filipino,"21-C, Davao City",Confirmed Case (PH6521),,27-Apr-2020,8-May-2020,,,Recovered,21-C,Davao City,,21-C,Davao City,
+27-Apr-2020,126,7948,22,Female,Filipino,"21-C, Davao City",Confirmed Case (PH6521),,27-Apr-2020,,,,Active,21-C,Davao City,,21-C,Davao City,
+28-Apr-2020,127,8191,25,Male,Filipino,"Buhangin Proper, Davao City",Confirmed Case (PH5262),,29-Apr-2020,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+28-Apr-2020,128,8189,3,Male,Filipino,"Tigatto, Davao City",Confirmed Case (PH7284),23-Apr-2020,27-Apr-2020,,,,Active,Tigatto,Davao City,,Tigatto,Davao City,
+28-Apr-2020,129,8195,3,Male,Filipino,"Tigatto, Davao City",Confirmed Case (PH7284),23-Apr-2020,27-Apr-2020,,,,Active,Tigatto,Davao City,,Tigatto,Davao City,
+30-Apr-2020,130,9196,52,Male,Filipino,"Matina Pangi, Davao City",Confirmed Case (PH9953),22-Apr-2020,28-Apr-2020,,28-Apr-2020,Diabetis Mellitus II,Dead,Matina Pangi,Davao City,,Matina Pangi,Davao City,
+30-Apr-2020,131,9051,25,Male,Filipino,"Daliao, Davao City",Confirmed Case (PH5260),22-Apr-2020,30-Apr-2020,,,,Active,Daliao,Davao City,,Daliao,Davao City,
+30-Apr-2020,132,9179,44,Male,Filipino,"Ilang, Davao City",Matina Gallera,,30-Apr-2020,8-May-2020,,,Recovered,Ilang,Davao City,,Ilang,Davao City,
+30-Apr-2020,133,9141,48,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case (PH1396),17-Mar-2020,30-Apr-2020,10-May-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+30-Apr-2020,134,9174,51,Male,Filipino,"Magugpo West, Tagum City, Davao del Norte",Suspected Case,22-Apr-2020,23-Apr-2020,,27-Apr-2020,"Hypertension, Diabetis Mellitus",Dead,Magugpo West,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+30-Apr-2020,135,9168,68,Male,Filipino,"Matina Aplaya, Davao City",Matina Gallera,21-Apr-2020,28-Apr-2020,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
+2-May-2020,136,9108,29,Female,Filipino,"Buhangin Proper, Davao City",Suspected Case,,2-May-2020,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+2-May-2020,137,9195,44,Female,Filipino,"Indangan, Davao City",Confirmed Case (PH7941),,3-May-2020,,,,Active,Indangan,Davao City,,Indangan,Davao City,
+2-May-2020,138,9136,40,Female,Filipino,"9-A, Davao City",Unknown Travel and Exposure History,30-Apr-2020,2-May-2020,8-May-2020,,,Recovered,9-A,Davao City,,9-A,Davao City,
+2-May-2020,139,9190,31,Male,Filipino,"Talomo Proper, Davao City",Unknown Travel and Exposure History,28-Apr-2020,1-May-2020,15-May-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+2-May-2020,140,9176,46,Male,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Unknown Travel and Exposure History,28-Apr-2020,30-Apr-2020,,,,Active,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
+2-May-2020,141,9133,68,Female,Filipino,"19-B, Davao City",Confirmed Case (PH6345),,3-May-2020,,,,Active,19-B,Davao City,,19-B,Davao City,
+3-May-2020,142,9474,35,Male,Filipino,"Tigatto, Davao City",Suspected Case,,3-May-2020,,,,Active,Tigatto,Davao City,,Tigatto,Davao City,
+5-May-2020,143,9971,33,Female,Filipino,"Panacan, Davao City",Unknown Travel and Exposure History,21-Apr-2020,25-Apr-2020,,,,Active,Panacan,Davao City,,Panacan,Davao City,
+5-May-2020,144,9738,0,Female,Filipino,"Panacan, Davao City",Unknown Travel and Exposure History,27-Apr-2020,30-Apr-2020,,,,Active,Panacan,Davao City,,Panacan,Davao City,
+5-May-2020,145,9686,30,Male,Filipino,"Catalunan Grande, Davao City",Suspected Case,,5-May-2020,,,,Active,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+5-May-2020,146,9927,65,Female,Filipino,"Bolila, Malita, Davao Occidental",Unknown Travel and Exposure History,16-Mar-2020,2-May-2020,,4-May-2020,,Dead,Bolila,Malita,Davao Occidental,#N/A,Davao Occidental,
+5-May-2020,147,9936,29,Female,Filipino,"Gov. Paciano Bangoy, Davao City",Suspected Case,,5-May-2020,,,,Active,Gov. Paciano Bangoy,Davao City,,Gov. Paciano Bangoy,Davao City,"Paciano Bangoy, Agdao, Davao City"
+5-May-2020,148,9934,6,Female,Filipino,"San Isidro (Licanan), Davao City",Suspected Case,,2-May-2020,,,,Active,San Isidro (Licanan),Davao City,,San Isidro (Licanan),Davao City,"San Isidro, Bunawan, Davao City"
+5-May-2020,149,9794,21,Female,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Confirmed Case (Ph9176),30-Apr-2020,2-May-2020,,,,Active,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
+5-May-2020,150,9725,18,Male,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Confirmed Case (Ph9176),1-May-2020,2-May-2020,,,,Active,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
+5-May-2020,151,9734,47,Female,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Confirmed Case (Ph9176),25-Apr-2020,2-May-2020,,,,Active,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
+5-May-2020,152,9928,53,Female,Filipino,"Matina Pangi, Davao City",Confirmed Case (PH9196),,2-May-2020,,,,Active,Matina Pangi,Davao City,,Matina Pangi,Davao City,
+5-May-2020,153,9953,35,Male,Filipino,"Matina Pangi, Davao City",Matina Gallera,,2-May-2020,,,,Active,Matina Pangi,Davao City,,Matina Pangi,Davao City,
+5-May-2020,154,9797,13,Male,Filipino,"19-B, Davao City",Confirmed Case (PH6345),,,,,,Active,19-B,Davao City,,19-B,Davao City,
+6-May-2020,155,10224,30,Female,Filipino,"23-C, Davao City",Confirmed Case,,4-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+6-May-2020,156,10229,30,Male,Filipino,"Talomo Proper, Davao City",Confirmed Positive Inside the Health Facility,,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+6-May-2020,157,10216,45,Male,Filipino,"5-A, Davao City",Unknown Travel and Exposure History,3-May-2020,4-May-2020,,,,Active,5-A,Davao City,,5-A,Davao City,
+6-May-2020,158,10056,53,Male,Filipino,"Panacan, Davao City",Ongoing Investigation,1-May-2020,2-May-2020,,,,Active,Panacan,Davao City,,Panacan,Davao City,
+6-May-2020,159,10140,0,Male,Filipino,"Mabuhay, Paquibato, Davao City",Ongoing Investigation,29-Apr-2020,2-May-2020,,,,Active,Mabuhay,Paquibato,Davao City,Mabuhay,Davao City,
+6-May-2020,160,10256,44,Male,Filipino,"Catalunan Pequeno, Davao City",Ongoing Investigation,1-Apr-2020,2-May-2020,,,,Active,Catalunan Pequeno,Davao City,,Catalunan Pequeno,Davao City,"Catalunan Pequeño, Davao City"
+7-May-2020,161,10383,32,Female,Filipino,"Buhangin Proper, Davao City",Suspected Case,,6-May-2020,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+8-May-2020,162,10567,51,Male,Filipino,"76-A, Davao City",Ongoing Investigation,30-Apr-2020,3-May-2020,,11-May-2020,,Dead,76-A,Davao City,,76-A,Davao City,
+8-May-2020,163,10606,39,Male,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,9-May-2020,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+8-May-2020,164,10579,19,Male,Filipino,"23-C, Davao City",Confirmed Case,,9-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+8-May-2020,165,10483,18,Male,Filipino,"23-C, Davao City",Confirmed Case,,9-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+8-May-2020,166,10467,38,Male,Filipino,"23-C, Davao City",Confirmed Case,,9-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+8-May-2020,167,10528,28,Female,Filipino,"23-C, Davao City",Confirmed Case,,9-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+8-May-2020,168,10593,35,Female,Filipino,"23-C, Davao City",Confirmed Case,,9-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+8-May-2020,169,10466,20,Male,Filipino,"23-C, Davao City",Confirmed Case,,9-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+8-May-2020,170,10540,40,Male,Filipino,"21-C, Davao City",Confirmed Case,,9-May-2020,,,,Active,21-C,Davao City,,21-C,Davao City,
+9-May-2020,171,11736,25,Male,Filipino,"23-C, Davao City",Unknown Travel and Exposure History,6-May-2020,7-May-2020,,9-May-2020,,Dead,23-C,Davao City,,23-C,Davao City,
+9-May-2020,172,11764,50,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,9-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+9-May-2020,173,11788,39,Female,Filipino,"5-A, Davao City",Confirmed Case,,6-May-2020,,,,Active,5-A,Davao City,,5-A,Davao City,
+9-May-2020,174,11688,14,Female,Filipino,"5-A, Davao City",Confirmed Case,,6-May-2020,,,,Active,5-A,Davao City,,5-A,Davao City,
+9-May-2020,175,11687,15,Female,Filipino,"5-A, Davao City",Confirmed Case,,6-May-2020,,,,Active,5-A,Davao City,,5-A,Davao City,
+9-May-2020,176,11860,28,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,10-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
+9-May-2020,177,11808,30,Male,Filipino,"Maa, Davao City",Confirmed Case,,6-May-2020,,,,Active,Maa,Davao City,,Maa,Davao City,
+14-May-2020,178,12076,44,Female,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH9176),,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+14-May-2020,179,11962,37,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH9176),,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+14-May-2020,180,11961,39,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH9176),,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+14-May-2020,181,11950,24,Female,Filipino,"76-A, Davao City",Ongoing Investigation,8-May-2020,12-May-2020,,,,Active,76-A,Davao City,,76-A,Davao City,
+14-May-2020,182,12077,12,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (PH9176),,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+14-May-2020,183,11974,54,Female,Filipino,"Talomo Proper, Davao City",Confirmed Case,,13-May-2020,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+14-May-2020,184,12039,44,Male,Filipino,"Bago Oshiro, Tugbok, Davao City",Ongoing Investigation,,12-May-2020,,,,Active,Bago Oshiro,Tugbok,Davao City,Bago Oshiro,Davao City,
+14-May-2020,185,11931,47,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,,12-May-2020,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+14-May-2020,186,12032,22,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,11-May-2020,12-May-2020,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin Poblacion, Davao City"
+14-May-2020,187,11928,28,Female,Filipino,"Leon Garcia Sr., Agdao, Davao City",Ongoing Investigation,,8-May-2020,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+14-May-2020,188,12023,36,Female,Filipino,"Matina Aplaya, Davao City",Ongoing Investigation,11-May-2020,12-May-2020,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
+14-May-2020,189,1197,36,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Ongoing Investigation,29-Apr-2020,11-May-2020,,13-May-2020,,Dead,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+15-May-2020,190,,53,Male,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Confirmed Case (PH1532),,,,,,Active,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
+15-May-2020,191,,15,Male,Filipino,"5-A, Davao City",Confirmed Case (PH10216),,,,,,Active,5-A,Davao City,,5-A,Davao City,
+15-May-2020,192,,26,Male,Filipino,"Crossing Bayabas, Toril A, Davao City",Ongoing Investigation,16-Mar-2020,,,,,Active,Crossing Bayabas,Toril A,Davao City,Crossing Bayabas,Davao City,
+15-May-2020,193,,10,Female,Filipino,"Adecor Kaputian, IGACOS, Davao Del Norte",Ongoing Investigation,12-May-2020,13-May-2020,,14-May-2020,,Dead,Adecor Kaputian,IGACOS,Davao Del Norte,#N/A,Davao Del Norte,
+15-May-2020,194,,26,Female,Filipino,"x, Davao del Norte",Ongoing Investigation,12-May-2020,,,,,Active,x,Davao del Norte,,#N/A,Davao del Norte,
+15-May-2020,195,,32,Female,Filipino,"x, Davao del Norte",Suspected Case,,,,,,Active,x,Davao del Norte,,#N/A,Davao del Norte,
+15-May-2020,196,,63,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,11-May-2020,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+15-May-2020,197,,52,Female,Filipino,"Peñaplata, IGACOS, Davao del Norte",Ongoing Investigation,29-Apr-2020,13-May-2020,,,,Active,Peñaplata,IGACOS,Davao del Norte,#N/A,Davao del Norte,
+16-May-2020,198,,,,,"x, Davao City",,,,,,,Active,x,Davao City,,#N/A,Davao City,
+17-May-2020,199,,29,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Positive Inside the Health Facility,20-Mar-2020,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin,Davao City"
+17-May-2020,200,,28,Female,Filipino,"Buhangin Proper, Davao City",Suspected Case,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin,Davao City"
+18-May-2020,201,,24,Male,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,202,,25,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,203,,65,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,204,,34,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,205,,55,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,206,,22,Male,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,207,,45,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,208,,55,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,209,,22,Male,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,210,,30,Male,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,211,,53,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,212,,29,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,213,,19,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,214,,30,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+18-May-2020,215,,30,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
