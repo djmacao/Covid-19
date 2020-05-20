@@ -142,7 +142,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 2-May-2020,141,9133,68,Female,Filipino,"19-B, Davao City",Confirmed Case (PH6345),,3-May-2020,,,,Active,19-B,Davao City,,19-B,Davao City,
 3-May-2020,142,9474,35,Male,Filipino,"Tigatto, Davao City",Suspected Case,,3-May-2020,,,,Active,Tigatto,Davao City,,Tigatto,Davao City,
 5-May-2020,143,9971,33,Female,Filipino,"Panacan, Davao City",Unknown Travel and Exposure History,21-Apr-2020,25-Apr-2020,,,,Active,Panacan,Davao City,,Panacan,Davao City,
-5-May-2020,144,9738,0,Female,Filipino,"Panacan, Davao City",Unknown Travel and Exposure History,27-Apr-2020,30-Apr-2020,,,,Active,Panacan,Davao City,,Panacan,Davao City,
+5-May-2020,144,9738,0,Female,Filipino,"Panacan, Davao City",Unknown Travel and Exposure History,27-Apr-2020,30-Apr-2020,20-May-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 5-May-2020,145,9686,30,Male,Filipino,"Catalunan Grande, Davao City",Suspected Case,,5-May-2020,19-May-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
 5-May-2020,146,9927,65,Female,Filipino,"Bolila, Malita, Davao Occidental",Unknown Travel and Exposure History,16-Mar-2020,2-May-2020,,4-May-2020,,Dead,Bolila,Malita,Davao Occidental,#N/A,Davao Occidental,
 5-May-2020,147,9936,29,Female,Filipino,"Gov. Paciano Bangoy, Davao City",Suspected Case,,5-May-2020,,,,Active,Gov. Paciano Bangoy,Davao City,,Gov. Paciano Bangoy,Davao City,"Paciano Bangoy, Agdao, Davao City"
@@ -155,8 +155,8 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 5-May-2020,154,9797,13,Male,Filipino,"19-B, Davao City",Confirmed Case (PH6345),,,,,,Active,19-B,Davao City,,19-B,Davao City,
 6-May-2020,155,10224,30,Female,Filipino,"23-C, Davao City",Confirmed Case,,4-May-2020,,,,Active,23-C,Davao City,,23-C,Davao City,
 6-May-2020,156,10229,30,Male,Filipino,"Talomo Proper, Davao City",Confirmed Positive Inside the Health Facility,,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
-6-May-2020,157,10216,45,Male,Filipino,"5-A, Davao City",Unknown Travel and Exposure History,3-May-2020,4-May-2020,,,,Active,5-A,Davao City,,5-A,Davao City,
-6-May-2020,158,10056,53,Male,Filipino,"Panacan, Davao City",Ongoing Investigation,1-May-2020,2-May-2020,,,,Active,Panacan,Davao City,,Panacan,Davao City,
+6-May-2020,157,10216,45,Male,Filipino,"5-A, Davao City",Unknown Travel and Exposure History,3-May-2020,4-May-2020,20-May-2020,,,Recovered,5-A,Davao City,,5-A,Davao City,
+6-May-2020,158,10056,53,Male,Filipino,"Panacan, Davao City",Unknown Travel and Exposure History,1-May-2020,2-May-2020,20-May-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 6-May-2020,159,10140,0,Male,Filipino,"Mabuhay, Paquibato, Davao City",Ongoing Investigation,29-Apr-2020,2-May-2020,,,,Active,Mabuhay,Paquibato,Davao City,Mabuhay,Davao City,
 6-May-2020,160,10256,44,Male,Filipino,"Catalunan Pequeno, Davao City",Ongoing Investigation,1-Apr-2020,2-May-2020,,,,Active,Catalunan Pequeno,Davao City,,Catalunan Pequeno,Davao City,"Catalunan Pequeño, Davao City"
 7-May-2020,161,10383,32,Female,Filipino,"Buhangin Proper, Davao City",Suspected Case,,6-May-2020,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"

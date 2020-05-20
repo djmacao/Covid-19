@@ -5,7 +5,7 @@ barangay,active,dead,recovered,totalcases
 19-B,3,1,3,7
 21-C,2,0,2,4
 23-C,25,1,3,29
-5-A,6,0,0,6
+5-A,5,0,1,6
 76-A,1,1,2,4
 9-A,0,1,4,5
 Agdao Proper,2,0,0,2
@@ -32,7 +32,7 @@ Matina Aplaya,2,1,2,5
 Matina Crossing,1,1,3,5
 Matina Pangi,2,2,1,5
 Pampanga,0,0,1,1
-Panacan,3,0,1,4
+Panacan,1,0,3,4
 Saloy,0,1,0,1
 San Isidro (Licanan),1,0,0,1
 Sasa,0,0,1,1
