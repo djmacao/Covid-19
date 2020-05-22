@@ -193,7 +193,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 15-May-2020,192,,26,Male,Filipino,"Crossing Bayabas, Toril A, Davao City",Ongoing Investigation,16-Mar-2020,,,,,Active,Crossing Bayabas,Toril A,Davao City,Crossing Bayabas,Davao City,
 15-May-2020,193,,10,Female,Filipino,"Adecor Kaputian, IGACOS, Davao Del Norte",Ongoing Investigation,12-May-2020,13-May-2020,,14-May-2020,,Dead,Adecor Kaputian,IGACOS,Davao Del Norte,#N/A,Davao Del Norte,
 15-May-2020,194,,26,Female,Filipino,"x, Davao del Norte",Ongoing Investigation,12-May-2020,,,,,Active,x,Davao del Norte,,#N/A,Davao del Norte,
-15-May-2020,195,,32,Female,Filipino,"x, Davao del Norte",Suspected Case,,,,,,Active,x,Davao del Norte,,#N/A,Davao del Norte,
+15-May-2020,195,5910,32,Female,Filipino,"Miranda Babak, IGACOS, Davao Del Norte",Suspected Case,,13-May-2020,22-May-2020,,,Recovered,Miranda Babak,IGACOS,Davao Del Norte,#N/A,Davao Del Norte,
 15-May-2020,196,,63,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,11-May-2020,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
 15-May-2020,197,,52,Female,Filipino,"Peñaplata, IGACOS, Davao del Norte",Ongoing Investigation,29-Apr-2020,13-May-2020,,,,Active,Peñaplata,IGACOS,Davao del Norte,#N/A,Davao del Norte,
 16-May-2020,198,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
@@ -234,3 +234,8 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 21-May-2020,233,,5,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case [PH11928 (DR187)],,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
 21-May-2020,234,,41,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Ongoing Investigation,,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
 21-May-2020,235,,23,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Ongoing Investigation,,18-May-2020,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+22-May-2020,236,,44,Male,Filipino,"Catalunan Grande, Davao City",Ongoing Investigation,,,,,,Active,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+22-May-2020,237,,9,Female,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case [PH11928 (DR187)],,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+22-May-2020,238,,57,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case [PH11928 (DR187)],,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+22-May-2020,239,,19,Female,Filipino,"Leon Garcia Sr., Agdao, Davao City",Ongoing Investigation,,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+22-May-2020,240,,32,Female,Filipino,"Talomo Proper, Davao City",Confirmed Positive Inside the Health Facility,,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
