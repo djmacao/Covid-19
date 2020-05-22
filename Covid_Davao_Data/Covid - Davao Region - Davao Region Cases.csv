@@ -196,7 +196,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 15-May-2020,195,,32,Female,Filipino,"x, Davao del Norte",Suspected Case,,,,,,Active,x,Davao del Norte,,#N/A,Davao del Norte,
 15-May-2020,196,,63,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,11-May-2020,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
 15-May-2020,197,,52,Female,Filipino,"Peñaplata, IGACOS, Davao del Norte",Ongoing Investigation,29-Apr-2020,13-May-2020,,,,Active,Peñaplata,IGACOS,Davao del Norte,#N/A,Davao del Norte,
-16-May-2020,198,,,,,"x, Davao City",,,,,,,Active,x,Davao City,,#N/A,Davao City,
+16-May-2020,198,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
 17-May-2020,199,,29,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Positive Inside the Health Facility,20-Mar-2020,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin,Davao City"
 17-May-2020,200,,28,Female,Filipino,"Buhangin Proper, Davao City",Suspected Case,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin,Davao City"
 18-May-2020,201,,24,Male,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
@@ -221,3 +221,16 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 19-May-2020,220,,28,Male,Filipino,"Agdao Proper, Davao City",Ongoing Investigation,,,,,,Active,Agdao Proper,Davao City,,Agdao Proper,Davao City,
 19-May-2020,221,,18,Female,Filipino,"Leon Garcia Sr., Agdao, Davao City",Ongoing Investigation,,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
 19-May-2020,222,,29,Male,Filipino,"Matina Crossing, Davao City",Suspected Case,,,,,,Active,Matina Crossing,Davao City,,Matina Crossing,Davao City,
+21-May-2020,223,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,224,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,225,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,226,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,227,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,228,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,229,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,230,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,231,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,232,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,233,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,234,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-May-2020,235,,99,Unknown,,"Unknown, Davao City",,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
