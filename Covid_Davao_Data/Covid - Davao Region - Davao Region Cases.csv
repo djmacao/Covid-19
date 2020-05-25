@@ -146,7 +146,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 5-May-2020,145,9686,30,Male,Filipino,"Catalunan Grande, Davao City",Suspected Case,,5-May-2020,19-May-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
 5-May-2020,146,9927,65,Female,Filipino,"Bolila, Malita, Davao Occidental",Unknown Travel and Exposure History,16-Mar-2020,2-May-2020,,4-May-2020,,Dead,Bolila,Malita,Davao Occidental,#N/A,Davao Occidental,
 5-May-2020,147,9936,29,Female,Filipino,"Gov. Paciano Bangoy, Davao City",Suspected Case,,5-May-2020,,,,Active,Gov. Paciano Bangoy,Davao City,,Gov. Paciano Bangoy,Davao City,"Paciano Bangoy, Agdao, Davao City"
-5-May-2020,148,9934,6,Female,Filipino,"San Isidro (Licanan), Davao City",Suspected Case,,2-May-2020,,,,Active,San Isidro (Licanan),Davao City,,San Isidro (Licanan),Davao City,"San Isidro, Bunawan, Davao City"
+5-May-2020,148,9934,6,Female,Filipino,"San Isidro (Licanan), Davao City",Suspected Case,,2-May-2020,25-May-2020,,,Recovered,San Isidro (Licanan),Davao City,,San Isidro (Licanan),Davao City,"San Isidro, Bunawan, Davao City"
 5-May-2020,149,9794,21,Female,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Confirmed Case (Ph9176),30-Apr-2020,2-May-2020,,,,Active,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
 5-May-2020,150,9725,18,Male,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Confirmed Case (Ph9176),1-May-2020,2-May-2020,,,,Active,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
 5-May-2020,151,9734,47,Female,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Confirmed Case (Ph9176),25-Apr-2020,2-May-2020,,,,Active,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
@@ -196,9 +196,9 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 15-May-2020,195,5910,32,Female,Filipino,"Miranda Babak, IGACOS, Davao del Norte",Suspected Case,,13-May-2020,22-May-2020,,,Recovered,Miranda Babak,IGACOS,Davao del Norte,#N/A,Davao del Norte,
 15-May-2020,196,,63,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,11-May-2020,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
 15-May-2020,197,,52,Female,Filipino,"Peñaplata, IGACOS, Davao del Norte",Ongoing Investigation,29-Apr-2020,13-May-2020,,,,Active,Peñaplata,IGACOS,Davao del Norte,#N/A,Davao del Norte,
-16-May-2020,198,,53,Female,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
-17-May-2020,199,,29,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Positive Inside the Health Facility,20-Mar-2020,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin,Davao City"
-17-May-2020,200,,28,Female,Filipino,"Buhangin Proper, Davao City",Suspected Case,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin,Davao City"
+16-May-2020,198,,53,Female,Filipino,"Talomo Proper, Davao City",Unknown Travel and Exposure History,,,25-May-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+17-May-2020,199,,29,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Positive Inside the Health Facility,20-Mar-2020,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+17-May-2020,200,,28,Female,Filipino,"Buhangin Proper, Davao City",Suspected Case,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 18-May-2020,201,,24,Male,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
 18-May-2020,202,,25,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
 18-May-2020,203,,65,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
@@ -215,7 +215,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 18-May-2020,214,,30,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
 18-May-2020,215,,30,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
 19-May-2020,216,,78,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Ongoing Investigation,,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
-19-May-2020,217,,3,Female,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin,Davao City"
+19-May-2020,217,,3,Female,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 19-May-2020,218,,12,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
 19-May-2020,219,,34,Male,Filipino,"Agdao Proper, Davao City",Ongoing Investigation,,,,,,Active,Agdao Proper,Davao City,,Agdao Proper,Davao City,
 19-May-2020,220,,28,Male,Filipino,"Agdao Proper, Davao City",Ongoing Investigation,,,,,,Active,Agdao Proper,Davao City,,Agdao Proper,Davao City,
@@ -239,7 +239,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 22-May-2020,238,,57,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case [PH11928 (DR187)],,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
 22-May-2020,239,,19,Female,Filipino,"Leon Garcia Sr., Agdao, Davao City",Ongoing Investigation,,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
 22-May-2020,240,,32,Female,Filipino,"Talomo Proper, Davao City",Confirmed Positive Inside the Health Facility,,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
-23-May-2020,241,,32,Male,Filipino,"25-C, Davao City",Ongoing Investigation,,,,,,Active,25-C,Davao City,,25-C,Davao City,
+23-May-2020,241,,32,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 23-May-2020,242,,37,Female,Filipino,"Communal, Davao City",Ongoing Investigation,21-May-2020,,,,,Active,Communal,Davao City,,Communal,Davao City,
 23-May-2020,243,,8,Male,Filipino,"19-B, Davao City",Ongoing Investigation,20-May-2020,,,,,Active,19-B,Davao City,,19-B,Davao City,
 23-May-2020,244,,24,Female,Filipino,"Agdao Proper, Davao City",Confirmed Case (DR-232),,,,,,Active,Agdao Proper,Davao City,,Agdao Proper,Davao City,
@@ -247,3 +247,8 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 23-May-2020,246,,46,Female,Filipino,"22-C, Davao City",Ongoing Investigation,19-May-2020,,,,,Active,22-C,Davao City,,22-C,Davao City,
 23-May-2020,247,,22,Female,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case (DR-232),,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
 23-May-2020,248,,79,Female,Filipino,"Leon Garcia Sr., Agdao, Davao City",Ongoing Investigation,,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+24-May-2020,249,,30,Female,Filipino,"Cabantian, Davao City",Ongoing Investigation,,,,,,Active,Cabantian,Davao City,,Cabantian,Davao City,
+24-May-2020,250,,42,Female,Filipino,"23-C, Davao City",Confirmed Case (DR-218),,,,,,Active,23-C,Davao City,,23-C,Davao City,
+24-May-2020,251,,45,Male,Filipino,"23-C, Davao City",Confirmed Case (DR-218),,,,,,Active,23-C,Davao City,,23-C,Davao City,
+25-May-2020,252,,22,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+25-May-2020,253,,34,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,Active,23-C,Davao City,,23-C,Davao City,
