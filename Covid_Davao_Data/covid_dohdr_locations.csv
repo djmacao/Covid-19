@@ -1,46 +1,47 @@
-barangay,active,dead,recovered,totalcases
-10-A,0,0,1,1
-12-B,0,0,1,1
-14-B,0,0,1,1
-19-B,2,1,4,7
-21-C,2,0,2,4
-23-C,25,1,3,29
-5-A,5,0,1,6
-76-A,1,1,2,4
-9-A,0,1,4,5
-Agdao Proper,3,0,0,3
-Alfonso Angliongto,0,0,2,2
-Bago Gallera,0,1,2,3
-Bago Oshiro,1,0,0,1
-Baliok,1,0,1,2
-Buhangin Proper,7,2,16,25
-Cabantian,0,0,6,6
-Catalunan Grande,1,1,6,8
-Catalunan Pequeno,1,0,0,1
-Communal,0,0,1,1
-Crossing Bayabas,1,0,0,1
-Daliao,1,2,3,6
-Gov. Paciano Bangoy,2,0,0,2
-Gov. Vicente Duterte,5,1,1,7
-Ilang,0,0,2,2
-Indangan,0,0,3,3
-Langub,0,0,1,1
-Leon Garcia Sr.,25,1,4,30
-Maa,1,1,2,4
-Mabuhay,1,0,0,1
-Matina Aplaya,2,1,2,5
-Matina Crossing,1,1,3,5
-Matina Pangi,1,2,2,5
-Pampanga,0,0,1,1
-Panacan,1,0,3,4
-Saloy,0,1,0,1
-San Isidro (Licanan),1,0,0,1
-Sasa,0,0,1,1
-Sto. Nino,0,1,3,4
-Tacunan,0,2,0,2
-Talomo Proper,6,0,5,11
-Tigatto,3,0,3,6
-Toril Proper,0,0,1,1
-Unknown,1,0,0,1
-Vicente Hizon Sr.,0,0,2,2
-Wilfredo Aquino,0,1,0,1
+barangay,active,dead,recovered,totalcases,2015_pop
+10-A,0,0,1,1,"6,764"
+12-B,0,0,1,1,840
+14-B,0,0,1,1,"1,175"
+19-B,3,1,4,8,"31,766"
+21-C,2,0,2,4,"7,478"
+22-C,1,0,0,1,"6,634"
+23-C,25,1,3,29,"16,489"
+25-C,1,0,0,1,"1,967"
+5-A,5,0,1,6,"11,436"
+76-A,1,1,2,4,
+9-A,0,1,4,5,"5,698"
+Agdao Proper,5,0,0,5,"8,897"
+Alfonso Angliongto Sr.,0,0,2,2,"13,539"
+Bago Gallera,0,1,2,3,"17,378"
+Bago Oshiro,1,0,0,1,"11,932"
+Baliok,1,0,1,2,"16,140"
+Buhangin Proper,7,2,16,25,"65,461"
+Cabantian,0,0,6,6,"43,758"
+Catalunan Grande,1,1,6,8,"32,461"
+Communal,1,0,1,2,"16,740"
+Crossing Bayabas,1,0,0,1,"11,490"
+Daliao,1,2,3,6,"21,124"
+Gov. Paciano Bangoy,2,0,0,2,"8,816"
+Gov. Vicente Duterte,5,1,1,7,"8,904"
+Ilang,0,0,2,2,"24,947"
+Indangan,0,0,3,3,"14,867"
+Langub,0,0,1,1,"2,883"
+Leon Garcia Sr.,27,1,4,32,"13,652"
+Maa,1,1,2,4,"59,803"
+Mabuhay,1,0,0,1,"1,062"
+Matina Aplaya,2,1,2,5,"33,384"
+Matina Crossing,1,1,3,5,"32,436"
+Matina Pangi,1,2,2,5,"18,081"
+Pampanga,0,0,1,1,"14,381"
+Panacan,1,0,3,4,"35,806"
+Saloy,0,1,0,1,"2,112"
+San Isidro (Licanan),1,0,0,1,"5,333"
+Sasa,0,0,1,1,"52,386"
+Sto. Niño,0,1,3,4,"20,103"
+Tacunan,0,2,0,2,"12,773"
+Talomo Proper,6,0,5,11,"59,678"
+Tigatto,3,0,3,6,"36,387"
+Toril Proper,0,0,1,1,"12,140"
+Unknown,1,0,0,1,
+Vicente Hizon Sr.,0,0,2,2,"11,265"
+Wilfredo Aquino,0,1,0,1,"9,903"
