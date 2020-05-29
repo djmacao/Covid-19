@@ -1,0 +1,35 @@
+{
+    "testing": {
+        "reportdate": "May-28-2020",
+        "remaining_available_tests": 25637,
+        "cumulative_samples_tested": 9457,
+        "cumulative_unique_individuals": 7643,
+        "cumulative_positive_individuals": 323,
+        "cumulative_negative_individuals": 7320,
+        "pct_positive_cumulative": "4.23%",
+        "pct_negative_cumulative": "95.77%"
+    },
+    "facility": {
+        "reportdate": "May-28-2020",
+        "icu_v": 11,
+        "icu_o": 19,
+        "isolbed_v": 35,
+        "isolbed_o": 74,
+        "beds_ward_v": 23,
+        "beds_ward_o": 31,
+        "mechvent_v": 35,
+        "mechvent_o": 6
+    },
+    "ppe": {
+        "reportdate": "May-28-2020",
+        "gown": 0,
+        "gloves": 1372,
+        "head_cover": 831400,
+        "goggles": 1217,
+        "coverall": 2116,
+        "shoe_cover": 17950,
+        "face_shield": 5299,
+        "surgmask": 491882,
+        "n95mask": 59969
+    }
+}
