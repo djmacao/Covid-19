@@ -1,24 +1,24 @@
 date,barangay,pum,pui,activecase,pum_y,pui_y,activecase_y,pum_d,pui_d,activecase_d
-Jun-07,Apokon,28,0,0,28,1,0,0,-1,0
-Jun-07,Bincungan,2,0,0,2,0,0,0,0,0
-Jun-07,Busaon,1,0,0,1,0,0,0,0,0
-Jun-07,Canocotan,4,0,0,3,0,0,1,0,0
-Jun-07,Cuambogan,4,0,0,4,0,0,0,0,0
-Jun-07,La Filipina,7,0,0,5,0,0,2,0,0
-Jun-07,Liboganon,1,0,0,1,0,0,0,0,0
-Jun-07,Madaum,6,0,0,6,0,0,0,0,0
-Jun-07,Magdum,4,0,0,4,0,0,0,0,0
-Jun-07,Magugpo East,9,0,0,9,0,0,0,0,0
-Jun-07,Magugpo North,9,0,0,8,0,0,1,0,0
-Jun-07,Magugpo Poblacion,3,0,0,3,0,0,0,0,0
-Jun-07,Magugpo South,6,0,0,5,0,0,1,0,0
-Jun-07,Magugpo West,6,0,1,7,0,0,-1,0,1
-Jun-07,Mankilam,8,0,0,8,0,0,0,0,0
-Jun-07,New Balamban,1,0,0,1,0,0,0,0,0
-Jun-07,Nueva Fuerza,0,0,0,0,0,0,0,0,0
-Jun-07,Pagsabangan,0,0,0,0,0,0,0,0,0
-Jun-07,Pandapan,6,0,0,6,0,0,0,0,0
-Jun-07,San Agustin,0,0,0,0,0,0,0,0,0
-Jun-07,San Isidro,3,0,0,2,0,0,1,0,0
-Jun-07,San Miguel,15,0,0,15,0,0,0,0,0
-Jun-07,Visayan Village,18,0,2,18,0,1,0,0,1
+Jun-10,Apokon,21,0,0,28,0,0,-7,0,0
+Jun-10,Bincungan,0,1,0,2,0,0,-2,1,0
+Jun-10,Busaon,2,0,0,1,0,0,1,0,0
+Jun-10,Canocotan,5,0,0,4,0,0,1,0,0
+Jun-10,Cuambogan,12,0,0,4,0,0,8,0,0
+Jun-10,La Filipina,22,0,0,7,0,0,15,0,0
+Jun-10,Liboganon,1,0,0,1,0,0,0,0,0
+Jun-10,Madaum,17,0,0,6,0,0,11,0,0
+Jun-10,Magdum,3,0,0,4,0,0,-1,0,0
+Jun-10,Magugpo East,6,0,0,9,0,0,-3,0,0
+Jun-10,Magugpo North,5,0,0,9,0,0,-4,0,0
+Jun-10,Magugpo Poblacion,3,0,0,3,0,0,0,0,0
+Jun-10,Magugpo South,10,0,0,6,0,0,4,0,0
+Jun-10,Magugpo West,7,0,1,6,0,1,1,0,0
+Jun-10,Mankilam,15,0,0,8,0,0,7,0,0
+Jun-10,New Balamban,0,0,0,1,0,0,-1,0,0
+Jun-10,Nueva Fuerza,0,0,0,0,0,0,0,0,0
+Jun-10,Pagsabangan,0,0,0,0,0,0,0,0,0
+Jun-10,Pandapan,10,0,0,6,0,0,4,0,0
+Jun-10,San Agustin,0,0,0,0,0,0,0,0,0
+Jun-10,San Isidro,4,0,0,3,0,0,1,0,0
+Jun-10,San Miguel,9,0,0,15,0,0,-6,0,0
+Jun-10,Visayan Village,26,0,2,18,0,2,8,0,0
