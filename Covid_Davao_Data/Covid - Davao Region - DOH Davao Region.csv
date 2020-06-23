@@ -390,7 +390,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 10-Jun-2020,389,,67,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,Asymptomatic,11-Jun-2020,16-Jun-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
 10-Jun-2020,390,,51,Female,Filipino,"22-C, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,22-C,Davao City,,22-C,Davao City,
 10-Jun-2020,391,,19,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
-10-Jun-2020,392,,36,Male,Filipino,"22-C, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,22-C,Davao City,,22-C,Davao City,
+10-Jun-2020,392,,36,Male,Filipino,"22-C, Davao City",Confirmed Case,,Asymptomatic,11-Jun-2020,23-Jun-2020,,,Recovered,22-C,Davao City,,22-C,Davao City,
 11-Jun-2020,393,,33,Male,Filipino,"Alfonso Angliongto Sr., Davao City",Confirmed Case,,Asymptomatic,9-Jun-2020,13-Jun-2020,,,Recovered,Alfonso Angliongto Sr.,Davao City,,Alfonso Angliongto Sr.,Davao City,"A. Angliongto Sr., Sasa, Davao City"
 11-Jun-2020,394,,23,Female,Filipino,"Tigatto, Davao City",Confirmed Case,,Asymptomatic,9-Jun-2020,13-Jun-2020,,,Recovered,Tigatto,Davao City,,Tigatto,Davao City,
 11-Jun-2020,395,,28,Female,Filipino,"Matina Aplaya, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
@@ -473,3 +473,4 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 21-Jun-2020,472,,28,Female,Filipino,"23-C, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
 21-Jun-2020,473,,35,Female,Filipino,"Magugpo South, Tagum City, Davao del Norte",Ongoing Investigation,,Asymptomatic,,,,,Active,Magugpo South,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 21-Jun-2020,474,,28,Female,Filipino,"Hijo, Maco, Davao de Oro",Ongoing Investigation,,Asymptomatic,,,,,Active,Hijo,Maco,Davao de Oro,#N/A,Davao de Oro,
+23-Jun-2020,475,,41,Male,Filipino,"Alfonso Angliongto Sr., Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Alfonso Angliongto Sr.,Davao City,,Alfonso Angliongto Sr.,Davao City,"A. Angliongto Sr., Sasa, Davao City"
