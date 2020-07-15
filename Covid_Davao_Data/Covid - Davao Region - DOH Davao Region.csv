@@ -479,7 +479,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 24-Jun-2020,478,33538,35,Male,Filipino,"Calinan Proper, Davao City",Confirmed Case,,Asymptomatic,23-Jun-2020,9-Jul-2020,,,Recovered,Calinan Proper,Davao City,,Calinan Proper,Davao City,"Calinan, Davao City"
 24-Jun-2020,479,33941,45,Male,Filipino,"Central, Mati City, Davao Oriental",Ongoing Investigation,,Asymptomatic,24-Jun-2020,9-Jul-2020,,,Recovered,Central,Mati City,Davao Oriental,#N/A,Davao Oriental,
 24-Jun-2020,480,33759,17,Female,Filipino,"San Antonio, Agdao, Davao City",Confirmed Case (DR347),,Asymptomatic,25-Jun-2020,12-Jul-2020,,,Recovered,San Antonio,Agdao,Davao City,San Antonio,Davao City,
-24-Jun-2020,481,,30,Male,Filipino,"Baybay, Malalag, Davao del Sur",Ongoing Investigation,,Asymptomatic,,,,,Active,Baybay,Malalag,Davao del Sur,#N/A,Davao del Sur,
+24-Jun-2020,481,33810,30,Male,Filipino,"Baybay, Malalag, Davao del Sur",Ongoing Investigation (LSI from Taguig),,Asymptomatic,19-Jun-2020,13-Jul-2020,,,Recovered,Baybay,Malalag,Davao del Sur,#N/A,Davao del Sur,
 24-Jun-2020,482,,20,Male,Filipino,"Elizalde, Maco, Davao de Oro",Ongoing Investigation,,Asymptomatic,,,,,Active,Elizalde,Maco,Davao de Oro,#N/A,Davao de Oro,
 24-Jun-2020,483,34046,19,Male,Filipino,"New Leyte, Maco, Davao de Oro",Ongoing Investigation,,Asymptomatic,24-Jun-2020,4-Jul-2020,,,Recovered,New Leyte,Maco,Davao de Oro,#N/A,Davao de Oro,
 24-Jun-2020,484,,20,Male,Filipino,"Elizalde, Maco, Davao de Oro",Ongoing Investigation,,Asymptomatic,,,,,Active,Elizalde,Maco,Davao de Oro,#N/A,Davao de Oro,
@@ -618,7 +618,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 7-Jul-2020,617,,35,Female,Filipino,"San Vicente, Panabo City, Davao del Norte",Ongoing Investigation,,Asymptomatic,,,,,Active,San Vicente,Panabo City,Davao del Norte,#N/A,Davao del Norte,
 7-Jul-2020,618,,33,Male,Filipino,"Cagangohan, Panabo City, Davao del Norte",Ongoing Investigation,,Asymptomatic,,,,,Active,Cagangohan,Panabo City,Davao del Norte,#N/A,Davao del Norte,
 7-Jul-2020,619,,39,Female,Filipino,"Dahican, Mati City, Davao Oriental",Ongoing Investigation,1-Jul-2020,,,,,,Active,Dahican,Mati City,Davao Oriental,#N/A,Davao Oriental,
-7-Jul-2020,620,,36,Female,Filipino,"Apokon, Tagum City, Davao del Norte",Other Place (Kuwait),5-Jun-2020,,,,,,Active,Apokon,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+7-Jul-2020,620,23150,36,Female,Filipino,"Apokon, Tagum City, Davao del Norte",Other Place (Returning Oversees Filipino from Kuwait),5-Jun-2020,,21-Jun-2020,14-Jul-2020,,,Recovered,Apokon,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 7-Jul-2020,621,52286,39,Male,Filipino,"Mintal, Davao City",Ongoing Investigation,,Asymptomatic,8-Jul-2020,12-Jul-2020,,,Recovered,Mintal,Davao City,,Mintal,Davao City,
 7-Jul-2020,622,52179,25,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,8-Jul-2020,11-Jul-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 7-Jul-2020,623,,23,Male,Filipino,"Panacan, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Panacan,Davao City,,Panacan,Davao City,
@@ -696,7 +696,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 10-Jul-2020,695,,30,Female,Filipino,"Langub, Talomo North, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Langub,Talomo North,Davao City,Langub,Davao City,
 10-Jul-2020,696,,30,Female,Filipino,"Matina Aplaya, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
 10-Jul-2020,697,,36,Female,Filipino,"Megkawayan, Calinan, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Megkawayan,Calinan,Davao City,Megkawayan,Davao City,
-10-Jul-2020,698,,26,Female,Filipino,"Sirawan, Toril B, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Sirawan,Toril B,Davao City,Sirawan,Davao City,
+10-Jul-2020,698,,26,Female,Filipino,"Unknown, Davao Oriental",Ongoing Investigation,,Asymptomatic,,,,,Active,Unknown,Davao Oriental,,#N/A,Davao Oriental,
 10-Jul-2020,699,,23,Female,Filipino,"Wilfredo Aquino, Agdao, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Wilfredo Aquino,Agdao,Davao City,Wilfredo Aquino,Davao City,
 10-Jul-2020,700,,22,Male,Filipino,"Fatima (Benowang), Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Fatima (Benowang),Davao City,,Fatima (Benowang),Davao City,"Fatima, Paquibato, Davao City"
 10-Jul-2020,701,,27,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
@@ -755,3 +755,65 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 12-Jul-2020,754,,34,Female,Filipino,"Andap, New Bataan, Davao de Oro",Manila,,Asymptomatic,,,,,Active,Andap,New Bataan,Davao de Oro,#N/A,Davao de Oro,
 12-Jul-2020,755,,52,Female,Filipino,"76-A, Davao City",Ongoing Investigation,9-Jul-2020,,,,,,Active,76-A,Davao City,,76-A,Davao City,
 12-Jul-2020,756,,56,Female,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,4-Jul-2020,,,,,,Active,Talomo Proper,Davao City,,76-A,Davao City,"Talomo Poblacion, Davao City"
+13-Jul-2020,757,,24,Female,Filipino,"New Visayas, Panabo City, Davao del Norte",Other Place (Returning Oversees Filipino from Dubai),,Asymptomatic,,,,,Active,New Visayas,Panabo City,Davao del Norte,#N/A,Davao del Norte,
+13-Jul-2020,758,,37,Female,Filipino,"San Agustin Babak, IGACOS, Davao del Norte",Manila (LSI from Manila),,Asymptomatic,,,,,Active,San Agustin Babak,IGACOS,Davao del Norte,#N/A,Davao del Norte,
+13-Jul-2020,759,,66,Female,Filipino,"San Antonio Babak, IGACOS, Davao del Norte",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,San Antonio Babak,IGACOS,Davao del Norte,#N/A,Davao del Norte,
+13-Jul-2020,760,,38,Female,Filipino,"Cabantian, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Cabantian,Davao City,,Cabantian,Davao City,
+13-Jul-2020,761,,24,Female,Filipino,"Kingking, Pantukan, Davao de Oro",Ongoing Investigation (LSI from Manila),,Asymptomatic,,,,,Active,Kingking,Pantukan,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,762,,21,Female,Filipino,"Tagdangua, Pantukan, Davao de Oro",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Tagdangua,Pantukan,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,763,,23,Female,Filipino,"Laak, Davao de Oro",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Laak,Davao de Oro,,#N/A,Davao de Oro,
+13-Jul-2020,764,,19,Female,Filipino,"Cuambog, Mabini, Davao de Oro",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Cuambog,Mabini,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,765,,21,Male,Filipino,"Siocon, Compostela, Davao de Oro",Ongoing Investigation (LSI from Manila),,,,,,,Active,Siocon,Compostela,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,766,,33,Female,Filipino,"San Roque, New Bataan, Davao de Oro",Ongoing Investigation (LSI from Manila),,Asymptomatic,,,,,Active,San Roque,New Bataan,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,767,,29,Female,Filipino,"Cabinuangan, Mawab, Davao de Oro",Ongoing Investigation (LSI from Manila),,Asymptomatic,,,,,Active,Cabinuangan,Mawab,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,768,,25,Female,Filipino,"Cabidianan, Nabunturan, Davao de Oro",Ongoing Investigation (LSI from Manila),,Asymptomatic,,,,,Active,Cabidianan,Nabunturan,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,769,,59,Male,Filipino,"Cebulida, Laak, Davao de Oro",Ongoing Investigation (LSI from Manila),,Asymptomatic,,,,,Active,Cebulida,Laak,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,770,,35,Male,Filipino,"Cebulida, Laak, Davao de Oro",Ongoing Investigation (LSI from Manila),,Asymptomatic,,,,,Active,Cebulida,Laak,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,771,,22,Female,Filipino,"Aguinaldo, Laak, Davao de Oro",Ongoing Investigation (LSI from Manila),,,,,,,Active,Aguinaldo,Laak,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,772,,55,Female,Filipino,"Tigbao, Maragusan, Davao de Oro",Confirmed Case,,Asymptomatic,,,,,Active,Tigbao,Maragusan,Davao de Oro,#N/A,Davao de Oro,
+13-Jul-2020,773,,15,Female,Filipino,"Union, Monkayo, Davao de Oro",Confirmed Case,,Asymptomatic,,,,,Active,Union,Monkayo,Davao de Oro,#N/A,Davao de Oro,
+14-Jul-2020,774,,70,Female,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Ongoing Investigation,31-Mar-2020,,11-Jul-2020,,12-Jul-2020,,Dead,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
+14-Jul-2020,775,,18,Female,Filipino,"Tacunan, Tugbok, Davao City",Ongoing Investigation,,,,,,,Active,Tacunan,Tugbok,Davao City,Tacunan,Davao City,
+14-Jul-2020,776,,45,Male,Filipino,"Cuambog, Mabini, Davao de Oro",Ongoing Investigation,9-Jul-2020,,11-Jul-2020,,13-Jul-2020,,Dead,Cuambog,Mabini,Davao de Oro,#N/A,Davao de Oro,
+14-Jul-2020,777,,32,Male,Filipino,"Catalunan Grande, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+14-Jul-2020,778,,25,Female,Filipino,"Matina Aplaya, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
+14-Jul-2020,779,,31,Female,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+14-Jul-2020,780,,30,Male,Filipino,"76-A, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,76-A,Davao City,,76-A,Davao City,
+14-Jul-2020,781,,21,Male,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+14-Jul-2020,782,,31,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,,,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+14-Jul-2020,783,,85,Female,Filipino,"20-B, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,20-B,Davao City,,20-B,Davao City,
+14-Jul-2020,784,,55,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+14-Jul-2020,785,,47,Male,Filipino,"Baguio Proper, Davao City",Ongoing Investigation,7-Jul-2020,,,,,,Active,Baguio Proper,Davao City,,Baguio Proper,Davao City,"Baguio, Davao City"
+14-Jul-2020,786,,39,Male,Filipino,"Daliao, Toril B, Davao City",Ongoing Investigation,4-Jul-2020,,,,,,Active,Daliao,Toril B,Davao City,Daliao,Davao City,
+14-Jul-2020,787,,28,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+14-Jul-2020,788,,3,Female,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+14-Jul-2020,789,,0,Male,Filipino,"Matina Crossing, Davao City",Ongoing Investigation,,,,,,,Active,Matina Crossing,Davao City,,Matina Crossing,Davao City,
+14-Jul-2020,790,,16,Female,Filipino,"Zone 1, Digos City, Davao del Sur",Ongoing Investigation,6-Jul-2020,,,,,,Active,Zone 1,Digos City,Davao del Sur,#N/A,Davao del Sur,
+14-Jul-2020,791,,81,Female,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,11-Jul-2020,,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+14-Jul-2020,792,,60,Female,Filipino,"Matina Aplaya, Davao City",Ongoing Investigation,6-Jul-2020,,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
+14-Jul-2020,793,,65,Male,Filipino,"19-B, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,19-B,Davao City,,19-B,Davao City,
+14-Jul-2020,794,,59,Male,Filipino,"Alfonso Angliongto Sr., Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Alfonso Angliongto Sr.,Davao City,,Alfonso Angliongto Sr.,Davao City,"A. Angliongto Sr., Sasa, Davao City"
+14-Jul-2020,795,,42,Female,Filipino,"Panacan, Davao City",Ongoing Investigation,,,,,,,Active,Panacan,Davao City,,Panacan,Davao City,
+14-Jul-2020,796,,46,Male,Filipino,"Tacunan, Tugbok, Davao City",Ongoing Investigation,5-Jul-2020,,12-Jul-2020,,12-Jul-2020,,Dead,Tacunan,Tugbok,Davao City,Tacunan,Davao City,
+14-Jul-2020,797,,69,Male,Filipino,"Malabog, Paquibato, Davao City",Ongoing Investigation,11-Jul-2020,,,,,,Active,Malabog,Paquibato,Davao City,Malabog,Davao City,
+14-Jul-2020,798,,0,Male,Filipino,"Matina Crossing, Davao City",Ongoing Investigation,25-Jun-2020,,,,,,Active,Matina Crossing,Davao City,,Matina Crossing,Davao City,
+14-Jul-2020,799,,46,Female,Filipino,"Poblacion, Lupon, Davao Oriental",Ongoing Investigation,12-Jul-2020,,12-Jul-2020,,12-Jul-2020,,Dead,Poblacion,Lupon,Davao Oriental,#N/A,Davao Oriental,
+14-Jul-2020,800,,41,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,30-Jun-2020,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+14-Jul-2020,801,,43,Female,Filipino,"30-C, Davao City",Ongoing Investigation,12-Jul-2020,,,,,,Active,30-C,Davao City,,30-C,Davao City,
+14-Jul-2020,802,,54,Female,Filipino,"Magtuod, Talomo North, Davao City",Ongoing Investigation,28-Jun-2020,,,,,,Active,Magtuod,Talomo North,Davao City,Magtuod,Davao City,
+14-Jul-2020,803,,4,Male,Filipino,"Sasa, Davao City",Ongoing Investigation,5-Jul-2020,,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
+14-Jul-2020,804,,32,Female,Filipino,"Iba, San Isidro, Davao Oriental",Ongoing Investigation,31-Mar-2020,,,,,,Active,Iba,San Isidro,Davao Oriental,#N/A,Davao Oriental,
+14-Jul-2020,805,,21,Female,Filipino,"Rizal, Bansalan, Davao del Sur",Ongoing Investigation,,,,,,,Active,Rizal,Bansalan,Davao del Sur,#N/A,Davao del Sur,
+14-Jul-2020,806,,32,Male,Filipino,"Kingking, Pantukan, Davao de Oro",Ongoing Investigation (LSI from Manila),,Asymptomatic,,,,,Active,Kingking,Pantukan,Davao de Oro,#N/A,Davao de Oro,
+14-Jul-2020,807,,55,Female,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,11-Jun-2020,,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,
+14-Jul-2020,808,,15,Male,Filipino,"Florida, Kapalong, Davao del Norte",Manila (LSI from Manila),,Asymptomatic,,,,,Active,Florida,Kapalong,Davao del Norte,#N/A,Davao del Norte,
+14-Jul-2020,809,,29,Male,Filipino,"Baliok, Talomo South, Davao City",Ongoing Investigation (Returning Oversees Filipino),,Asymptomatic,,,,,Active,Baliok,Talomo South,Davao City,Baliok,Davao City,
+14-Jul-2020,810,,38,Male,Filipino,"Dacudao, Calinan, Davao City",Ongoing Investigation (Returning Oversees Filipino from Korea),,Asymptomatic,,,,,Active,Dacudao,Calinan,Davao City,Dacudao,Davao City,
+14-Jul-2020,811,,36,Female,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,
+14-Jul-2020,812,,46,Male,Filipino,"20-B, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,20-B,Davao City,,20-B,Davao City,
+14-Jul-2020,813,,63,Male,Filipino,"Communal, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Communal,Davao City,,Communal,Davao City,
+14-Jul-2020,814,,45,Female,Filipino,"Communal, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Communal,Davao City,,Communal,Davao City,
+14-Jul-2020,815,,46,Male,Filipino,"Sasa, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
+14-Jul-2020,816,,23,Male,Filipino,"Panacan, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Panacan,Davao City,,Panacan,Davao City,
+14-Jul-2020,817,,38,Female,Filipino,"Catalunan Pequeño, Davao City",Ongoing Investigation (Returning Oversees Filipino from Saudi Arabia),,,,,,,Active,Catalunan Pequeño,Davao City,,Catalunan Pequeño,Davao City,
+14-Jul-2020,818,,34,Male,Filipino,"Ilang, Davao City",Ongoing Investigation (Returning Oversees Filipino from Saudi Arabia),,,,,,,Active,Ilang,Davao City,,Ilang,Davao City,
