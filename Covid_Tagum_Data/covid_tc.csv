@@ -1,24 +1,24 @@
 date,barangay,pum,pui,activecase,pum_y,pui_y,activecase_y,pum_d,pui_d,activecase_d
-Jul-13,Apokon,35,1,3,30,1,3,5,0,0
-Jul-13,Bincungan,3,0,0,6,0,0,-3,0,0
-Jul-13,Busaon,1,0,0,0,0,0,1,0,0
-Jul-13,Canocotan,12,0,0,9,0,0,3,0,0
-Jul-13,Cuambogan,30,0,0,16,0,0,14,0,0
-Jul-13,La Filipina,11,0,0,11,0,0,0,0,0
-Jul-13,Liboganon,1,0,0,3,0,0,-2,0,0
-Jul-13,Madaum,9,1,1,16,1,1,-7,0,0
-Jul-13,Magdum,12,0,0,13,0,0,-1,0,0
-Jul-13,Magugpo East,15,0,1,13,0,1,2,0,0
-Jul-13,Magugpo North,13,0,1,4,0,1,9,0,0
-Jul-13,Magugpo Poblacion,15,0,0,8,0,0,7,0,0
-Jul-13,Magugpo South,9,0,2,12,0,2,-3,0,0
-Jul-13,Magugpo West,12,0,1,4,0,1,8,0,0
-Jul-13,Mankilam,31,1,0,19,1,0,12,0,0
-Jul-13,New Balamban,1,0,0,1,0,0,0,0,0
-Jul-13,Nueva Fuerza,0,0,0,0,0,0,0,0,0
-Jul-13,Pagsabangan,4,0,0,9,0,0,-5,0,0
-Jul-13,Pandapan,0,0,0,0,0,0,0,0,0
-Jul-13,San Agustin,1,0,0,0,0,0,1,0,0
-Jul-13,San Isidro,2,0,0,3,0,0,-1,0,0
-Jul-13,San Miguel,23,0,0,19,0,0,4,0,0
-Jul-13,Visayan Village,62,0,0,42,0,0,20,0,0
+Jul-16,Apokon,38,0,1,35,1,3,3,-1,-2
+Jul-16,Bincungan,1,0,0,3,0,0,-2,0,0
+Jul-16,Busaon,1,0,0,1,0,0,0,0,0
+Jul-16,Canocotan,8,0,0,12,0,0,-4,0,0
+Jul-16,Cuambogan,30,0,0,30,0,0,0,0,0
+Jul-16,La Filipina,11,0,1,11,0,0,0,0,1
+Jul-16,Liboganon,0,0,0,1,0,0,-1,0,0
+Jul-16,Madaum,15,0,2,9,1,1,6,-1,1
+Jul-16,Magdum,8,0,0,12,0,0,-4,0,0
+Jul-16,Magugpo East,11,1,1,15,0,1,-4,1,0
+Jul-16,Magugpo North,13,0,1,13,0,1,0,0,0
+Jul-16,Magugpo Poblacion,12,0,0,15,0,0,-3,0,0
+Jul-16,Magugpo South,13,0,2,9,0,2,4,0,0
+Jul-16,Magugpo West,11,0,0,12,0,1,-1,0,-1
+Jul-16,Mankilam,28,1,0,31,1,0,-3,0,0
+Jul-16,New Balamban,0,0,0,1,0,0,-1,0,0
+Jul-16,Nueva Fuerza,0,0,0,0,0,0,0,0,0
+Jul-16,Pagsabangan,5,0,0,4,0,0,1,0,0
+Jul-16,Pandapan,0,0,0,0,0,0,0,0,0
+Jul-16,San Agustin,1,0,0,1,0,0,0,0,0
+Jul-16,San Isidro,2,0,0,2,0,0,0,0,0
+Jul-16,San Miguel,23,0,1,23,0,0,0,0,1
+Jul-16,Visayan Village,61,0,0,62,0,0,-1,0,0
