@@ -1,35 +1,35 @@
 {
     "testing": {
-        "reportdate": "Jul-15-2020",
-        "remaining_available_tests": 38870,
-        "cumulative_samples_tested": 24818,
-        "cumulative_unique_individuals": 19558,
-        "cumulative_positive_individuals": 1006,
-        "cumulative_negative_individuals": 18552,
+        "reportdate": "Jul-16-2020",
+        "remaining_available_tests": 38118,
+        "cumulative_samples_tested": 25520,
+        "cumulative_unique_individuals": 20117,
+        "cumulative_positive_individuals": 1035,
+        "cumulative_negative_individuals": 19082,
         "pct_positive_cumulative": "5.14%",
         "pct_negative_cumulative": "94.86%"
     },
     "facility": {
-        "reportdate": "Jul-15-2020",
-        "icu_v": 11,
-        "icu_o": 24,
-        "isolbed_v": 69,
-        "isolbed_o": 104,
+        "reportdate": "Jul-17-2020",
+        "icu_v": 14,
+        "icu_o": 21,
+        "isolbed_v": 68,
+        "isolbed_o": 105,
         "beds_ward_v": 0,
-        "beds_ward_o": 25,
-        "mechvent_v": 34,
-        "mechvent_o": 7
+        "beds_ward_o": 24,
+        "mechvent_v": 33,
+        "mechvent_o": 8
     },
     "ppe": {
-        "reportdate": "Jul-10-2020",
-        "gown": 6320,
-        "gloves": 800117,
-        "head_cover": 155475,
-        "goggles": 1430,
-        "coverall": 3766,
-        "shoe_cover": 22250,
-        "face_shield": 12361,
-        "surgmask": 128562,
-        "n95mask": 31289
+        "reportdate": "Jul-17-2020",
+        "gown": 4426,
+        "gloves": 770995,
+        "head_cover": 838379,
+        "goggles": 739,
+        "coverall": 13877,
+        "shoe_cover": 8646,
+        "face_shield": 11302,
+        "surgmask": 19400,
+        "n95mask": 36136
     }
 }
