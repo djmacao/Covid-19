@@ -1,35 +1,34 @@
 {
     "testing": {
-        "facility_name": "Southern Philippines Medical Center (SPMC)",
-        "reportdate": "Aug-02-2020",
-        "cumulative_samples_tested": 35376,
-        "cumulative_unique_individuals": 27858,
-        "cumulative_positive_individuals": 1515,
-        "cumulative_negative_individuals": 26343,
-        "pct_positive_cumulative": "5.44%",
-        "pct_negative_cumulative": "94.56%"
+        "reportdate": "Aug-09-2020",
+        "cumulative_samples_tested": 39736,
+        "cumulative_unique_individuals": 31077,
+        "cumulative_positive_individuals": 1740,
+        "cumulative_negative_individuals": 29337,
+        "pct_positive_cumulative": "5.60%",
+        "pct_negative_cumulative": "94.40%"
     },
     "facility": {
-        "reportdate": "Aug-02-2020",
-        "icu_v": 11,
-        "icu_o": 22,
-        "isolbed_v": 66,
-        "isolbed_o": 88,
-        "beds_ward_v": 13,
-        "beds_ward_o": 33,
-        "mechvent_v": 34,
-        "mechvent_o": 7
+        "reportdate": "Aug-09-2020",
+        "icu_v": 12,
+        "icu_o": 21,
+        "isolbed_v": 64,
+        "isolbed_o": 90,
+        "beds_ward_v": 32,
+        "beds_ward_o": 26,
+        "mechvent_v": 29,
+        "mechvent_o": 12
     },
     "ppe": {
-        "reportdate": "Jul-31-2020",
-        "gown": 3350,
-        "gloves": 835500,
-        "head_cover": 700210,
-        "goggles": 425,
-        "coverall": 2992,
-        "shoe_cover": 17000,
-        "face_shield": 35140,
-        "surgmask": 90000,
-        "n95mask": 47530
+        "reportdate": "Aug-07-2020",
+        "gown": 7540,
+        "gloves": 593344,
+        "head_cover": 742450,
+        "goggles": 4669,
+        "coverall": 4849,
+        "shoe_cover": 9450,
+        "face_shield": 38853,
+        "surgmask": 108975,
+        "n95mask": 57777
     }
 }
