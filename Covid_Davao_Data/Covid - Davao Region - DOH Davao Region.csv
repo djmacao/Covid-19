@@ -502,10 +502,10 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 26-Jun-2020,501,34500,17,Female,Filipino,"76-A, Davao City",Ongoing Investigation,24-Jun-2020,,24-Jun-2020,11-Jul-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,
 26-Jun-2020,502,35487,24,Female,Filipino,"Southern Davao, Panabo, Davao del Norte",Local Travel (LSI from Parañaque),23-Jun-2020,,25-Jun-2020,21-Jul-2020,,,Recovered,Southern Davao,Panabo,Davao del Norte,#N/A,Davao del Norte,
 26-Jun-2020,503,35180,21,Female,Filipino,"23-C, Davao City",Confirmed Case,,Asymptomatic,25-Jun-2020,13-Aug-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
-27-Jun-2020,504,,30,Female,Filipino,"Cagangohan, Panabo City, Davao del Norte",Ongoing Investigation,,Asymptomatic,,,,,Active,Cagangohan,Panabo City,Davao del Norte,#N/A,Davao del Norte,
+27-Jun-2020,504,35484,30,Female,Filipino,"Cagangohan, Panabo City, Davao del Norte",Ongoing Investigation (LSI from Cebu),,Asymptomatic,23-Jun-2020,24-Aug-2020,,,Recovered,Cagangohan,Panabo City,Davao del Norte,#N/A,Davao del Norte,
 27-Jun-2020,505,,56,Male,Filipino,"Rafael Castillo, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Rafael Castillo,Davao City,,Rafael Castillo,Davao City,
 28-Jun-2020,506,36687,40,Female,Filipino,"76-A, Davao City",Confirmed Case,,Asymptomatic,26-Jun-2020,24-Jul-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,
-28-Jun-2020,507,,52,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,25-Jun-2020,28-Jun-2020,,,Dead,23-C,Davao City,,23-C,Davao City,
+28-Jun-2020,507,,52,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,25-Jun-2020,,28-Jun-2020,,Dead,23-C,Davao City,,23-C,Davao City,
 28-Jun-2020,508,37290,27,Male,Filipino,"Madaum, Tagum City, Davao del Norte",Manila (LSI from Manila),23-Jun-2020,,26-Jun-2020,25-Jul-2020,,,Recovered,Madaum,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 28-Jun-2020,509,37490,29,Male,Filipino,"Magugpo East, Tagum City, Davao del Norte",Confirmed Case (LSI from Manila),25-Jun-2020,,26-Jun-2020,25-Jul-2020,,,Recovered,Magugpo East,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 28-Jun-2020,510,37254,29,Female,Filipino,"Dalagdag, Calinan, Davao City",Ongoing Investigation,22-Jun-2020,,26-Jun-2020,5-Jul-2020,,,Recovered,Dalagdag,Calinan,Davao City,Dalagdag,Davao City,
@@ -790,7 +790,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 14-Jul-2020,789,,0,Male,Filipino,"Matina Crossing, Davao City",Ongoing Investigation,,,14-Jul-2020,27-Jul-2020,,,Recovered,Matina Crossing,Davao City,,Matina Crossing,Davao City,
 14-Jul-2020,790,,16,Female,Filipino,"Zone 1, Digos City, Davao del Sur",Ongoing Investigation,6-Jul-2020,,14-Jul-2020,7-Aug-2020,,,Recovered,Zone 1,Digos City,Davao del Sur,#N/A,Davao del Sur,
 14-Jul-2020,791,,81,Female,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,11-Jul-2020,,15-Jul-2020,30-Jul-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
-14-Jul-2020,792,,60,Female,Filipino,"Matina Aplaya, Davao City",Ongoing Investigation,6-Jul-2020,,21-Jul-2020,3-Aug-2020,,,Dead,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
+14-Jul-2020,792,,60,Female,Filipino,"Matina Aplaya, Davao City",Ongoing Investigation,6-Jul-2020,,21-Jul-2020,,3-Aug-2020,,Dead,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
 14-Jul-2020,793,,65,Male,Filipino,"19-B, Davao City",Confirmed Case,,Asymptomatic,14-Jul-2020,19-Jul-2020,,,Recovered,19-B,Davao City,,19-B,Davao City,
 14-Jul-2020,794,,59,Male,Filipino,"Alfonso Angliongto Sr., Davao City",Ongoing Investigation,,Asymptomatic,14-Jul-2020,21-Jul-2020,,,Recovered,Alfonso Angliongto Sr.,Davao City,,Alfonso Angliongto Sr.,Davao City,"A. Angliongto Sr., Sasa, Davao City"
 14-Jul-2020,795,,42,Female,Filipino,"Panacan, Davao City",Ongoing Investigation,,,14-Jul-2020,24-Jul-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
@@ -805,7 +805,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 14-Jul-2020,804,,32,Female,Filipino,"Iba, San Isidro, Davao Oriental",Ongoing Investigation,31-Mar-2020,,14-Jul-2020,22-Jul-2020,,,Recovered,Iba,San Isidro,Davao Oriental,#N/A,Davao Oriental,
 14-Jul-2020,805,,21,Female,Filipino,"Rizal, Bansalan, Davao del Sur",Ongoing Investigation,,,14-Jul-2020,22-Jul-2020,,,Recovered,Rizal,Bansalan,Davao del Sur,#N/A,Davao del Sur,
 14-Jul-2020,806,,32,Male,Filipino,"Kingking, Pantukan, Davao de Oro",Ongoing Investigation (LSI from Manila),,Asymptomatic,8-Jul-2020,26-Jul-2020,,,Recovered,Kingking,Pantukan,Davao de Oro,#N/A,Davao de Oro,
-14-Jul-2020,807,,55,Female,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,11-Jun-2020,,15-Jul-2020,29-Jul-2020,,,Dead,Talomo Proper,Davao City,,Talomo Proper,Davao City,
+14-Jul-2020,807,,55,Female,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,11-Jun-2020,,15-Jul-2020,,29-Jul-2020,,Dead,Talomo Proper,Davao City,,Talomo Proper,Davao City,
 14-Jul-2020,808,,15,Male,Filipino,"Florida, Kapalong, Davao del Norte",Manila (LSI from Manila),,Asymptomatic,9-Jul-2020,9-Aug-2020,,,Recovered,Florida,Kapalong,Davao del Norte,#N/A,Davao del Norte,
 14-Jul-2020,809,,29,Male,Filipino,"Baliok, Talomo South, Davao City",Ongoing Investigation (ROF),,Asymptomatic,15-Jul-2020,24-Jul-2020,,,Recovered,Baliok,Talomo South,Davao City,Baliok,Davao City,
 14-Jul-2020,810,,38,Male,Filipino,"Dacudao, Calinan, Davao City",Ongoing Investigation (ROF from Korea),,Asymptomatic,15-Jul-2020,23-Jul-2020,,,Recovered,Dacudao,Calinan,Davao City,Dacudao,Davao City,
@@ -1149,13 +1149,13 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 26-Jul-2020,1148,,38,Female,Filipino,"Talomo Proper, Davao City",Confirmed Case,,Asymptomatic,26-Jul-2020,5-Aug-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
 26-Jul-2020,1149,,23,Male,Filipino,"Pasian, Monkayo, Davao de Oro",Ongoing Investigation,,Asymptomatic,,,,,Active,Pasian,Monkayo,Davao de Oro,#N/A,Davao de Oro,
 26-Jul-2020,1150,,42,Male,Filipino,"Sto. Niño, Tugbok, Davao City",Confirmed Case,,Asymptomatic,27-Jul-2020,3-Aug-2020,,,Recovered,Sto. Niño,Tugbok,Davao City,Sto. Niño,Davao City,
-26-Jul-2020,1151,,27,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation (For Verfication),,Asymptomatic,27-Jul-2020,14-Aug-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,
+26-Jul-2020,1151,,27,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation (For Verfication),,Asymptomatic,27-Jul-2020,14-Aug-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davoa City"
 26-Jul-2020,1152,,35,Male,Filipino,"33-D, Davao City",Ongoing Investigation,,Asymptomatic,27-Jul-2020,14-Aug-2020,,,Recovered,33-D,Davao City,,33-D,Davao City,
 26-Jul-2020,1153,,53,Female,Filipino,"Panacan, Davao City",Ongoing Investigation,,,27-Jul-2020,12-Aug-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 26-Jul-2020,1154,,30,Male,Filipino,"18-B, Davao City",Ongoing Investigation,,Asymptomatic,27-Jul-2020,5-Aug-2020,,,Recovered,18-B,Davao City,,18-B,Davao City,
 26-Jul-2020,1155,,33,Male,Filipino,"Wilfredo Aquino, Agdao, Davao City","Ongoing Investigation (ROF from Taif, KSA))",,Asymptomatic,27-Jul-2020,15-Aug-2020,,,Recovered,Wilfredo Aquino,Agdao,Davao City,Wilfredo Aquino,Davao City,
 26-Jul-2020,1156,,28,Female,Filipino,"Sasa, Davao City",Ongoing Investigation (ROF from Saudi Arabia),,Asymptomatic,27-Jul-2020,12-Aug-2020,,,Recovered,Sasa,Davao City,,Sasa,Davao City,
-27-Jul-2020,1157,,42,Female,Filipino,"North Lamidan, Don Marcelino, Davao Occidental",Manila (LSI from Manila),,Asymptomatic,,,,,Active,North Lamidan,Don Marcelino,Davao Occidental,#N/A,Davao Occidental,
+27-Jul-2020,1157,,42,Female,Filipino,"North Lamidan, Don Marcelino, Davao Occidental",Manila (LSI from Manila),,Asymptomatic,,24-Aug-2020,,,Recovered,North Lamidan,Don Marcelino,Davao Occidental,#N/A,Davao Occidental,
 27-Jul-2020,1158,,41,Male,Filipino,"North Lamidan, Don Marcelino, Davao Occidental",Manila (LSI from Manila),,Asymptomatic,19-Jul-2020,12-Aug-2020,,,Recovered,North Lamidan,Don Marcelino,Davao Occidental,#N/A,Davao Occidental,
 27-Jul-2020,1159,,6,Male,Filipino,"23-C, Davao City",Ongoing Investigation,24-Jul-2020,,27-Jul-2020,10-Aug-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
 27-Jul-2020,1160,,28,Female,Filipino,"Mankilam, Tagum City, Davao del Norte",Ongoing Investigation,,Asymptomatic,25-Jul-2020,22-Aug-2020,,,Recovered,Mankilam,Tagum City,Davao del Norte,#N/A,Davao del Norte,
@@ -1178,7 +1178,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 28-Jul-2020,1177,,33,Male,Filipino,"Inawayan, Sta. Cruz, Davao del Sur",Ongoing Investigation (LSI from Manila),,Asymptomatic,,13-Aug-2020,,,Recovered,Inawayan,Sta. Cruz,Davao del Sur,#N/A,Davao del Sur,
 28-Jul-2020,1178,,32,Male,Filipino,"Malagos, Davao City",Ongoing Investigation (For Verification),,Asymptomatic,29-Jul-2020,12-Aug-2020,,,Recovered,Malagos,Davao City,,Malagos,Davao City,
 28-Jul-2020,1179,,44,Male,Filipino,"23-C, Davao City",Ongoing Investigation (LSI),,Asymptomatic,29-Jul-2020,15-Aug-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
-28-Jul-2020,1180,,34,Male,Filipino,"BE Dujali, Davao del Norte",Ongoing Investigation (For Verification),,Asymptomatic,,,,,Active,BE Dujali,Davao del Norte,,#N/A,Davao del Norte,
+28-Jul-2020,1180,,34,Male,Filipino,"Cabay-angan, BE Dujali, Davao del Norte",Ongoing Investigation (For Verification),,Asymptomatic,28-Jul-2020,24-Aug-2020,,,Recovered,Cabay-angan,BE Dujali,Davao del Norte,#N/A,Davao del Norte,
 29-Jul-2020,1181,,49,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,28-Jul-2020,13-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 29-Jul-2020,1182,,50,Male,Filipino,"23-C, Davao City",Ongoing Investigation,24-Jul-2020,,25-Jul-2020,,26-Jul-2020,,Dead,23-C,Davao City,,23-C,Davao City,
 29-Jul-2020,1183,94087,23,Female,Filipino,"Catigan, Toril B, Davao City",Ongoing Investigation (For Japan),,Asymptomatic,30-Jul-2020,5-Aug-2020,,,Recovered,Catigan,Toril B,Davao City,Catigan,Davao City,
@@ -1194,7 +1194,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 29-Jul-2020,1193,94201,36,Male,Filipino,"Mandug, Davao City",Ongoing Investigation,,Asymptomatic,4-Aug-2020,14-Aug-2020,,,Recovered,Mandug,Davao City,,Mandug,Davao City,
 29-Jul-2020,1194,94488,26,Male,Filipino,"Panacan, Davao City",Confirmed Case,,Asymptomatic,4-Aug-2020,5-Aug-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 29-Jul-2020,1195,93877,63,Female,Filipino,"Talas, Sulop, Davao del Sur",Manila (LSI from Parañaque),,Asymptomatic,,6-Aug-2020,,,Recovered,Talas,Sulop,Davao del Sur,#N/A,Davao del Sur,
-29-Jul-2020,1196,92895,26,Male,Filipino,"76-A, Davao City",Ongoing Investigation,,Asymptomatic,4-Aug-2020,5-Aug-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,???
+29-Jul-2020,1196,92895,26,Male,Filipino,"76-A, Davao City",Ongoing Investigation,,Asymptomatic,4-Aug-2020,5-Aug-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,
 29-Jul-2020,1197,93930,38,Female,Filipino,"Casoon, Monkayo, Davao de Oro",Manila (LSI from Quezon City),,Asymptomatic,10-Jul-2020,20-Aug-2020,,,Recovered,Casoon,Monkayo,Davao de Oro,#N/A,Davao de Oro,
 29-Jul-2020,1198,,44,Male,Filipino,"Mipangi, Nabunturan, Davao de Oro",Other Place (ROF from Bahrain),,Asymptomatic,10-Jul-2020,12-Aug-2020,,,Recovered,Mipangi,Nabunturan,Davao de Oro,#N/A,Davao de Oro,
 29-Jul-2020,1199,93329,44,Female,Filipino,"Poblacion Malita, Davao Occidental",Confirmed Case,,Asymptomatic,,19-Aug-2020,,,Recovered,Poblacion Malita,Davao Occidental,,#N/A,Davao Occidental,
@@ -1209,7 +1209,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 29-Jul-2020,1208,94332,25,Female,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,22-Jul-2020,,29-Jul-2020,6-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
 29-Jul-2020,1209,,22,Female,Filipino,"Pampanga, Sasa, Davao City",Ongoing Investigation,,Asymptomatic,30-Jul-2020,6-Aug-2020,,,Recovered,Pampanga,Sasa,Davao City,Pampanga,Davao City,
 29-Jul-2020,1210,94570,29,Female,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,29-Jul-2020,5-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
-29-Jul-2020,1211,93849,45,Female,Filipino,"76-A, Davao City",Ongoing Investigation,25-Jul-2020,,29-Jul-2020,6-Aug-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,???
+29-Jul-2020,1211,93849,45,Female,Filipino,"76-A, Davao City",Ongoing Investigation,25-Jul-2020,,29-Jul-2020,6-Aug-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,
 29-Jul-2020,1212,94252,11,Male,Filipino,"Panalum, Paquibato, Davao City",Ongoing Investigation,25-Jul-2020,,29-Jul-2020,15-Aug-2020,,,Recovered,Panalum,Paquibato,Davao City,#N/A,Davao City,???
 29-Jul-2020,1213,92067,17,Female,Filipino,"Sasa, Davao City",Ongoing Investigation,,,29-Jul-2020,12-Aug-2020,,,Recovered,Sasa,Davao City,,Sasa,Davao City,
 29-Jul-2020,1214,95790,67,Female,Filipino,"Lacson, Calinan, Davao City",Ongoing Investigation,,,29-Jul-2020,15-Aug-2020,,,Recovered,Lacson,Calinan,Davao City,Lacson,Davao City,
@@ -1309,13 +1309,13 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 31-Jul-2020,1308,,35,Male,Filipino,"Sasa, Davao City",Confirmed Case,27-Jul-2020,,1-Aug-2020,15-Aug-2020,,,Recovered,Sasa,Davao City,,Sasa,Davao City,
 31-Jul-2020,1309,,28,Male,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,7-Aug-2020,9-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
 31-Jul-2020,1310,,32,Male,Filipino,"Gov. Paciano Bangoy, Agdao, Davao City",Confirmed Case,,Asymptomatic,2-Aug-2020,5-Aug-2020,,,Recovered,Gov. Paciano Bangoy,Agdao,Davao City,Gov. Paciano Bangoy,Davao City,
-1-Aug-2020,1311,,9,Female,Filipino,"Lower Marber, Matanao, Davao del Sur",Ongoing Investigation,18-Jul-2020,,28-Jul-2020,14-Aug-2020,,,Dead,Lower Marber,Matanao,Davao del Sur,#N/A,Davao del Sur,
+1-Aug-2020,1311,,9,Female,Filipino,"Lower Marber, Matanao, Davao del Sur",Ongoing Investigation,18-Jul-2020,,28-Jul-2020,,14-Aug-2020,,Dead,Lower Marber,Matanao,Davao del Sur,#N/A,Davao del Sur,
 1-Aug-2020,1312,,65,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,,,1-Aug-2020,15-Aug-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,
-1-Aug-2020,1313,,69,Male,Filipino,"37-D, Davao City",Ongoing Investigation,26-Jul-2020,Asymptomatic,29-Jul-2020,2-Aug-2020,,,Dead,37-D,Davao City,,37-D,Davao City,
+1-Aug-2020,1313,,69,Male,Filipino,"37-D, Davao City",Ongoing Investigation,26-Jul-2020,Asymptomatic,29-Jul-2020,,2-Aug-2020,,Dead,37-D,Davao City,,37-D,Davao City,
 1-Aug-2020,1314,,23,Female,Filipino,"5-A, Davao City",Ongoing Investigation,22-Jul-2020,,1-Aug-2020,15-Aug-2020,,,Recovered,5-A,Davao City,,5-A,Davao City,
 1-Aug-2020,1315,,8,Male,Filipino,"Maa, Davao City",Ongoing Investigation,,Asymptomatic,1-Aug-2020,14-Aug-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,
 1-Aug-2020,1316,,20,Female,Filipino,"Hagonoy Crossing, Hagonoy, Davao del Sur",Ongoing Investigation,,,1-Aug-2020,14-Aug-2020,,,Recovered,Hagonoy Crossing,Hagonoy,Davao del Sur,#N/A,Davao del Sur,
-1-Aug-2020,1317,,56,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,??
+1-Aug-2020,1317,,56,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation,,Asymptomatic,2-Aug-2020,,24-Aug-2020,,Dead,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
 1-Aug-2020,1318,,84,Male,Filipino,"Pampanga, Sasa, Davao City",Ongoing Investigation,29-Jul-2020,,30-Jul-2020,,31-Jul-2020,,Dead,Pampanga,Sasa,Davao City,Pampanga,Davao City,
 1-Aug-2020,1319,,33,Male,Filipino,"76-A, Davao City",Ongoing Investigation,,Asymptomatic,2-Aug-2020,8-Aug-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,
 1-Aug-2020,1320,,33,Male,Filipino,"Catalunan Grande, Davao City",Confirmed Case,26-Jul-2020,,1-Aug-2020,8-Aug-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
@@ -1445,7 +1445,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 6-Aug-2020,1444,,71,Female,Filipino,"Matina Aplaya, Davao City",Ongoing Investigation,3-Aug-2020,,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
 6-Aug-2020,1445,,35,Male,Filipino,"Tigatto, Buhangin, Davao City",Ongoing Investigation,4-Aug-2020,,6-Aug-2020,22-Aug-2020,,,Recovered,Tigatto,Buhangin,Davao City,Tigatto,Davao City,
 6-Aug-2020,1446,,23,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,4-Aug-2020,,6-Aug-2020,19-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-6-Aug-2020,1447,,41,Female,Filipino,"Sibulan, Sta. Cruz, Davao del Sur",Ongoing Investigation,,,4-Aug-2020,4-Aug-2020,,,Dead,Sibulan,Sta. Cruz,Davao del Sur,Sibulan,Davao del Sur,
+6-Aug-2020,1447,,41,Female,Filipino,"Sibulan, Sta. Cruz, Davao del Sur",Ongoing Investigation,,,4-Aug-2020,,4-Aug-2020,,Dead,Sibulan,Sta. Cruz,Davao del Sur,Sibulan,Davao del Sur,
 6-Aug-2020,1448,,27,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,Asymptomatic,6-Aug-2020,19-Aug-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
 7-Aug-2020,1449,,37,Female,Filipino,"Canocotan, Tagum City, Davao del Norte",Ongoing Investigation (LSI),,Asymptomatic,6-Aug-2020,20-Aug-2020,,,Recovered,Canocotan,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 7-Aug-2020,1450,,4,Male,Filipino,"23-C, Davao City",Ongoing Investigation,27-Jul-2020,,7-Aug-2020,19-Aug-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
@@ -1471,12 +1471,12 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 7-Aug-2020,1470,,26,Female,Filipino,"Aliwagwag, Cateel, Davao Oriental",Confirmed Case (DR-1239),,Asymptomatic,7-Aug-2020,22-Aug-2020,,,Recovered,Aliwagwag,Cateel,Davao Oriental,#N/A,Davao Oriental,
 8-Aug-2020,1471,,30,Female,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,,Asymptomatic,8-Aug-2020,16-Aug-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,
 8-Aug-2020,1472,,30,Female,Filipino,"Gov. Paciano Bangoy, Agdao, Davao City",Ongoing Investigation,,Asymptomatic,8-Aug-2020,16-Aug-2020,,,Recovered,Gov. Paciano Bangoy,Agdao,Davao City,Gov. Paciano Bangoy,Davao City,
-8-Aug-2020,1473,,40,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+8-Aug-2020,1473,,40,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,,8-Aug-2020,24-Aug-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
 8-Aug-2020,1474,,34,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,,17-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
 8-Aug-2020,1475,,77,Female,Filipino,"26-C, Davao City",Ongoing Investigation,,Asymptomatic,4-Aug-2020,18-Aug-2020,,,Recovered,26-C,Davao City,,26-C,Davao City,
-8-Aug-2020,1476,,66,Female,Filipino,"Centro, Mati City, Davao Oriental",Manila (LSI from Makati),,Asymptomatic,,,,,Active,Centro,Mati City,Davao Oriental,#N/A,Davao Oriental,
-8-Aug-2020,1477,,17,Female,Filipino,"Centro, Mati City, Davao Oriental",Manila (LSI from Makati),,Asymptomatic,,,,,Active,Centro,Mati City,Davao Oriental,#N/A,Davao Oriental,
-8-Aug-2020,1478,,9,Male,Filipino,"Centro, Mati City, Davao Oriental",Manila (LSI from Makati),,Asymptomatic,,,,,Active,Centro,Mati City,Davao Oriental,#N/A,Davao Oriental,
+8-Aug-2020,1476,,66,Female,Filipino,"Don Martin Marundan, Mati City, Davao Oriental",Manila (LSI from Makati),,Asymptomatic,,24-Aug-2020,,,Recovered,Don Martin Marundan,Mati City,Davao Oriental,#N/A,Davao Oriental,
+8-Aug-2020,1477,,17,Female,Filipino,"Don Martin Marundan, Mati City, Davao Oriental",Manila (LSI from Makati),,Asymptomatic,,24-Aug-2020,,,Recovered,Don Martin Marundan,Mati City,Davao Oriental,#N/A,Davao Oriental,
+8-Aug-2020,1478,,9,Male,Filipino,"Don Martin Marundan, Mati City, Davao Oriental",Manila (LSI from Makati),,Asymptomatic,,24-Aug-2020,,,Recovered,Don Martin Marundan,Mati City,Davao Oriental,#N/A,Davao Oriental,
 8-Aug-2020,1479,,12,Female,Filipino,"Lawigan, Mati City, Davao Oriental",Manila (LSI from Makati),,Asymptomatic,8-Aug-2020,22-Aug-2020,,,Recovered,Lawigan,Mati City,Davao Oriental,#N/A,Davao Oriental,
 8-Aug-2020,1480,,16,Male,Filipino,"Lawigan, Mati City, Davao Oriental",Manila (LSI from Makati),,Asymptomatic,8-Aug-2020,22-Aug-2020,,,Recovered,Lawigan,Mati City,Davao Oriental,#N/A,Davao Oriental,
 8-Aug-2020,1481,,19,Male,Filipino,"Lawigan, Mati City, Davao Oriental",Manila (LSI from Makati),,Asymptomatic,8-Aug-2020,22-Aug-2020,,,Recovered,Lawigan,Mati City,Davao Oriental,#N/A,Davao Oriental,
@@ -1495,15 +1495,15 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 8-Aug-2020,1494,,79,Female,Filipino,"Malinawon, Mawab, Davao de Oro",Manila (LSI from Manila),,Asymptomatic,,,,,Active,Malinawon,Mawab,Davao de Oro,#N/A,Davao de Oro,
 8-Aug-2020,1495,,27,Male,Filipino,"Mabini, Malalag, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,3-Aug-2020,15-Aug-2020,,,Recovered,Mabini,Malalag,Davao del Sur,#N/A,Davao del Sur,
 8-Aug-2020,1496,,21,Male,Filipino,"El Katipunan, Laak, Davao de Oro",Ongoing Investigation (LSI from Taguig),,Asymptomatic,,,,,Active,El Katipunan,Laak,Davao de Oro,#N/A,Davao de Oro,
-8-Aug-2020,1497,,24,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
-8-Aug-2020,1498,,22,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
-8-Aug-2020,1499,,22,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
-8-Aug-2020,1500,,29,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
-8-Aug-2020,1501,,19,Male,Filipino,"Colorado, Digos City, Davao del Sur",Ongoing Investigation,,Asymptomatic,,,,,Active,Colorado,Digos City,Davao del Sur,#N/A,Davao del Sur,
+8-Aug-2020,1497,,24,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,24-Aug-2020,,,Recovered,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
+8-Aug-2020,1498,,22,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,24-Aug-2020,,,Recovered,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
+8-Aug-2020,1499,,22,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,24-Aug-2020,,,Recovered,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
+8-Aug-2020,1500,,29,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,24-Aug-2020,,,Recovered,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
+8-Aug-2020,1501,,19,Male,Filipino,"Colorado, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,24-Aug-2020,,,Recovered,Colorado,Digos City,Davao del Sur,#N/A,Davao del Sur,
 8-Aug-2020,1502,,23,Male,Filipino,"San Miguel, Digos City, Davao del Sur",Ongoing Investigation,,Asymptomatic,,,,,Active,San Miguel,Digos City,Davao del Sur,#N/A,Davao del Sur,
-8-Aug-2020,1503,,22,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation,,Asymptomatic,,,,,Active,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
-8-Aug-2020,1504,,20,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation,,Asymptomatic,,,,,Active,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
-8-Aug-2020,1505,,21,Female,Filipino,"Colorado, Digos City, Davao del Sur",Ongoing Investigation,,Asymptomatic,,,,,Active,Colorado,Digos City,Davao del Sur,#N/A,Davao del Sur,
+8-Aug-2020,1503,,22,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation,,Asymptomatic,,24-Aug-2020,,,Recovered,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
+8-Aug-2020,1504,,20,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Ongoing Investigation,,Asymptomatic,,24-Aug-2020,,,Recovered,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
+8-Aug-2020,1505,,21,Female,Filipino,"Colorado, Digos City, Davao del Sur",Ongoing Investigation,,Asymptomatic,30-Jul-2020,24-Aug-2020,,,Recovered,Colorado,Digos City,Davao del Sur,#N/A,Davao del Sur,
 8-Aug-2020,1506,,0,Male,Filipino,"Boston, Davao Oriental",Ongoing Investigation,,Asymptomatic,,18-Aug-2020,,,Recovered,Boston,Davao Oriental,,#N/A,Davao Oriental,
 8-Aug-2020,1507,,18,Male,Filipino,"Cabasngan, Boston, Davao Oriental",Ongoing Investigation,,Asymptomatic,,18-Aug-2020,,,Recovered,Cabasngan,Boston,Davao Oriental,#N/A,Davao Oriental,
 8-Aug-2020,1508,,23,Male,Filipino,"Poblacion, Boston, Davao Oriental",Ongoing Investigation,,Asymptomatic,,,,,Active,Poblacion,Boston,Davao Oriental,#N/A,Davao Oriental,
@@ -1535,46 +1535,46 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 9-Aug-2020,1534,,25,Female,Filipino,"Carmen, Baguio, Davao City",Ongoing Investigation (ROF from Kuwait),,,9-Aug-2020,22-Aug-2020,,,Recovered,Carmen,Baguio,Davao City,Carmen,Davao City,
 10-Aug-2020,1535,,21,Male,Filipino,"Kiokmay, Laak, Davao de Oro",Ongoing Investigation (LSI from Manila),,Asymptomatic,,,,,Active,Kiokmay,Laak,Davao de Oro,#N/A,Davao de Oro,
 10-Aug-2020,1536,,51,Female,Filipino,"Zone 3, Digos City, Davao del Sur",Ongoing Investigation,,Asymptomatic,10-Aug-2020,16-Aug-2020,,,Recovered,Zone 3,Digos City,Davao del Sur,#N/A,Davao del Sur,
-10-Aug-2020,1537,,45,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1538,,63,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,12-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1539,,34,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,12-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1540,,21,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,12-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1541,,14,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1542,,30,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1543,,32,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1544,,48,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1545,,29,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1546,,23,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1547,,54,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1548,,52,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+10-Aug-2020,1537,,45,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1538,,63,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,12-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1539,,34,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,12-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1540,,21,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,12-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1541,,14,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1542,,30,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1543,,32,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1544,,48,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1545,,29,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1546,,23,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1547,,54,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1548,,52,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
 10-Aug-2020,1549,,35,Female,Filipino,"Agdao Proper, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Agdao Proper,Davao City,,Agdao Proper,Davao City,
-10-Aug-2020,1550,,52,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,12-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1551,,37,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1552,,59,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,11-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1553,,65,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,11-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1554,,42,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1555,,42,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1556,,12,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1557,,32,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,11-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1558,,55,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1559,,67,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1560,,11,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1561,,2,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1562,,67,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1563,,11,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1564,,7,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1565,,3,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-10-Aug-2020,1566,,1,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+10-Aug-2020,1550,,52,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,12-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1551,,37,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1552,,59,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,11-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1553,,65,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,11-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1554,,42,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1555,,42,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1556,,12,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1557,,32,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,11-Aug-2020,22-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1558,,55,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1559,,67,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1560,,11,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1561,,2,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1562,,67,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1563,,11,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1564,,7,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1565,,3,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+10-Aug-2020,1566,,1,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
 10-Aug-2020,1567,,30,Female,Filipino,"Indangan, Davao City",Ongoing Investigation (ROF from Dubai),,Asymptomatic,12-Aug-2020,23-Aug-2020,,,Recovered,Indangan,Davao City,,Indangan,Davao City,
 10-Aug-2020,1568,,32,Female,Filipino,"Matina Crossing, Davao City",Ongoing Investigation (ROF from UAE),,Asymptomatic,11-Aug-2020,23-Aug-2020,,,Recovered,Matina Crossing,Davao City,,Matina Crossing,Davao City,
 11-Aug-2020,1569,,26,Male,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,12-Aug-2020,20-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
 11-Aug-2020,1570,,22,Male,Filipino,"Panacan, Davao City",Ongoing Investigation,,Asymptomatic,13-Aug-2020,22-Aug-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 11-Aug-2020,1571,,26,Female,Filipino,"San Antonio, Agdao, Davao City",Ongoing Investigation,,Asymptomatic,13-Aug-2020,20-Aug-2020,,,Recovered,San Antonio,Agdao,Davao City,San Antonio,Davao City,
-11-Aug-2020,1572,,14,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-11-Aug-2020,1573,,49,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+11-Aug-2020,1572,,14,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+11-Aug-2020,1573,,49,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,21-Aug-2020,,,Recovered,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
 11-Aug-2020,1574,,44,Female,Filipino,"23-C, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
 11-Aug-2020,1575,,8,Male,Filipino,"23-C, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
-11-Aug-2020,1576,,20,Male,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,20-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
+11-Aug-2020,1576,,20,Male,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,20-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 11-Aug-2020,1577,,24,Male,Filipino,"Katipunan, New Bataan, Davao de Oro",Ongoing Investigation (LSI from Quezon City),,Asymptomatic,,,,,Active,Katipunan,New Bataan,Davao de Oro,#N/A,Davao de Oro,
 11-Aug-2020,1578,,46,Female,Filipino,"Mintal, Tugbok, Davao City",Ongoing Investigation (For verification),1-Aug-2020,,11-Aug-2020,18-Aug-2020,,,Recovered,Mintal,Tugbok,Davao City,Mintal,Davao City,
 11-Aug-2020,1579,,29,Male,Filipino,"22-C, Davao City",Ongoing Investigation,,Asymptomatic,11-Aug-2020,17-Aug-2020,,,Recovered,22-C,Davao City,,22-C,Davao City,
@@ -1584,11 +1584,11 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 11-Aug-2020,1583,,25,Male,Filipino,"Panacan, Davao City",Ongoing Investigation,,Asymptomatic,12-Aug-2020,18-Aug-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 11-Aug-2020,1584,,28,Male,Filipino,"Panacan, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Panacan,Davao City,,Panacan,Davao City,
 11-Aug-2020,1585,,39,Male,Filipino,"26-C, Davao City",Ongoing Investigation,,Asymptomatic,11-Aug-2020,18-Aug-2020,,,Recovered,26-C,Davao City,,26-C,Davao City,
-11-Aug-2020,1586,,41,Male,Filipino,"Talas, Sulop, Davao del Sur",Confirmed Case,,Asymptomatic,,,,,Active,Talas,Sulop,Davao del Sur,#N/A,Davao del Sur,
+11-Aug-2020,1586,,41,Male,Filipino,"Talas, Sulop, Davao del Sur",Confirmed Case,,Asymptomatic,,24-Aug-2020,,,Recovered,Talas,Sulop,Davao del Sur,#N/A,Davao del Sur,
 11-Aug-2020,1587,,22,Female,Filipino,"Kapatagan, Digos City, Davao del Sur",Ongoing Investigation,30-Jul-2020,,11-Aug-2020,23-Aug-2020,,,Recovered,Kapatagan,Digos City,Davao del Sur,#N/A,Davao del Sur,
 11-Aug-2020,1588,,38,Male,Filipino,"Catalunan Grande, Davao City",Ongoing Investigation,,Asymptomatic,11-Aug-2020,22-Aug-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
-11-Aug-2020,1589,,22,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,11-Aug-2020,19-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
-11-Aug-2020,1590,,24,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,12-Aug-2020,23-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
+11-Aug-2020,1589,,22,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,11-Aug-2020,19-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+11-Aug-2020,1590,,24,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,12-Aug-2020,23-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 11-Aug-2020,1591,,40,Male,Filipino,"Alfonso Angliongto Sr., Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Alfonso Angliongto Sr.,Davao City,,Alfonso Angliongto Sr.,Davao City,"A. Angliongto Sr., Davao City"
 11-Aug-2020,1592,,61,Female,Filipino,"26-C, Davao City",Ongoing Investigation,5-Aug-2020,,,,,,Active,26-C,Davao City,,26-C,Davao City,
 11-Aug-2020,1593,,33,Female,Filipino,"2-A, Davao City",Confirmed Case,,,11-Aug-2020,23-Aug-2020,,,Recovered,2-A,Davao City,,2-A,Davao City,
@@ -1596,7 +1596,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 11-Aug-2020,1595,,45,Female,Filipino,"Dugmanon, San Isidro, Davao Oriental",Ongoing Investigation,,Asymptomatic,,,,,Active,Dugmanon,San Isidro,Davao Oriental,#N/A,Davao Oriental,
 11-Aug-2020,1596,,5,Male,Filipino,"La Union, San Isidro, Davao Oriental",Ongoing Investigation (LSI from Surigao),,Asymptomatic,12-Aug-2020,20-Aug-2020,,,Recovered,La Union,San Isidro,Davao Oriental,#N/A,Davao Oriental,
 11-Aug-2020,1597,,26,Female,Filipino,"New Asturias, Maco, Davao de Oro",Ongoing Investigation (LSI from Cavite),,,,,,,Active,New Asturias,Maco,Davao de Oro,#N/A,Davao de Oro,
-11-Aug-2020,1598,,34,Male,Filipino,"Doña Andrea, Asuncion, Davao del Norte",Ongoing Investigation (LSI from Quezon City),,Asymptomatic,,,,,Active,Doña Andrea,Asuncion,Davao del Norte,#N/A,Davao del Norte,
+11-Aug-2020,1598,,34,Male,Filipino,"Doña Andrea, Asuncion, Davao del Norte",Ongoing Investigation (LSI from Quezon City),,Asymptomatic,,24-Aug-2020,,,Recovered,Doña Andrea,Asuncion,Davao del Norte,#N/A,Davao del Norte,
 11-Aug-2020,1599,,56,Male,Filipino,"Malinawon, Mawab, Davao de Oro",Ongoing Investigation (LSI from Leyte),,Asymptomatic,,,,,Active,Malinawon,Mawab,Davao de Oro,#N/A,Davao de Oro,
 11-Aug-2020,1600,,23,Female,Filipino,"Matilo, Nabunturan, Davao de Oro",Ongoing Investigation,,Asymptomatic,,,,,Active,Matilo,Nabunturan,Davao de Oro,#N/A,Davao de Oro,
 11-Aug-2020,1601,,4,Female,Filipino,"Matina Aplaya, Davao City",Ongoing Investigation,7-Aug-2020,,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
@@ -1607,10 +1607,10 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 12-Aug-2020,1606,,46,Male,Filipino,"Catalunan Grande, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
 12-Aug-2020,1607,,49,Male,Filipino,"Cuambogan, Tagum City, Davao del Norte",Ongoing Investigation,,Asymptomatic,,,,,Active,Cuambogan,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 12-Aug-2020,1608,,47,Female,Filipino,"20-B, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,20-B,Davao City,,20-B,Davao City,
-12-Aug-2020,1609,,20,Female,Filipino,"20-B, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,20-B,Davao City,,20-B,Davao City,
+12-Aug-2020,1609,,20,Female,Filipino,"20-B, Davao City",Confirmed Case,,Asymptomatic,13-Aug-2020,24-Aug-2020,,,Recovered,20-B,Davao City,,20-B,Davao City,
 12-Aug-2020,1610,,27,Male,Filipino,"Catalunan Grande, Davao City",Confirmed Case,,Asymptomatic,14-Aug-2020,19-Aug-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
 12-Aug-2020,1611,,47,Female,Filipino,"76-A, Davao City",Confirmed Case,,Asymptomatic,14-Aug-2020,20-Aug-2020,,,Recovered,76-A,Davao City,,76-A,Davao City,Davao City
-12-Aug-2020,1612,,40,Male,Filipino,"Central Baganga, Davao Oriental",Ongoing Investigation (LSI from Lapu-Lapu City),,Asymptomatic,,,,,Active,Central Baganga,Davao Oriental,,#N/A,Davao Oriental,
+12-Aug-2020,1612,,40,Male,Filipino,"Central Baganga, Davao Oriental",Ongoing Investigation (LSI from Lapu-Lapu City),,Asymptomatic,,24-Aug-2020,,,Recovered,Central Baganga,Davao Oriental,,#N/A,Davao Oriental,
 12-Aug-2020,1613,,44,Male,Filipino,"Central, Tarragona, Davao Oriental",Ongoing Investigation,,,,,,,Active,Central,Tarragona,Davao Oriental,#N/A,Davao Oriental,
 12-Aug-2020,1614,,40,Male,Filipino,"Dahican, Mati City, Davao Oriental",Manila (LSI from Muntinlupa),,Asymptomatic,,,,,Active,Dahican,Mati City,Davao Oriental,#N/A,Davao Oriental,
 12-Aug-2020,1615,,73,Female,Filipino,"Dahican, Mati City, Davao Oriental",Manila (LSI from Valenzuela City),,Asymptomatic,,,,,Active,Dahican,Mati City,Davao Oriental,#N/A,Davao Oriental,
@@ -1623,7 +1623,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 12-Aug-2020,1622,,47,Female,Filipino,"Mangalcal, Carmen, Davao del Norte",Manila (LSI from Parañaque),,Asymptomatic,,,,,Active,Mangalcal,Carmen,Davao del Norte,#N/A,Davao del Norte,
 12-Aug-2020,1623,,40,Male,Filipino,"Cabaywa, Asuncion, Davao del Norte",Manila (ROF),,Asymptomatic,,,,,Active,Cabaywa,Asuncion,Davao del Norte,#N/A,Davao del Norte,
 12-Aug-2020,1624,,39,Female,Filipino,"Tigatto, Buhangin, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Tigatto,Buhangin,Davao City,Tigatto,Davao City,"Tigatto, Davao City"
-12-Aug-2020,1625,,27,Male,Filipino,"Zone 3, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Zone 3,Digos City,Davao del Sur,#N/A,Davao del Sur,
+12-Aug-2020,1625,,27,Male,Filipino,"Zone 3, Digos City, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,24-Aug-2020,,,Recovered,Zone 3,Digos City,Davao del Sur,#N/A,Davao del Sur,
 12-Aug-2020,1626,,26,Male,Filipino,"New Baclayon, Malalag, Davao del Sur",Confirmed Case (LSI from Cebu),,Asymptomatic,,,,,Active,New Baclayon,Malalag,Davao del Sur,#N/A,Davao del Sur,
 12-Aug-2020,1627,,22,Male,Filipino,"Bagumbayan, Malalag, Davao del Sur",Confirmed Case (LSI from Cebu),,Asymptomatic,,,,,Active,Bagumbayan,Malalag,Davao del Sur,#N/A,Davao del Sur,
 12-Aug-2020,1628,,23,Female,Filipino,"New Baclayon, Malalag, Davao del Sur",Confirmed Case (LSI from Cebu),,Asymptomatic,,,,,Active,New Baclayon,Malalag,Davao del Sur,#N/A,Davao del Sur,
@@ -1641,7 +1641,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 12-Aug-2020,1640,,37,Female,Filipino,"Don Martin Marundan, Mati City, Davao Oriental",Manila (LSI from Pasig),,Asymptomatic,,,,,Active,Don Martin Marundan,Mati City,Davao Oriental,#N/A,Davao Oriental,
 13-Aug-2020,1641,,28,Female,Filipino,"Ngan, Compostela, Davao de Oro",Ongoing Investigation (LSI from Cavite),,Asymptomatic,,,,,Active,Ngan,Compostela,Davao de Oro,#N/A,Davao de Oro,
 13-Aug-2020,1642,,32,Female,Filipino,"San Roque, New Bataan, Davao de Oro",Manila (LSI from Pasay),,Asymptomatic,,,,,Active,San Roque,New Bataan,Davao de Oro,#N/A,Davao de Oro,
-13-Aug-2020,1643,,48,Male,Filipino,"20-B, Davao City",Ongoing Investigation (LSI),,,11-Aug-2020,13-Aug-2020,,,Dead,20-B,Davao City,,20-B,Davao City,
+13-Aug-2020,1643,,48,Male,Filipino,"20-B, Davao City",Ongoing Investigation (LSI),,,11-Aug-2020,,13-Aug-2020,,Dead,20-B,Davao City,,20-B,Davao City,
 13-Aug-2020,1644,,43,Male,Filipino,"Gredu, Panabo City, Davao del Norte",Ongoing Investigation (ROF from West Africa),,Asymptomatic,,,,,Active,Gredu,Panabo City,Davao del Norte,#N/A,Davao del Norte,
 13-Aug-2020,1645,,35,Male,Filipino,"Manay, Panabo City, Davao del Norte",Ongoing Investigation,,Asymptomatic,,,,,Active,Manay,Panabo City,Davao del Norte,#N/A,Davao del Norte,
 13-Aug-2020,1646,,29,Female,Filipino,"Tibungol, Panabo City, Davao del Norte",Ongoing Investigation (ROF from Saudi Arabia),,Asymptomatic,,,,,Active,Tibungol,Panabo City,Davao del Norte,#N/A,Davao del Norte,
@@ -1669,10 +1669,10 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 14-Aug-2020,1668,,41,Male,Filipino,"Tugbok Proper, Davao City",Other Place (ROF from Dubai),,Asymptomatic,,,,,Active,Tugbok Proper,Davao City,,Tugbok Proper,Davao City,"Tugbok, Davao City"
 14-Aug-2020,1669,,30,Male,Filipino,"Baybay, Malalag, Davao del Sur",Ongoing Investigation,,Asymptomatic,,,,,Active,Baybay,Malalag,Davao del Sur,#N/A,Davao del Sur,
 14-Aug-2020,1670,,37,Male,Filipino,"Matina Crossing, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Matina Crossing,Davao City,,Matina Crossing,Davao City,
-14-Aug-2020,1671,,47,Male,Filipino,"76-A, Davao City",Ongoing Investigation,,Asymptomatic,13-Aug-2020,14-Aug-2020,,,Dead,76-A,Davao City,,#N/A,Davao City,
-14-Aug-2020,1672,,34,Male,Filipino,"Aliwagwag, Cateel, Davao Oriental",Confirmed Case (DR-1470),,Asymptomatic,,,,,Active,Aliwagwag,Cateel,Davao Oriental,#N/A,Davao Oriental,
-14-Aug-2020,1673,,28,Female,Filipino,"Aliwagwag, Cateel, Davao Oriental",Confirmed Case (DR-1470),,Asymptomatic,,,,,Active,Aliwagwag,Cateel,Davao Oriental,#N/A,Davao Oriental,
-14-Aug-2020,1674,,8,Male,Filipino,"Aliwagwag, Cateel, Davao Oriental",Confirmed Case (DR-1470),,Asymptomatic,,,,,Active,Aliwagwag,Cateel,Davao Oriental,#N/A,Davao Oriental,
+14-Aug-2020,1671,,47,Male,Filipino,"76-A, Davao City",Ongoing Investigation,,Asymptomatic,13-Aug-2020,,14-Aug-2020,,Dead,76-A,Davao City,,76-A,Davao City,
+14-Aug-2020,1672,,34,Male,Filipino,"Aliwagwag, Cateel, Davao Oriental",Confirmed Case (DR-1470),,Asymptomatic,,24-Aug-2020,,,Recovered,Aliwagwag,Cateel,Davao Oriental,#N/A,Davao Oriental,
+14-Aug-2020,1673,,28,Female,Filipino,"Aliwagwag, Cateel, Davao Oriental",Confirmed Case (DR-1470),,Asymptomatic,,24-Aug-2020,,,Recovered,Aliwagwag,Cateel,Davao Oriental,#N/A,Davao Oriental,
+14-Aug-2020,1674,,8,Male,Filipino,"Aliwagwag, Cateel, Davao Oriental",Confirmed Case (DR-1470),,Asymptomatic,,24-Aug-2020,,,Recovered,Aliwagwag,Cateel,Davao Oriental,#N/A,Davao Oriental,
 14-Aug-2020,1675,,28,Male,Filipino,"Taytayan, Cateel, Davao Oriental",Ongoing Investigation (ROF from Saudi Arabia),,Asymptomatic,,21-Aug-2020,,,Recovered,Taytayan,Cateel,Davao Oriental,#N/A,Davao Oriental,
 14-Aug-2020,1676,,75,Female,Filipino,"San Miguel, Cateel, Davao Oriental",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,21-Aug-2020,,,Recovered,San Miguel,Cateel,Davao Oriental,#N/A,Davao Oriental,
 14-Aug-2020,1677,,26,Female,Filipino,"Matina Pangi, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Matina Pangi,Davao City,,Matina Pangi,Davao City,
@@ -1714,11 +1714,11 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 15-Aug-2020,1713,,26,Female,Filipino,"Central, Mati City, Davao Oriental",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Central,Mati City,Davao Oriental,#N/A,Davao Oriental,
 15-Aug-2020,1714,,48,Female,Filipino,"Maa, Davao City",Confirmed Case,8-Aug-2020,,,,,,Active,Maa,Davao City,,Maa,Davao City,
 15-Aug-2020,1715,,30,Female,Filipino,"32-D, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,32-D,Davao City,,32-D,Davao City,
-15-Aug-2020,1716,,42,Female,Filipino,"Unknown, Davao City",Confirmed Case,,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+15-Aug-2020,1716,,42,Female,Filipino,"Unknown, Davao City",Confirmed Case,,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,Davao City
 15-Aug-2020,1717,,47,Male,Filipino,"Indangan, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Indangan,Davao City,,Indangan,Davao City,
 15-Aug-2020,1718,,46,Male,Filipino,"Tibungco, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Tibungco,Davao City,,Tibungco,Davao City,
 15-Aug-2020,1719,,31,Female,Filipino,"76-A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,76-A,Davao City,,76-A,Davao City,
-15-Aug-2020,1720,,23,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+15-Aug-2020,1720,,23,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
 15-Aug-2020,1721,,39,Female,Filipino,"Maa, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Maa,Davao City,,Maa,Davao City,
 15-Aug-2020,1722,,46,Female,Filipino,"32-D, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,32-D,Davao City,,32-D,Davao City,
 16-Aug-2020,1723,,24,Male,Filipino,"Mapawa, Maragusan, Davao de Oro",Ongoing Investigation,,Asymptomatic,,,,,Active,Mapawa,Maragusan,Davao de Oro,#N/A,Davao de Oro,
@@ -1729,35 +1729,35 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 16-Aug-2020,1728,,31,Male,Filipino,"33-D, Davao City",Ongoing Investigation,11-Aug-2020,,,,,,Active,33-D,Davao City,,33-D,Davao City,
 16-Aug-2020,1729,,44,Female,Filipino,"Catalunan Pequeño, Davao City",Ongoing Investigation,11-Aug-2020,,,,,,Active,Catalunan Pequeño,Davao City,,Catalunan Pequeño,Davao City,
 16-Aug-2020,1730,,35,Male,Filipino,"Catalunan Pequeño, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Catalunan Pequeño,Davao City,,Catalunan Pequeño,Davao City,
-16-Aug-2020,1731,,38,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1732,,17,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1733,,3,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1734,,13,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1735,,0,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1736,,37,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1737,,32,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1738,,14,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1739,,33,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1740,,30,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1741,,19,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1742,,47,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1743,,64,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1744,,39,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1745,,59,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1746,,55,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1747,,50,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1748,,48,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1749,,11,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1750,,33,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1751,,3,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1752,,29,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1753,,9,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1754,,55,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1755,,55,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1756,,45,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1757,,46,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1758,,44,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1759,,16,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+16-Aug-2020,1731,,38,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1732,,17,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1733,,3,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1734,,13,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1735,,0,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1736,,37,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1737,,32,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1738,,14,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1739,,33,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1740,,30,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1741,,19,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1742,,47,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1743,,64,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1744,,39,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1745,,59,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1746,,55,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1747,,50,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1748,,48,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1749,,11,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1750,,33,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1751,,3,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1752,,29,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1753,,9,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1754,,55,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1755,,55,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1756,,45,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1757,,46,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1758,,44,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
+16-Aug-2020,1759,,16,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
 16-Aug-2020,1760,,44,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde Sr., Agdao, Davao City"
 16-Aug-2020,1761,,30,Female,Filipino,"Catalunan Pequeño, Davao City",Ongoing Investigation,,,,,,,Active,Catalunan Pequeño,Davao City,,Catalunan Pequeño,Davao City,
 16-Aug-2020,1762,,31,Male,Filipino,"Lizada, Toril B, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Lizada,Toril B,Davao City,Lizada,Davao City,
@@ -1765,27 +1765,27 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 16-Aug-2020,1764,,27,Male,Filipino,"San Miguel, Digos City, Davao del Sur",Ongoing Investigation (For verification),,Asymptomatic,,,,,Active,San Miguel,Digos City,Davao del Sur,#N/A,Davao del Sur,
 16-Aug-2020,1765,,35,Male,Filipino,"19-B, Davao City",Confirmed Case,,Asymptomatic,16-Aug-2020,23-Aug-2020,,,Recovered,19-B,Davao City,,19-B,Davao City,
 16-Aug-2020,1766,,60,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
-16-Aug-2020,1767,,39,Male,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
-16-Aug-2020,1768,,46,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+16-Aug-2020,1767,,39,Male,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,16-Aug-2020,24-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+16-Aug-2020,1768,,46,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,16-Aug-2020,24-Aug-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 16-Aug-2020,1769,,36,Female,Filipino,"Agdao Centro, Davao City",Ongoing Investigation,4-Aug-2020,,,,,,Active,Agdao Centro,Davao City,,Agdao Centro,Davao City,"Centro, Agdao, Davao City"
 16-Aug-2020,1770,,50,Female,Filipino,"San Isidro, Bunawan, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,San Isidro,Bunawan,Davao City,#N/A,Davao City,"San Isidro, Bunawan, Davao City"
-16-Aug-2020,1771,,76,Male,Filipino,"Bagumbayan, Malalag, Davao del Sur",Ongoing Investigation,12-Aug-2020,,12-Aug-2020,15-Aug-2020,,,Dead,Bagumbayan,Malalag,Davao del Sur,#N/A,Davao del Sur,
-16-Aug-2020,1772,,39,Male,Filipino,"Cabantian, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Cabantian,Davao City,,Cabantian,Davao City,
+16-Aug-2020,1771,,76,Male,Filipino,"Bagumbayan, Malalag, Davao del Sur",Ongoing Investigation,12-Aug-2020,,12-Aug-2020,,15-Aug-2020,,Dead,Bagumbayan,Malalag,Davao del Sur,#N/A,Davao del Sur,
+16-Aug-2020,1772,,39,Male,Filipino,"Cabantian, Davao City",Confirmed Case,,Asymptomatic,16-Aug-2020,24-Aug-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
 16-Aug-2020,1773,,33,Male,Filipino,"Dawan, Mati City, Davao Oriental",Ongoing Investigation,,Asymptomatic,,,,,Active,Dawan,Mati City,Davao Oriental,#N/A,Davao Oriental,
 16-Aug-2020,1774,,29,Female,Filipino,"Dalag Lumot, Marilog, Davao City",Ongoing Investigation (For verification),,Asymptomatic,,,,,Active,Dalag Lumot,Marilog,Davao City,#N/A,Davao City,"Dalag Lumot, Marilog, Davao City"
-16-Aug-2020,1775,,21,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
-16-Aug-2020,1776,,52,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation (ROF from Saudi Arabia),,,16-Aug-2020,17-Aug-2020,,,Dead,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+18-Aug-2020,1775,,21,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde, Agdao, Davao City"
+16-Aug-2020,1776,,52,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation (ROF from Saudi Arabia),,,16-Aug-2020,,17-Aug-2020,,Dead,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 16-Aug-2020,1777,,32,Female,Filipino,"6-A, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,6-A,Davao City,,6-A,Davao City,
-17-Aug-2020,1778,,0,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+17-Aug-2020,1778,,0,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde, Agdao, Davao City"
 17-Aug-2020,1779,,44,Male,Filipino,"Unknown, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Unknown,Davao City,,Unknown,Davao City,Davao City
 17-Aug-2020,1780,,42,Male,Filipino,"26-C, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,26-C,Davao City,,26-C,Davao City,
-17-Aug-2020,1781,,24,Male,Filipino,"Unknown, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
-17-Aug-2020,1782,,56,Male,Filipino,"Unknown, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+17-Aug-2020,1781,,24,Male,Filipino,"Unknown, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Unknown,Davao City,,Unknown,Davao City,Davao City
+17-Aug-2020,1782,,56,Male,Filipino,"Unknown, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Unknown,Davao City,,Unknown,Davao City,Davao City
 17-Aug-2020,1783,,25,Male,Filipino,"Gov. Paciano Bangoy, Agdao, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Gov. Paciano Bangoy,Agdao,Davao City,Gov. Paciano Bangoy,Davao City,
 17-Aug-2020,1784,,39,Male,Filipino,"Gov. Paciano Bangoy, Agdao, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Gov. Paciano Bangoy,Agdao,Davao City,Gov. Paciano Bangoy,Davao City,
 17-Aug-2020,1785,,44,Female,Filipino,"New Cortez, New Corella, Davao del Norte",Ongoing Investigation (ROF from Saudi Arabia),,Asymptomatic,,,,,Active,New Cortez,New Corella,Davao del Norte,#N/A,Davao del Norte,
 17-Aug-2020,1786,,21,Female,Filipino,"Sibayan, Bansalan, Davao del Sur",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Sibayan,Bansalan,Davao del Sur,#N/A,Davao del Sur,
-18-Aug-2020,1787,,29,Male,Filipino,"Visayan Village, Tagum City, Davao del Norte",Ongoing Investigation,,,,,,,Active,Visayan Village,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+18-Aug-2020,1787,,29,Male,Filipino,"Visayan Village, Tagum City, Davao del Norte",Ongoing Investigation,,,18-Aug-2020,24-Aug-2020,,,Recovered,Visayan Village,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 18-Aug-2020,1788,,41,Female,Filipino,"Matina Aplaya, Davao City",Ongoing Investigation,,,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
 18-Aug-2020,1789,,58,Female,Filipino,"Madaum, Tagum City, Davao del Norte",Confirmed Case,,Asymptomatic,,,,,Active,Madaum,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 18-Aug-2020,1790,,60,Male,Filipino,"Madaum, Tagum City, Davao del Norte",Confirmed Case,,Asymptomatic,,,,,Active,Madaum,Tagum City,Davao del Norte,#N/A,Davao del Norte,
@@ -1831,7 +1831,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 20-Aug-2020,1830,,44,Female,Filipino,"Apokon, Tagum City, Davao del Norte",Ongoing Investigation (LSI from Quezon),,Asymptomatic,,,,,Active,Apokon,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 20-Aug-2020,1831,,46,Male,Filipino,"Bago Aplaya, Davao City",Ongoing Investigation ,,Asymptomatic,,,,,Active,Bago Aplaya,Davao City,,Bago Aplaya,Davao City,
 20-Aug-2020,1832,,64,Female,Filipino,"Central, Mati City, Davao Oriental",Confirmed Case,,Asymptomatic,,,,,Active,Central,Mati City,Davao Oriental,#N/A,Davao Oriental,
-20-Aug-2020,1833,,21,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation ,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+20-Aug-2020,1833,,21,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation ,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde, Agdao, Davao City"
 20-Aug-2020,1834,,27,Female,Filipino,"19-B, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,19-B,Davao City,,19-B,Davao City,
 20-Aug-2020,1835,,21,Male,Filipino,"Poblacion, Sulop, Davao Oriental",Ongoing Investigation (LSI from Cebu),,Asymptomatic,,,,,Active,Poblacion,Sulop,Davao Oriental,#N/A,Davao Oriental,
 20-Aug-2020,1836,,42,Female,Filipino,"Piso Proper, Banaybanay, Davao Oriental",Ongoing Investigation (ROF from Qatar),,Asymptomatic,,,,,Active,Piso Proper,Banaybanay,Davao Oriental,#N/A,Davao Oriental,
@@ -1858,19 +1858,19 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 21-Aug-2020,1857,,27,Female,Filipino,"Napnapan, Pantukan, Davao de Oro",Ongoing Investigation (LSI),,Asymptomatic,,,,,Active,Napnapan,Pantukan,Davao de Oro,#N/A,Davao de Oro,
 21-Aug-2020,1858,,48,Male,Filipino,"76-A, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,76-A,Davao City,,76-A,Davao City,
 21-Aug-2020,1859,,40,Female,Filipino,"19-B, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,19-B,Davao City,,19-B,Davao City,
-21-Aug-2020,1860,,46,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+21-Aug-2020,1860,,46,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde, Agdao, Davao City"
 21-Aug-2020,1861,,19,Male,Filipino,"5-A, Davao City",Confirmed Case (DR-1688),,Asymptomatic,,,,,Active,5-A,Davao City,,5-A,Davao City,
 21-Aug-2020,1862,,43,Male,Filipino,"5-A, Davao City",Confirmed Case (DR-1688),,Asymptomatic,,,,,Active,5-A,Davao City,,5-A,Davao City,
 21-Aug-2020,1863,,15,Male,Filipino,"5-A, Davao City",Confirmed Case (DR-1688),,Asymptomatic,,,,,Active,5-A,Davao City,,5-A,Davao City,
 21-Aug-2020,1864,,53,Female,Filipino,"23-C, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
-21-Aug-2020,1865,,51,Male,Filipino,"Unknown, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+21-Aug-2020,1865,,51,Male,Filipino,"Unknown, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Unknown,Davao City,,Unknown,Davao City,Davao City
 21-Aug-2020,1866,,34,Female,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
 21-Aug-2020,1867,,56,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
 21-Aug-2020,1868,,70,Female,Filipino,"Zone II, Sta. Cruz, Davao del Sur",Ongoing Investigation,,Asymptomatic,,,,,Active,Zone II,Sta. Cruz,Davao del Sur,#N/A,Davao del Sur,
 21-Aug-2020,1869,,89,Female,Filipino,"Sobrecarey, Caraga, Davao Oriental",Confirmed Case,,Asymptomatic,,,,,Active,Sobrecarey,Caraga,Davao Oriental,#N/A,Davao Oriental,
 21-Aug-2020,1870,,36,Female,Filipino,"18-B, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,18-B,Davao City,,18-B,Davao City,
 21-Aug-2020,1871,,5,Male,Filipino,"Tugbok Proper, Davao City",Ongoing Investigation,,,,,,,Active,Tugbok Proper,Davao City,,Tugbok Proper,Davao City,
-21-Aug-2020,1872,,60,Female,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,,15-Aug-2020,18-Aug-2020,,,Dead,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
+21-Aug-2020,1872,,60,Female,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,,,15-Aug-2020,,18-Aug-2020,,Dead,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
 21-Aug-2020,1873,,37,Female,Filipino,"23-C, Davao City",Ongoing Investigation (ROF from Saudi Arabia),,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
 21-Aug-2020,1874,,38,Male,Filipino,"Tagansulo, Malalag, Davao del Sur",Ongoing Investigation (LSI),,Asymptomatic,,,,,Active,Tagansulo,Malalag,Davao del Sur,#N/A,Davao del Sur,
 21-Aug-2020,1875,,24,Female,Filipino,"Toril Proper, Davao City",Ongoing Investigation (For Verification),,Asymptomatic,,,,,Active,Toril Proper,Davao City,,Toril Proper,Davao City,
@@ -1879,18 +1879,18 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 21-Aug-2020,1878,,23,Male,Filipino,"Catalunan Grande, Davao City",Ongoing Investigation,,,,,,,Active,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
 22-Aug-2020,1879,,43,Female,Filipino,"Matina Aplaya, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
 22-Aug-2020,1880,,32,Female,Filipino,"26-C, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,26-C,Davao City,,26-C,Davao City,
-22-Aug-2020,1881,,36,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+22-Aug-2020,1881,,36,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde, Agdao, Davao City"
 22-Aug-2020,1882,,28,Female,Filipino,"Magugpo North, Tagum City, Davao del Norte",Ongoing Investigation (ROF from Kuwait),,Asymptomatic,,,,,Active,Magugpo North,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 22-Aug-2020,1883,,27,Female,Filipino,"Apokon, Tagum City, Davao del Norte",Ongoing Investigation (For Verification),,Asymptomatic,,,,,Active,Apokon,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 22-Aug-2020,1884,,39,Male,Filipino,"Basiawan, Sta. Maria, Davao Occidental",Confirmed Case,,Asymptomatic,,,,,Active,Basiawan,Sta. Maria,Davao Occidental,#N/A,Davao Occidental,
 22-Aug-2020,1885,,22,Female,Filipino,"Basiawan, Sta. Maria, Davao Occidental",Confirmed Case (LSI from Cebu),,Asymptomatic,,,,,Active,Basiawan,Sta. Maria,Davao Occidental,#N/A,Davao Occidental,
 22-Aug-2020,1886,,37,Male,Filipino,"Matina Crossing, Davao City",Ongoing Investigation ,,Asymptomatic,,,,,Active,Matina Crossing,Davao City,,Matina Crossing,Davao City,
-22-Aug-2020,1887,,60,Male,Filipino,"Maa, Davao City",Ongoing Investigation ,,,20-Aug-2020,20-Aug-2020,,,Dead,Maa,Davao City,,Maa,Davao City,
+22-Aug-2020,1887,,60,Male,Filipino,"Maa, Davao City",Ongoing Investigation ,,,20-Aug-2020,,20-Aug-2020,,Dead,Maa,Davao City,,Maa,Davao City,
 22-Aug-2020,1888,,35,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation ,,Asymptomatic,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
 22-Aug-2020,1889,,22,Female,Filipino,"23-C, Davao City",Ongoing Investigation ,16-Aug-2020,,,,,,Active,23-C,Davao City,,23-C,Davao City,
-22-Aug-2020,1890,,17,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation ,,,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+22-Aug-2020,1890,,17,Female,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation ,,,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde, Agdao, Davao City"
 22-Aug-2020,1891,,26,Male,Filipino,"Sasa, Davao City",Ongoing Investigation ,,Asymptomatic,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
-22-Aug-2020,1892,,69,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation ,,,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,
+22-Aug-2020,1892,,69,Male,Filipino,"Kap. Tomas Monteverde Sr., Agdao, Davao City",Ongoing Investigation ,,,,,,,Active,Kap. Tomas Monteverde Sr.,Agdao,Davao City,Kap. Tomas Monteverde Sr.,Davao City,"Tomas Monteverde, Agdao, Davao City"
 22-Aug-2020,1893,,38,Male,Filipino,"Los Amigos, Tugbok, Davao City",Ongoing Investigation (For Verification),,Asymptomatic,,,,,Active,Los Amigos,Tugbok,Davao City,Los Amigos,Davao City,
 22-Aug-2020,1894,,39,Male,Filipino,"Inawayan, Sta. Cruz, Davao del Sur",Ongoing Investigation ,,Asymptomatic,,,,,Active,Inawayan,Sta. Cruz,Davao del Sur,#N/A,Davao del Sur,
 22-Aug-2020,1895,,26,Female,Filipino,"Mintal, Davao City",Ongoing Investigation (For Verification),,Asymptomatic,,,,,Active,Mintal,Davao City,,Mintal,Davao City,
@@ -1912,4 +1912,8 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 23-Aug-2020,1911,,17,Female,Filipino,"Marilog Proper, Davao City",Ongoing Investigation,13-Aug-2020,,21-Aug-2020,,22-Aug-2020,,Dead,Marilog Proper,Davao City,,Marilog Proper,Davao City,"Marilog, Davao City"
 23-Aug-2020,1912,,30,Female,Filipino,"Matina Pangi, Davao City",Ongoing Investigation (ROF from Abu Dhabi),,Asymptomatic,,,,,Active,Matina Pangi,Davao City,,Matina Pangi,Davao City,
 23-Aug-2020,1913,,51,Female,Filipino,"Gov. Paciano Bangoy, Agdao, Davao City",Ongoing Investigation,20-Aug-2020,,,,,,Active,Gov. Paciano Bangoy,Agdao,Davao City,Gov. Paciano Bangoy,Davao City,"Paciano Bangoy, Agdao, Davao City"
-23-Aug-2020,1914,,30,Male,Filipino,"Unknown, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
+23-Aug-2020,1914,,30,Male,Filipino,"Unknown, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,Unknown,Davao City,,Unknown,Davao City,Davao City
+24-Aug-2020,1915,,33,Female,Filipino,"Poblacion, Monkayo, Davao de Oro",Ongoing Investigation (For Verification),,Asymptomatic,,,,,Active,Poblacion,Monkayo,Davao de Oro,#N/A,Davao de Oro,
+24-Aug-2020,1916,,42,Female,Filipino,"Mangayon, Compostela, Davao de Oro",Manila (For verification),,Asymptomatic,,,,,Active,Mangayon,Compostela,Davao de Oro,#N/A,Davao de Oro,
+24-Aug-2020,1917,,33,Male,Filipino,"Mainit, Nabunturan, Davao de Oro",Confirmed Case,,Asymptomatic,,,,,Active,Mainit,Nabunturan,Davao de Oro,#N/A,Davao de Oro,
+24-Aug-2020,1918,,37,Male,Filipino,"Bucana, Maco, Davao de Oro",Ongoing Investigation (ROF from Abu Dhabi),,Asymptomatic,,,,,Active,Bucana,Maco,Davao de Oro,Bucana,Davao de Oro,
