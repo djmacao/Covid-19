@@ -1,23 +1,23 @@
 {
     "testing": {
-        "reportdate": "Aug-22-2020",
-        "cumulative_samples_tested": 48046,
-        "cumulative_unique_individuals": 37460,
-        "cumulative_positive_individuals": 2068,
-        "cumulative_negative_individuals": 35392,
+        "reportdate": "Aug-24-2020",
+        "cumulative_samples_tested": 48597,
+        "cumulative_unique_individuals": 37825,
+        "cumulative_positive_individuals": 2088,
+        "cumulative_negative_individuals": 35737,
         "pct_positive_cumulative": "5.52%",
         "pct_negative_cumulative": "94.48%"
     },
     "facility": {
-        "reportdate": "Aug-22-2020",
-        "icu_v": 13.0,
-        "icu_o": 20.0,
-        "isolbed_v": 61.0,
-        "isolbed_o": 103.0,
-        "beds_ward_v": 20.0,
-        "beds_ward_o": 38.0,
-        "mechvent_v": 32.0,
-        "mechvent_o": 9.0
+        "reportdate": "Aug-24-2020",
+        "icu_v": 16.0,
+        "icu_o": 17.0,
+        "isolbed_v": 70.0,
+        "isolbed_o": 97.0,
+        "beds_ward_v": 17.0,
+        "beds_ward_o": 41.0,
+        "mechvent_v": 33.0,
+        "mechvent_o": 8.0
     },
     "ppe": {
         "reportdate": "Aug-16-2020",
