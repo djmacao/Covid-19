@@ -2958,7 +2958,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 27-Sep-2020,2957,,68,Male,Filipino,"Aplaya, Digos City, Davao del Sur",Unknown Travel and History of Exposure,29-Sep-2020,,25-Sep-2020,,29-Sep-2020,,Dead,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
 27-Sep-2020,2958,,25,Male,Filipino,"Binuangan, Maco, Davao de Oro",Local Travel (For verification),,Asymptomatic,25-Sep-2020,13-Oct-2020,,,Recovered,Binuangan,Maco,Davao de Oro,#N/A,Davao de Oro,
 27-Sep-2020,2959,,30,Male,Filipino,"Marayag, Lupon, Davao Oriental",Local Travel (For verification),,Asymptomatic,26-Sep-2020,11-Oct-2020,,,Recovered,Marayag,Lupon,Davao Oriental,#N/A,Davao Oriental,
-27-Sep-2020,2960,,52,Female,Filipino,"Magugpo Poblacion, Tagum City, Davao del Norte",Unknown Travel and History of Exposure,26-Sep-2020,,,,,,Active,Magugpo Poblacion,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+27-Sep-2020,2960,,52,Female,Filipino,"Magugpo Poblacion, Tagum City, Davao del Norte",Unknown Travel and History of Exposure,26-Sep-2020,,26-Sep-2020,19-Oct-2020,,,Recovered,Magugpo Poblacion,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 28-Sep-2020,2961,,48,Female,Filipino,"Panacan, Davao City",Confirmed Case (For Verification),,Asymptomatic,28-Sep-2020,12-Oct-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 29-Sep-2020,2962,,56,Male,Filipino,"Matina Aplaya, Davao City",Confirmed Case,25-Sep-2020,,9-Aug-2020,18-Oct-2020,,,Recovered,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
 29-Sep-2020,2963,,26,Male,Filipino,"Maa, Davao City",Unknown Travel and History of Exposure,,Asymptomatic,29-Sep-2020,12-Oct-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,
@@ -2979,7 +2979,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 29-Sep-2020,2978,,22,Male,Filipino,"Sasa, Davao City",Confirmed Case,24-Sep-2020,,26-Sep-2020,12-Oct-2020,,,Recovered,Sasa,Davao City,,Sasa,Davao City,
 29-Sep-2020,2979,,20,Female,Filipino,"Panacan, Davao City",Unknown Travel and History of Exposure,25-Sep-2020,,26-Sep-2020,12-Oct-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 29-Sep-2020,2980,,54,Female,Filipino,"Sasa, Davao City",Unknown Travel and History of Exposure,20-Sep-2020,,26-Sep-2020,,26-Sep-2020,,Dead,Sasa,Davao City,,Sasa,Davao City,
-29-Sep-2020,2981,,45,Male,Filipino,"Tibungco, Davao City",Unknown Travel and History of Exposure,15-Sep-2020,,,,,,Active,Tibungco,Davao City,,Tibungco,Davao City,
+29-Sep-2020,2981,,45,Male,Filipino,"Tibungco, Davao City",Unknown history of travel and exposure,15-Sep-2020,,27-Sep-2020,19-Oct-2020,,,Recovered,Tibungco,Davao City,,Tibungco,Davao City,
 29-Sep-2020,2982,,25,Male,Filipino,"Matina Crossing, Davao City",Unknown Travel and History of Exposure,13-Sep-2020,,26-Sep-2020,13-Oct-2020,,,Recovered,Matina Crossing,Davao City,,Matina Crossing,Davao City,
 29-Sep-2020,2983,,69,Female,Filipino,"Sasa, Davao City",Unknown Travel and History of Exposure,25-Sep-2020,,26-Sep-2020,,28-Sep-2020,,Dead,Sasa,Davao City,,Sasa,Davao City,
 29-Sep-2020,2984,,64,Male,Filipino,"Tibungco, Davao City",Unknown Travel and History of Exposure,26-Sep-2020,,27-Sep-2020,,1-Oct-2020,,Dead,Tibungco,Davao City,,Tibungco,Davao City,
@@ -3009,7 +3009,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 29-Sep-2020,3008,,29,Female,Filipino,"Tuburan, Mawab, Davao de Oro",Local Travel (For verification),,Asymptomatic,28-Sep-2020,15-Oct-2020,,,Recovered,Tuburan,Mawab,Davao de Oro,#N/A,Davao de Oro,
 29-Sep-2020,3009,,24,Female,Filipino,"Zone 2, Sta. Cruz, Davao del Sur",Unknown history of travel and exposure (LSI),,Asymptomatic,28-Sep-2020,13-Oct-2020,,,Recovered,Zone 2,Sta. Cruz,Davao del Sur,#N/A,Davao del Sur,
 29-Sep-2020,3010,,55,Male,Filipino,"Toril Proper, Davao City",Unknown History of travel and exposure,23-Sep-2020,,30-Sep-2020,14-Oct-2020,,,Recovered,Toril Proper,Davao City,,Toril Proper,Davao City,"Toril A, Davao City"
-29-Sep-2020,3011,,45,Female,Filipino,"Maa, Davao City",Local Travel ,,Asymptomatic,,,,,Active,Maa,Davao City,,Maa,Davao City,
+29-Sep-2020,3011,,45,Female,Filipino,"Maa, Davao City",Confirmed Case (For verification),,Asymptomatic,29-Sep-2020,19-Oct-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,
 29-Sep-2020,3012,,36,Male,Filipino,"Manat, Nabunturan, Davao de Oro",Local Travel (For verification),,Asymptomatic,,15-Oct-2020,,,Recovered,Manat,Nabunturan,Davao de Oro,#N/A,Davao de Oro,
 29-Sep-2020,3013,,44,Male,Filipino,"Bunawan Proper, Davao City",Confirmed Case (For verification),,Asymptomatic,,14-Oct-2020,,,Recovered,Bunawan Proper,Davao City,,Bunawan Proper,Davao City,"Bunawan, Davao City"
 29-Sep-2020,3014,,26,Female,Filipino,"Governor Generoso, Davao Oriental",Confirmed Case (For verification),,Asymptomatic,30-Sep-2020,15-Oct-2020,,,Recovered,Governor Generoso,Davao Oriental,,#N/A,Davao Oriental,
@@ -3018,7 +3018,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 29-Sep-2020,3017,,25,Male,Filipino,"Zone 3, Sta. Cruz, Davao del Sur",Local Travel (For verification),,Asymptomatic,30-Sep-2020,13-Oct-2020,,,Recovered,Zone 3,Sta. Cruz,Davao del Sur,#N/A,Davao del Sur,
 29-Sep-2020,3018,,39,Male,Filipino,"Buhangin Proper, Davao City",Local Travel (For verification),,Asymptomatic,29-Sep-2020,14-Oct-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 29-Sep-2020,3019,,30,Male,Filipino,"33-D, Davao City",Local Travel (For verification),,Asymptomatic,29-Sep-2020,14-Oct-2020,,,Recovered,33-D,Davao City,,33-D,Davao City,
-29-Sep-2020,3020,,21,Male,Filipino,"19-B, Davao City",Unknown History of travel and exposure,5-Sep-2020,,,,,,Active,19-B,Davao City,,19-B,Davao City,
+29-Sep-2020,3020,,21,Male,Filipino,"19-B, Davao City",Unknown history of travel and exposure,5-Sep-2020,,29-Sep-2020,19-Oct-2020,,,Recovered,19-B,Davao City,,19-B,Davao City,
 29-Sep-2020,3021,,64,Female,Filipino,"Buhangin Proper, Davao City",Unknown History of travel and exposure,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 29-Sep-2020,3022,,52,Male,Filipino,"Unknown, Davao City",Unknown History of travel and exposure,,Asymptomatic,30-Sep-2020,14-Oct-2020,,,Recovered,Unknown,Davao City,,Unknown,Davao City,
 29-Sep-2020,3023,,29,Female,Filipino,"San Antonio, Agdao, Davao City",Unknown History of travel and exposure,,Asymptomatic,29-Sep-2020,14-Oct-2020,,,Recovered,San Antonio,Agdao,Davao City,San Antonio,Davao City,
@@ -3027,7 +3027,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 29-Sep-2020,3026,,30,Female,Filipino,"Zone 3, Digos City, Davao del Sur",Local Travel (For verification),,Asymptomatic,29-Sep-2020,14-Oct-2020,,,Recovered,Zone 3,Digos City,Davao del Sur,#N/A,Davao del Sur,
 29-Sep-2020,3027,,64,Female,Filipino,"Zone 3, Digos City, Davao del Sur",Local Travel (For verification),,Asymptomatic,28-Sep-2020,14-Oct-2020,,,Recovered,Zone 3,Digos City,Davao del Sur,#N/A,Davao del Sur,
 29-Sep-2020,3028,,44,Male,Filipino,"Marayag, Lupon, Davao Oriental",Local Travel (For verification),,Asymptomatic,,13-Oct-2020,,,Recovered,Marayag,Lupon,Davao Oriental,#N/A,Davao Oriental,
-30-Sep-2020,3029,,24,Female,Filipino,"Magugpo South, Tagum City, Davao del Norte",Ongoing Investigation,27-Sep-2020,,,,,,Active,Magugpo South,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+30-Sep-2020,3029,,24,Female,Filipino,"Magugpo South, Tagum City, Davao del Norte",Confirmed Case,27-Sep-2020,,3-Oct-2020,19-Oct-2020,,,Active,Magugpo South,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 30-Sep-2020,3030,,64,Female,Filipino,"Magugpo East, Tagum City, Davao del Norte",Ongoing Investigation,23-Sep-2020,,,,,,Active,Magugpo East,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 30-Sep-2020,3031,,64,Female,Filipino,"San Francisco, Panabo City, Davao del Norte",Confirmed Case (DR-2882),17-Sep-2020,,,,,,Active,San Francisco,Panabo City,Davao del Norte,#N/A,Davao del Norte,
 30-Sep-2020,3032,,48,Male,Filipino,"Madaum, Tagum City, Davao del Norte",Confirmed Case,,Asymptomatic,29-Sep-2020,15-Oct-2020,,,Recovered,Madaum,Tagum City,Davao del Norte,#N/A,Davao del Norte,
@@ -3081,7 +3081,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 1-Oct-2020,3080,,19,Male,Filipino,"Poblacion, Mawab, Davao de Oro",Local Travel (LSI from Cebu),,Asymptomatic,23-Sep-2020,13-Oct-2020,,,Recovered,Poblacion,Mawab,Davao de Oro,#N/A,Davao de Oro,
 1-Oct-2020,3081,,28,Female,Filipino,"Sasa, Davao City",Confirmed Case,24-Sep-2020,,1-Oct-2020,13-Oct-2020,,,Recovered,Sasa,Davao City,,Sasa,Davao City,
 1-Oct-2020,3082,,1,Male,Filipino,"Ilang, Davao City",Unknown history of travel and exposure,,Asymptomatic,2-Oct-2020,17-Oct-2020,,,Recovered,Ilang,Davao City,,Ilang,Davao City,
-1-Oct-2020,3083,,25,Female,Filipino,"Manat, Nabunturan, Davao de Oro",Local Travel (For verification),,Asymptomatic,,,,,Active,Manat,Nabunturan,Davao de Oro,#N/A,Davao de Oro,
+1-Oct-2020,3083,,25,Female,Filipino,"Manat, Nabunturan, Davao de Oro",Local Travel (For verification),,Asymptomatic,17-Sep-2020,19-Oct-2020,,,Active,Manat,Nabunturan,Davao de Oro,#N/A,Davao de Oro,
 1-Oct-2020,3084,,74,Male,Filipino,"Sasa, Davao City",Unknown history of travel and exposure,28-Sep-2020,,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
 1-Oct-2020,3085,,37,Female,Filipino,"Talomo Proper, Davao City",Unknown history of travel and exposure (ROF),,Asymptomatic,1-Oct-2020,15-Oct-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
 1-Oct-2020,3086,,61,Male,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,28-Sep-2020,,29-Sep-2020,16-Oct-2020,,,Recovered,Bucana,Davao City,,Bucana,Davao City,
@@ -3090,7 +3090,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 1-Oct-2020,3089,,37,Female,Filipino,"Matina Crossing, Davao City",Unknown history of travel and exposure,29-Sep-2020,,29-Sep-2020,15-Oct-2020,,,Recovered,Matina Crossing,Davao City,,Matina Crossing,Davao City,
 1-Oct-2020,3090,,16,Male,Filipino,"Cabantian, Davao City",Unknown history of travel and exposure,20-Sep-2020,,29-Sep-2020,16-Oct-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
 1-Oct-2020,3091,,0,Male,Filipino,"Alejandra Navarro (Lasang), Davao City",Unknown history of travel and exposure,16-Sep-2020,,29-Sep-2020,17-Oct-2020,,,Recovered,Alejandra Navarro (Lasang),Davao City,,Alejandra Navarro (Lasang),Davao City,"Lasang, Davao City"
-1-Oct-2020,3092,,72,Female,Filipino,"34-D, Davao City",Unknown history of travel and exposure,26-Sep-2020,,,,,,Active,34-D,Davao City,,34-D,Davao City,
+1-Oct-2020,3092,,72,Female,Filipino,"34-D, Davao City",Unknown history of travel and exposure,26-Sep-2020,,28-Sep-2020,19-Oct-2020,,,Recovered,34-D,Davao City,,34-D,Davao City,
 1-Oct-2020,3093,,58,Female,Filipino,"Maa, Davao City",Unknown history of travel and exposure,22-Sep-2020,,29-Sep-2020,16-Oct-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,
 1-Oct-2020,3094,,27,Male,Filipino,"Indangan, Davao City",Unknown history of travel and exposure,25-Sep-2020,,2-Oct-2020,14-Oct-2020,,,Recovered,Indangan,Davao City,,Indangan,Davao City,
 1-Oct-2020,3095,,62,Male,Filipino,"Gov. Paciano Bangoy, Agdao, Davao City",Ongoing Investigation,24-Sep-2020,,,,,,Active,Gov. Paciano Bangoy,Agdao,Davao City,Gov. Paciano Bangoy,Davao City,"Paciano Bangoy, Agdao, Davao City"
@@ -3124,7 +3124,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 2-Oct-2020,3123,,38,Female,Filipino,"Matiao, Mati City, Davao Oriental",Unknown history of travel and exposure,20-Sep-2020,,20-Sep-2020,18-Oct-2020,,,Recovered,Matiao,Mati City,Davao Oriental,#N/A,Davao Oriental,
 2-Oct-2020,3124,,55,Female,Filipino,"21-C, Davao City",Ongoing Investigation,22-Sep-2020,,30-Sep-2020,,9-Oct-2020,,Dead,21-C,Davao City,,21-C,Davao City,
 2-Oct-2020,3125,,75,Male,Filipino,"Alfonso Angliongto Sr., Sasa, Davao City",Unknown History of Travel and Exposure,30-Sep-2020,,30-Sep-2020,,9-Oct-2020,,Dead,Alfonso Angliongto Sr.,Sasa,Davao City,Alfonso Angliongto Sr.,Davao City,"A. Anglionto Sr., Davao City"
-2-Oct-2020,3126,,2,Female,Filipino,"Maa, Davao City",Unknown History of Travel and Exposure,,Asymptomatic,,,,,Active,Maa,Davao City,,Maa,Davao City,"Ma-a, Davao City"
+2-Oct-2020,3126,,2,Female,Filipino,"Maa, Davao City",Unknown history of travel and exposure,,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,"Ma-a, Davao City"
 2-Oct-2020,3127,,21,Female,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,28-Sep-2020,,29-Sep-2020,15-Oct-2020,,,Recovered,Bucana,Davao City,,Bucana,Davao City,
 2-Oct-2020,3128,,28,Male,Filipino,"Buhangin Proper, Davao City",Ongoing Investigation,30-Sep-2020,,1-Oct-2020,10-Oct-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 2-Oct-2020,3129,,67,Male,Filipino,"Sasa, Davao City",Unknown history of travel and exposure,,Asymptomatic,2-Oct-2020,18-Oct-2020,,,Recovered,Sasa,Davao City,,Sasa,Davao City,
@@ -3134,7 +3134,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 2-Oct-2020,3133,,28,Female,Filipino,"Mintal, Davao City",Confirmed Case,27-Sep-2020,,30-Sep-2020,14-Oct-2020,,,Recovered,Mintal,Davao City,,Mintal,Davao City,
 2-Oct-2020,3134,,31,Female,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,26-Sep-2020,,30-Sep-2020,15-Oct-2020,,,Recovered,Bucana,Davao City,,Bucana,Davao City,
 2-Oct-2020,3135,,52,Male,Filipino,"Panacan, Davao City",Unknown History of Travel and Exposure,,Asymptomatic,30-Sep-2020,15-Oct-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
-2-Oct-2020,3136,,78,Male,Filipino,"Tacunan, Davao City",Unknown History of Travel and Exposure,29-Sep-2020,,,,,,Active,Tacunan,Davao City,,Tacunan,Davao City,
+2-Oct-2020,3136,,78,Male,Filipino,"Tacunan, Davao City",Unknown history of travel and exposure,29-Sep-2020,,2-Oct-2020,19-Oct-2020,,,Recovered,Tacunan,Davao City,,Tacunan,Davao City,
 2-Oct-2020,3137,,24,Male,Filipino,"Sasa, Davao City",Ongoing Investigation,,Asymptomatic,2-Oct-2020,18-Oct-2020,,,Recovered,Sasa,Davao City,,Sasa,Davao City,
 2-Oct-2020,3138,,59,Male,Filipino,"Tigatto, Davao City",Unknown History of Travel and Exposure,,Asymptomatic,,,,,Active,Tigatto,Davao City,,Tigatto,Davao City,
 2-Oct-2020,3139,,24,Female,Filipino,"21-C, Davao City",Unknown History of Travel and Exposure,18-Sep-2020,,2-Oct-2020,16-Oct-2020,,,Recovered,21-C,Davao City,,21-C,Davao City,
@@ -3146,19 +3146,19 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 2-Oct-2020,3145,,12,Female,Filipino,"Aplaya, Digos City, Davao del Sur",Confirmed Case (DR-2957),,Asymptomatic,2-Oct-2020,13-Oct-2020,,,Recovered,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
 2-Oct-2020,3146,,50,Male,Filipino,"Aplaya, Digos City, Davao del Sur",Confirmed Case (DR-2957),,Asymptomatic,,,,,Active,Aplaya,Digos City,Davao del Sur,#N/A,Davao del Sur,
 2-Oct-2020,3147,,52,Male,Filipino,"37-D, Davao City",Confirmed Case,,Asymptomatic,3-Oct-2020,17-Oct-2020,,,Recovered,37-D,Davao City,,37-D,Davao City,
-2-Oct-2020,3148,,15,Female,Filipino,"37-D, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,37-D,Davao City,,37-D,Davao City,
-2-Oct-2020,3149,,48,Female,Filipino,"37-D, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,37-D,Davao City,,37-D,Davao City,
-2-Oct-2020,3150,,7,Male,Filipino,"23-C, Davao City",Unknown History of Travel and Exposure,,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
-2-Oct-2020,3151,,38,Male,Filipino,"23-C, Davao City",Ongoing Investigation,,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
+2-Oct-2020,3148,,15,Female,Filipino,"37-D, Davao City",Confirmed Case,,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,37-D,Davao City,,37-D,Davao City,
+2-Oct-2020,3149,,48,Female,Filipino,"37-D, Davao City",Confirmed Case,,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,37-D,Davao City,,37-D,Davao City,
+2-Oct-2020,3150,,7,Male,Filipino,"23-C, Davao City",Unknown history of travel and exposure,,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
+2-Oct-2020,3151,,38,Male,Filipino,"23-C, Davao City",Ongoing Investigation,,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
 2-Oct-2020,3152,,74,Male,Filipino,"Talomo Proper, Davao City",Ongoing Investigation,17-Sep-2020,,8-Oct-2020,16-Oct-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
-2-Oct-2020,3153,,2,Female,Filipino,"9-A, Davao City",Confirmed Case (DR-2849),,Asymptomatic,,,,,Active,9-A,Davao City,,9-A,Davao City,
+2-Oct-2020,3153,,2,Female,Filipino,"9-A, Davao City",Confirmed Case (DR-2849),,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,9-A,Davao City,,9-A,Davao City,
 2-Oct-2020,3154,,22,Male,Filipino,"27-C, Davao City",Confirmed Case,,Asymptomatic,6-Oct-2020,15-Oct-2020,,,Recovered,27-C,Davao City,,27-C,Davao City,
 2-Oct-2020,3155,,28,Male,Filipino,"Bucana, Davao City",Ongoing Investigation,,Asymptomatic,5-Oct-2020,15-Oct-2020,,,Recovered,Bucana,Davao City,,Bucana,Davao City,
 2-Oct-2020,3156,,29,Male,Filipino,"Bucana, Davao City",Ongoing Investigation,,Asymptomatic,5-Oct-2020,15-Oct-2020,,,Recovered,Bucana,Davao City,,Bucana,Davao City,
 2-Oct-2020,3157,,30,Male,Filipino,"Maa, Davao City",Ongoing Investigation,,Asymptomatic,5-Oct-2020,16-Oct-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,"Ma-a, Davao City"
 2-Oct-2020,3158,,30,Male,Filipino,"Maa, Davao City",Ongoing Investigation,,Asymptomatic,5-Oct-2020,15-Oct-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,"Ma-a, Davao City"
 2-Oct-2020,3159,,34,Male,Filipino,"Angalan, Tugbok, Davao City",Ongoing Investigation,30-Sep-2020,,,,,,Active,Angalan,Tugbok,Davao City,Angalan,Davao City,
-3-Oct-2020,3160,,4,Female,Filipino,"Magugpo South, Tagum City, Davao del Norte",Confirmed Case,,Asymptomatic,,,,,Active,Magugpo South,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+3-Oct-2020,3160,,4,Female,Filipino,"Magugpo South, Tagum City, Davao del Norte",Confirmed Case,,Asymptomatic,3-Oct-2020,19-Oct-2020,,,Recovered,Magugpo South,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 3-Oct-2020,3161,,4,Female,Filipino,"Magugpo South, Tagum City, Davao del Norte",Confirmed Case,,Asymptomatic,,,,,Active,Magugpo South,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 3-Oct-2020,3162,,59,Male,Filipino,"25-C, Davao City",Unknown history of travel and exposure,24-Sep-2020,,,,,,Active,25-C,Davao City,,25-C,Davao City,
 3-Oct-2020,3163,,32,Female,Filipino,"San Isidro, Tagum City, Davao del Norte",International Travel (ROF from Kuwait),,Asymptomatic,,,,,Active,San Isidro,Tagum City,Davao del Norte,#N/A,Davao del Norte,
@@ -3179,9 +3179,9 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 3-Oct-2020,3178,,0,Male,Filipino,"Cabantian, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Cabantian,Davao City,,Cabantian,Davao City,
 3-Oct-2020,3179,,29,Male,Filipino,"Cabantian, Davao City",Confirmed Case,24-Sep-2020,,10-Oct-2020,15-Oct-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
 3-Oct-2020,3180,,50,Male,Filipino,"Matina Crossing, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Matina Crossing,Davao City,,Matina Crossing,Davao City,
-3-Oct-2020,3181,,4,Male,Filipino,"Bunawan Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Bunawan Proper,Davao City,,Bunawan Proper,Davao City,"Bunawan, Davao City"
-3-Oct-2020,3182,,2,Male,Filipino,"Bunawan Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Bunawan Proper,Davao City,,Bunawan Proper,Davao City,"Bunawan, Davao City"
-3-Oct-2020,3183,,36,Female,Filipino,"Bunawan Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Bunawan Proper,Davao City,,Bunawan Proper,Davao City,"Bunawan, Davao City"
+3-Oct-2020,3181,,4,Male,Filipino,"Bunawan Proper, Davao City",Confirmed Case,,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,Bunawan Proper,Davao City,,Bunawan Proper,Davao City,"Bunawan, Davao City"
+3-Oct-2020,3182,,2,Male,Filipino,"Bunawan Proper, Davao City",Confirmed Case,,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,Bunawan Proper,Davao City,,Bunawan Proper,Davao City,"Bunawan, Davao City"
+3-Oct-2020,3183,,36,Female,Filipino,"Bunawan Proper, Davao City",Confirmed Case,,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,Bunawan Proper,Davao City,,Bunawan Proper,Davao City,"Bunawan, Davao City"
 3-Oct-2020,3184,,65,Male,Filipino,"8-A, Davao City",Unknown history of travel and exposure,23-Sep-2020,,3-Oct-2020,17-Oct-2020,,,Recovered,8-A,Davao City,,8-A,Davao City,
 3-Oct-2020,3185,,34,Male,Filipino,"8-A, Davao City",Unknown history of travel and exposure,,Asymptomatic,3-Oct-2020,18-Oct-2020,,,Recovered,8-A,Davao City,,8-A,Davao City,
 3-Oct-2020,3186,,71,Female,Filipino,"8-A, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,8-A,Davao City,,8-A,Davao City,
@@ -3190,13 +3190,13 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 3-Oct-2020,3189,,72,Male,Filipino,"P. Fuentes, Pantukan, Davao de Oro",Unknown history of travel and exposure,10-Sep-2020,,,,,,Active,P. Fuentes,Pantukan,Davao de Oro,#N/A,Davao de Oro,
 3-Oct-2020,3190,,4,Female,Filipino,"San Francisco, Panabo City, Davao del Norte",Confirmed Case,,Asymptomatic,29-Sep-2020,17-Oct-2020,,,Recovered,San Francisco,Panabo City,Davao del Norte,#N/A,Davao del Norte,
 3-Oct-2020,3191,,62,Female,Filipino,"San Francisco, Panabo City, Davao del Norte",Confirmed Case,,Asymptomatic,29-Sep-2020,17-Oct-2020,,,Recovered,San Francisco,Panabo City,Davao del Norte,#N/A,Davao del Norte,
-3-Oct-2020,3192,,0,Male,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,30-Sep-2020,,,,,,Active,Bucana,Davao City,,Bucana,Davao City,
+3-Oct-2020,3192,,0,Male,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,30-Sep-2020,,30-Sep-2020,19-Oct-2020,,,Recovered,Bucana,Davao City,,Bucana,Davao City,
 3-Oct-2020,3193,,20,Female,Filipino,"Talomo Proper, Davao City",Confirmed Case,30-Sep-2020,,3-Oct-2020,14-Oct-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
 3-Oct-2020,3194,,28,Female,Filipino,"23-C, Davao City",Unknown history of travel and exposure,,Asymptomatic,10-Oct-2020,14-Oct-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
 3-Oct-2020,3195,,47,Female,Filipino,"Tibungco, Davao City",Unknown history of travel and exposure,1-Oct-2020,,2-Oct-2020,16-Oct-2020,,,Recovered,Tibungco,Davao City,,Tibungco,Davao City,
 3-Oct-2020,3196,,50,Female,Filipino,"Ilang, Davao City",Unknown history of travel and exposure,1-Oct-2020,,30-Sep-2020,,12-Oct-2020,,Dead,Ilang,Davao City,,Ilang,Davao City,
 3-Oct-2020,3197,,47,Male,Filipino,"Tibungco, Davao City",Unknown history of travel and exposure,1-Oct-2020,,,,,,Active,Tibungco,Davao City,,Tibungco,Davao City,
-3-Oct-2020,3198,,46,Female,Filipino,"21-C, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,21-C,Davao City,,21-C,Davao City,
+3-Oct-2020,3198,,46,Female,Filipino,"21-C, Davao City",Unknown history of travel and exposure,,Asymptomatic,3-Oct-2020,19-Oct-2020,,,Recovered,21-C,Davao City,,21-C,Davao City,
 3-Oct-2020,3199,,44,Female,Filipino,"Cabantian, Davao City",Unknown history of travel and exposure,1-Oct-2020,,2-Oct-2020,16-Oct-2020,,,Recovered,Cabantian,Davao City,,Cabantian,Davao City,
 3-Oct-2020,3200,,29,Female,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,,Asymptomatic,3-Oct-2020,16-Oct-2020,,,Recovered,Bucana,Davao City,,Bucana,Davao City,
 3-Oct-2020,3201,,26,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,29-Sep-2020,,1-Oct-2020,16-Oct-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
@@ -3209,9 +3209,9 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 3-Oct-2020,3208,,60,Female,Filipino,"Sinawilan, Digos City, Davao del Sur",Unknown history of travel and exposure,25-Sep-2020,,,,,,Active,Sinawilan,Digos City,Davao del Sur,#N/A,Davao del Sur,
 3-Oct-2020,3209,,27,Male,Filipino,"Nuevo Iloco, Mawab, Davao de Oro",Local Travel,,Asymptomatic,,,,,Active,Nuevo Iloco,Mawab,Davao de Oro,#N/A,Davao de Oro,
 3-Oct-2020,3210,,31,Female,Filipino,"Catalunan Pequeño, Davao City",Unknown history of travel and exposure,29-Sep-2020,,7-Oct-2020,16-Oct-2020,,,Recovered,Catalunan Pequeño,Davao City,,Catalunan Pequeño,Davao City,
-3-Oct-2020,3211,,19,Male,Filipino,"Vicente Hizon Sr., Sasa, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Vicente Hizon Sr.,Sasa,Davao City,Vicente Hizon Sr.,Davao City,"V. Hizon Sr., Sasa, Davao City"
+3-Oct-2020,3211,,19,Male,Filipino,"Vicente Hizon Sr., Sasa, Davao City",Unknown history of travel and exposure,,Asymptomatic,4-Oct-2020,19-Oct-2020,,,Recovered,Vicente Hizon Sr.,Sasa,Davao City,Vicente Hizon Sr.,Davao City,"V. Hizon Sr., Sasa, Davao City"
 3-Oct-2020,3212,,62,Female,Filipino,"Maa, Davao City",Unknown history of travel and exposure,,Asymptomatic,4-Oct-2020,16-Oct-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,
-3-Oct-2020,3213,,30,Female,Filipino,"San Antonio, Agdao, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,San Antonio,Agdao,Davao City,San Antonio,Davao City,
+3-Oct-2020,3213,,30,Female,Filipino,"San Antonio, Agdao, Davao City",Unknown history of travel and exposure,,Asymptomatic,5-Oct-2020,19-Oct-2020,,,Recovered,San Antonio,Agdao,Davao City,San Antonio,Davao City,
 3-Oct-2020,3214,,25,Female,Filipino,"Sasa, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
 3-Oct-2020,3215,,67,Female,Filipino,"Panacan, Davao City",Unknown history of travel and exposure,,Asymptomatic,12-Oct-2020,18-Oct-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 3-Oct-2020,3216,,39,Female,Filipino,"Indangan, Davao City",Unknown history of travel and exposure,4-Sep-2020,,,,,,Active,Indangan,Davao City,,Indangan,Davao City,
@@ -3233,7 +3233,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 3-Oct-2020,3232,,42,Male,Filipino,"Talomo Proper, Davao City",Local Travel,,Asymptomatic,6-Oct-2020,17-Oct-2020,,,Recovered,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
 3-Oct-2020,3233,,79,Female,Filipino,"Mankilam, Tagum City, Davao del Norte",Local Travel (LSI),,Asymptomatic,,,,,Active,Mankilam,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 3-Oct-2020,3234,,37,Male,Filipino,"Mahayag, Banaybany, Davao Oriental",Local Travel (LSI),,Asymptomatic,2-Oct-2020,16-Oct-2020,,,Recovered,Mahayag,Banaybany,Davao Oriental,Mahayag,Davao Oriental,
-4-Oct-2020,3235,,66,Male,Filipino,"Pampanga, Davao City",Unknown history of travel and exposure,25-Sep-2020,,,,,,Active,Pampanga,Davao City,,Pampanga,Davao City,
+4-Oct-2020,3235,,66,Male,Filipino,"Pampanga, Davao City",Unknown history of travel and exposure,25-Sep-2020,,4-Oct-2020,19-Oct-2020,,,Recovered,Pampanga,Davao City,,Pampanga,Davao City,
 4-Oct-2020,3236,,30,Female,Filipino,"Toril Proper, Davao City",Unknown history of travel and exposure,30-Sep-2020,,4-Oct-2020,17-Oct-2020,,,Recovered,Toril Proper,Davao City,,Toril Proper,Davao City,"Toril, Davao City"
 4-Oct-2020,3237,,26,Female,Filipino,"Maa, Davao City",Confirmed Case,,Asymptomatic,8-Oct-2020,17-Oct-2020,,,Recovered,Maa,Davao City,,Maa,Davao City,
 4-Oct-2020,3238,,67,Female,Filipino,"Sto. Niño, Tugbok, Davao City",Unknown history of travel and exposure,1-Oct-2020,,,,1-Oct-2020,,Dead,Sto. Niño,Tugbok,Davao City,Sto. Niño,Davao City,
@@ -3269,7 +3269,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 4-Oct-2020,3268,,29,Male,Filipino,"Matina Aplaya, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
 4-Oct-2020,3269,,21,Female,Filipino,"Sasa, Davao City",Local Travel,,Asymptomatic,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
 4-Oct-2020,3270,,25,Female,Filipino,"Sta. Cruz Kaputian, IGACOS, Davao del Norte",Local Travel (LSI from Manila),,Asymptomatic,,,,,Active,Sta. Cruz Kaputian,IGACOS,Davao del Norte,#N/A,Davao del Norte,
-4-Oct-2020,3271,,27,Male,Filipino,"Maniki, Kapalong, Davao del Norte",Local Travel (For verification),,Asymptomatic,,,,,Active,Maniki,Kapalong,Davao del Norte,#N/A,Davao del Norte,
+4-Oct-2020,3271,,27,Male,Filipino,"Maniki, Kapalong, Davao del Norte",Local Travel (For verification),,Asymptomatic,30-Sep-2020,19-Oct-2020,,,Recovered,Maniki,Kapalong,Davao del Norte,#N/A,Davao del Norte,
 4-Oct-2020,3272,,76,Male,Filipino,"Poblacion, Maco, Davao de Oro",Unknown history of travel and exposure,30-Sep-2020,,,15-Oct-2020,,,Recovered,Poblacion,Maco,Davao de Oro,#N/A,Davao de Oro,
 4-Oct-2020,3273,,30,Female,Filipino,"Mana, Malita, Davao Occidental",Confirmed Case,,Asymptomatic,2-Oct-2020,15-Oct-2020,,,Recovered,Mana,Malita,Davao Occidental,#N/A,Davao Occidental,
 4-Oct-2020,3274,,54,Female,Filipino,"Lapu-lapu, Agdao, Davao City",Confirmed Case (DR-2858),22-Sep-2020,,1-Oct-2020,18-Oct-2020,,,Recovered,Lapu-lapu,Agdao,Davao City,Lapu-lapu,Davao City,
@@ -3306,26 +3306,26 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 6-Oct-2020,3305,,55,Male,Filipino,"Sasa, Davao City",Unknown history of travel and exposure,30-Sep-2020,,3-Oct-2020,8-Oct-2020,,,Dead,Sasa,Davao City,,Sasa,Davao City,
 6-Oct-2020,3306,,27,Female,Filipino,"Daliao Plantation, Toril A, Davao City",Unknown history of travel and exposure,,Asymptomatic,3-Oct-2020,18-Oct-2020,,,Recovered,Daliao Plantation,Toril A,Davao City,Unknown,Davao City,
 6-Oct-2020,3307,,66,Female,Filipino,"Vicente Hizon Sr., Sasa, Davao City",Unknown history of travel and exposure,2-Oct-2020,,3-Oct-2020,18-Oct-2020,,,Recovered,Vicente Hizon Sr.,Sasa,Davao City,Vicente Hizon Sr.,Davao City,"V. Hizon Sr., Sasa, Davao City"
-6-Oct-2020,3308,,60,Male,Filipino,"10-A, Davao City",Unknown history of travel and exposure,2-Oct-2020,,,,,,Active,10-A,Davao City,,10-A,Davao City,
+6-Oct-2020,3308,,60,Male,Filipino,"10-A, Davao City",Unknown history of travel and exposure,2-Oct-2020,,2-Oct-2020,19-Oct-2020,,,Recovered,10-A,Davao City,,10-A,Davao City,
 6-Oct-2020,3309,,62,Male,Filipino,"San Antonio, Agdao, Davao City",Unknown history of travel and exposure,19-Sep-2020,,3-Oct-2020,,15-Oct-2020,,Dead,San Antonio,Agdao,Davao City,San Antonio,Davao City,
 6-Oct-2020,3310,,49,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Unknown history of travel and exposure,17-Sep-2020,,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
 6-Oct-2020,3311,,48,Male,Filipino,"22-C, Davao City",Unknown history of travel and exposure,3-Oct-2020,,3-Oct-2020,17-Oct-2020,,,Recovered,22-C,Davao City,,22-C,Davao City,
 6-Oct-2020,3312,,75,Female,Filipino,"22-C, Davao City",Unknown history of travel and exposure,30-Sep-2020,,3-Oct-2020,,7-Oct-2020,,Dead,22-C,Davao City,,22-C,Davao City,
-6-Oct-2020,3313,,58,Male,Filipino,"Buhangin Proper, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+6-Oct-2020,3313,,58,Male,Filipino,"Buhangin Proper, Davao City",Unknown history of travel and exposure,,Asymptomatic,27-Sep-2020,19-Oct-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 6-Oct-2020,3314,,67,Female,Filipino,"Agdao Proper, Davao City",Unknown history of travel and exposure,28-Sep-2020,,3-Oct-2020,,8-Oct-2020,,Dead,Agdao Proper,Davao City,,Agdao Proper,Davao City,"Centro, Agdao, Davao City"
 6-Oct-2020,3315,,37,Female,Filipino,"19-B, Davao City",Unknown history of travel and exposure,,Asymptomatic,5-Oct-2020,13-Oct-2020,,,Recovered,19-B,Davao City,,19-B,Davao City,
 6-Oct-2020,3316,,31,Female,Filipino,"Bunawan Proper, Davao City",Unknown history of travel and exposure,1-Oct-2020,,3-Oct-2020,17-Oct-2020,,,Recovered,Bunawan Proper,Davao City,,Bunawan Proper,Davao City,
-6-Oct-2020,3317,,72,Female,Filipino,"5-A, Davao City",Unknown history of travel and exposure,3-Oct-2020,,,,,,Active,5-A,Davao City,,5-A,Davao City,
+6-Oct-2020,3317,,72,Female,Filipino,"5-A, Davao City",Unknown history of travel and exposure,3-Oct-2020,,3-Oct-2020,19-Oct-2020,,,Recovered,5-A,Davao City,,5-A,Davao City,
 6-Oct-2020,3318,,66,Male,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,19-Sep-2020,,,,,,Active,Bucana,Davao City,,Bucana,Davao City,
 6-Oct-2020,3319,,28,Male,Filipino,"Matina Aplaya, Davao City",Unknown history of travel and exposure,,Asymptomatic,7-Oct-2020,18-Oct-2020,,,Recovered,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
-6-Oct-2020,3320,,56,Male,Filipino,"19-B, Davao City",Unknown history of travel and exposure,28-Sep-2020,,,,,,Active,19-B,Davao City,,19-B,Davao City,
-6-Oct-2020,3321,,35,Male,Filipino,"Buhangin Proper, Davao City",Unknown history of travel and exposure,1-Oct-2020,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
+6-Oct-2020,3320,,56,Male,Filipino,"19-B, Davao City",Unknown history of travel and exposure,28-Sep-2020,,4-Oct-2020,19-Oct-2020,,,Recovered,19-B,Davao City,,19-B,Davao City,
+6-Oct-2020,3321,,35,Male,Filipino,"Buhangin Proper, Davao City",Unknown history of travel and exposure,1-Oct-2020,,4-Oct-2020,19-Oct-2020,,,Recovered,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 6-Oct-2020,3322,,22,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,1-Oct-2020,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,"Buhangin, Davao City"
 6-Oct-2020,3323,,43,Female,Filipino,"22-C, Davao City",Unknown history of travel and exposure,1-Oct-2020,,5-Oct-2020,16-Oct-2020,,,Recovered,22-C,Davao City,,22-C,Davao City,
-6-Oct-2020,3324,,0,Female,Filipino,"23-C, Davao City",Unknown history of travel and exposure,4-Oct-2020,,,,,,Active,23-C,Davao City,,23-C,Davao City,
+6-Oct-2020,3324,,0,Female,Filipino,"23-C, Davao City",Unknown history of travel and exposure,4-Oct-2020,,4-Oct-2020,19-Oct-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
 6-Oct-2020,3325,,61,Male,Filipino,"21-C, Davao City",Unknown history of travel and exposure,1-Oct-2020,,5-Oct-2020,,6-Oct-2020,,Dead,21-C,Davao City,,21-C,Davao City,
 6-Oct-2020,3326,,47,Male,Filipino,"San Antonio, Agdao, Davao City",Unknown history of travel and exposure,21-Sep-2020,,5-Oct-2020,,6-Oct-2020,,Dead,San Antonio,Agdao,Davao City,San Antonio,Davao City,
-6-Oct-2020,3327,,62,Female,Filipino,"Los Amigos, Tugbok, Davao City",Local Travel (For verification),,Asymptomatic,,,,,Active,Los Amigos,Tugbok,Davao City,Los Amigos,Davao City,
+6-Oct-2020,3327,,62,Female,Filipino,"Los Amigos, Tugbok, Davao City",Local Travel (For verification),,Asymptomatic,11-Oct-2020,19-Oct-2020,,,Recovered,Los Amigos,Tugbok,Davao City,Los Amigos,Davao City,
 6-Oct-2020,3328,,57,Male,Filipino,"Gov. Paciano Bangoy, Davao City",Confirmed Case,24-Sep-2020,,,,,,Active,Gov. Paciano Bangoy,Davao City,,Gov. Paciano Bangoy,Davao City,"Paciano Bangoy, Davao City"
 6-Oct-2020,3329,,84,Female,Filipino,"5-A, Davao City",Unknown history of travel and exposure,2-Oct-2020,,6-Oct-2020,,6-Oct-2020,,Dead,5-A,Davao City,,5-A,Davao City,
 6-Oct-2020,3330,,26,Female,Filipino,"Unknown, Davao City",Confirmed Case,2-Oct-2020,,,,,,Active,Unknown,Davao City,,Unknown,Davao City,
@@ -3334,10 +3334,10 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 6-Oct-2020,3333,,30,Male,Filipino,"Camalian, Jose Abad Santos, Davao Occidental",Local Travel (LSI from Manila),,Asymptomatic,,,,,Active,Camalian,Jose Abad Santos,Davao Occidental,#N/A,Davao Occidental,
 6-Oct-2020,3334,,38,Male,Filipino,"Camalian, Jose Abad Santos, Davao Occidental",Local Travel (LSI from Manila),,Asymptomatic,,,,,Active,Camalian,Jose Abad Santos,Davao Occidental,#N/A,Davao Occidental,
 6-Oct-2020,3335,,46,Male,Filipino,"Camalian, Jose Abad Santos, Davao Occidental",Local Travel (LSI from Manila),,Asymptomatic,,,,,Active,Camalian,Jose Abad Santos,Davao Occidental,#N/A,Davao Occidental,
-6-Oct-2020,3336,,57,Female,Filipino,"Esperanza, Sto. Tomas, Davao del Norte",Local Travel (LSI from Manila),,Asymptomatic,,,,,Active,Esperanza,Sto. Tomas,Davao del Norte,#N/A,Davao del Norte,
+6-Oct-2020,3336,,57,Female,Filipino,"Esperanza, Sto. Tomas, Davao del Norte",Local Travel (LSI from Manila),,Asymptomatic,5-Oct-2020,19-Oct-2020,,,Recovered,Esperanza,Sto. Tomas,Davao del Norte,#N/A,Davao del Norte,
 7-Oct-2020,3337,,61,Male,Filipino,"San Agustin, Digos City, Davao del Sur",Unknown history of travel and exposure,19-Sep-2020,,3-Oct-2020,,3-Oct-2020,,Dead,San Agustin,Digos City,Davao del Sur,#N/A,Davao del Sur,
-7-Oct-2020,3338,,43,Male,Filipino,"Mintal, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Mintal,Davao City,,Mintal,Davao City,
-7-Oct-2020,3339,,47,Male,Filipino,"Panacan, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Panacan,Davao City,,Panacan,Davao City,
+7-Oct-2020,3338,,43,Male,Filipino,"Mintal, Davao City",Unknown history of travel and exposure,,Asymptomatic,7-Oct-2020,19-Oct-2020,,,Recovered,Mintal,Davao City,,Mintal,Davao City,
+7-Oct-2020,3339,,47,Male,Filipino,"Panacan, Davao City",Unknown history of travel and exposure,,Asymptomatic,7-Oct-2020,19-Oct-2020,,,Recovered,Panacan,Davao City,,Panacan,Davao City,
 7-Oct-2020,3340,,52,Female,Filipino,"Solongvale, Sulop, Davao del Sur",Confirmed Case (DR-3146),,Asymptomatic,,,,,Active,Solongvale,Sulop,Davao del Sur,#N/A,Davao del Sur,
 7-Oct-2020,3341,,23,Female,Filipino,"Tres de Mayo, Digos City, Davao del Sur",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Tres de Mayo,Digos City,Davao del Sur,#N/A,Davao del Sur,
 7-Oct-2020,3342,,22,Male,Filipino,"Cogon, Digos City, Davao del Sur",Confirmed Case,,Asymptomatic,,,,,Active,Cogon,Digos City,Davao del Sur,#N/A,Davao del Sur,
@@ -3373,16 +3373,16 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 8-Oct-2020,3372,,64,Female,Filipino,"Magugpo Poblacion, Tagum City, Davao del Norte",Unknown history of travel and exposure,1-Oct-2020,,,,,,Active,Magugpo Poblacion,Tagum City,Davao del Norte,#N/A,Davao del Norte,
 8-Oct-2020,3373,,34,Male,Filipino,"Union, Monkayo, Davao de Oro",Local Travel (LSI from Laguna),,Asymptomatic,,,,,Active,Union,Monkayo,Davao de Oro,#N/A,Davao de Oro,
 8-Oct-2020,3374,,51,Female,Filipino,"Union, Maragusan, Davao de Oro",Local Travel (LSI from Surigao City),,Asymptomatic,,,,,Active,Union,Maragusan,Davao de Oro,#N/A,Davao de Oro,
-8-Oct-2020,3375,,40,Female,Filipino,"4-A, Davao City",Unknown history of travel and exposure,5-Oct-2020,,,,,,Active,4-A,Davao City,,4-A,Davao City,
-8-Oct-2020,3376,,21,Female,Filipino,"14-B, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,14-B,Davao City,,14-B,Davao City,
+8-Oct-2020,3375,,40,Female,Filipino,"5-A, Davao City",Unknown history of travel and exposure,5-Oct-2020,,10-Oct-2020,19-Oct-2020,,,Recovered,5-A,Davao City,,5-A,Davao City,
+8-Oct-2020,3376,,21,Female,Filipino,"14-B, Davao City",Confirmed Case,,Asymptomatic,10-Oct-2020,19-Oct-2020,,,Recovered,14-B,Davao City,,14-B,Davao City,
 8-Oct-2020,3377,,62,Male,Filipino,"14-B, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,14-B,Davao City,,14-B,Davao City,
 8-Oct-2020,3378,,8,Female,Filipino,"4-A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,4-A,Davao City,,4-A,Davao City,
 8-Oct-2020,3379,,34,Female,Filipino,"4-A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,4-A,Davao City,,4-A,Davao City,
 8-Oct-2020,3380,,13,Female,Filipino,"4-A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,4-A,Davao City,,4-A,Davao City,
-8-Oct-2020,3381,,48,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
-8-Oct-2020,3382,,28,Male,Filipino,"21-C, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,21-C,Davao City,,21-C,Davao City,
-8-Oct-2020,3383,,24,Female,Filipino,"21-C, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,21-C,Davao City,,21-C,Davao City,
-8-Oct-2020,3384,,36,Male,Filipino,"39-D, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,39-D,Davao City,,39-D,Davao City,
+8-Oct-2020,3381,,48,Male,Filipino,"Leon Garcia Sr., Agdao, Davao City",Confirmed Case,,Asymptomatic,10-Oct-2020,19-Oct-2020,,,Recovered,Leon Garcia Sr.,Agdao,Davao City,Leon Garcia Sr.,Davao City,
+8-Oct-2020,3382,,28,Male,Filipino,"21-C, Davao City",Confirmed Case,,Asymptomatic,10-Oct-2020,19-Oct-2020,,,Recovered,21-C,Davao City,,21-C,Davao City,
+8-Oct-2020,3383,,24,Female,Filipino,"21-C, Davao City",Confirmed Case,,Asymptomatic,10-Oct-2020,19-Oct-2020,,,Recovered,21-C,Davao City,,21-C,Davao City,
+8-Oct-2020,3384,,36,Male,Filipino,"39-D, Davao City",Confirmed Case,,Asymptomatic,9-Oct-2020,19-Oct-2020,,,Recovered,39-D,Davao City,,39-D,Davao City,
 8-Oct-2020,3385,,21,Male,Filipino,"Tigatto, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Tigatto,Davao City,,Tigatto,Davao City,
 8-Oct-2020,3386,,23,Male,Filipino,"4-A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,4-A,Davao City,,4-A,Davao City,
 8-Oct-2020,3387,,20,Male,Filipino,"7-A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,7-A,Davao City,,7-A,Davao City,
@@ -3407,12 +3407,12 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 8-Oct-2020,3406,,33,Female,Filipino,"Gov. Vicente Duterte, Agdao, Davao City",Confirmed Case,,Asymptomatic,8-Oct-2020,16-Oct-2020,,,Recovered,Gov. Vicente Duterte,Agdao,Davao City,Gov. Vicente Duterte,Davao City,
 8-Oct-2020,3407,,31,Female,Filipino,"Indangan, Davao City",Confirmed Case,,Asymptomatic,8-Oct-2020,16-Oct-2020,,,Recovered,Indangan,Davao City,,Indangan,Davao City,
 8-Oct-2020,3408,,1,Male,Filipino,"Matina Crossing, Davao City",Unknown history of travel and exposure,3-Oct-2020,,,,,,Active,Matina Crossing,Davao City,,Matina Crossing,Davao City,
-8-Oct-2020,3409,,57,Female,Filipino,"Sasa, Davao City",Confirmed Case (DR-3305),,Asymptomatic,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
+8-Oct-2020,3409,,57,Female,Filipino,"Sasa, Davao City",Confirmed Case (DR-3305),,Asymptomatic,9-Oct-2020,19-Oct-2020,,,Recovered,Sasa,Davao City,,Sasa,Davao City,
 8-Oct-2020,3410,,16,Female,Filipino,"Sasa, Davao City",Confirmed Case (DR-3305),,Asymptomatic,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
 8-Oct-2020,3411,,5,Male,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Bucana,Davao City,,Bucana,Davao City,
 8-Oct-2020,3412,,13,Male,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Bucana,Davao City,,Bucana,Davao City,
 8-Oct-2020,3413,,50,Female,Filipino,"Maa, Davao City",Unknown history of travel and exposure,6-Oct-2020,,,,,,Active,Maa,Davao City,,Maa,Davao City,
-8-Oct-2020,3414,,18,Female,Filipino,"23-C, Davao City",Confirmed Case (DR-3324),,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
+8-Oct-2020,3414,,18,Female,Filipino,"23-C, Davao City",Confirmed Case (DR-3324),,Asymptomatic,6-Oct-2020,19-Oct-2020,,,Recovered,23-C,Davao City,,23-C,Davao City,
 8-Oct-2020,3415,,60,Male,Filipino,"Sasa, Davao City",Unknown history of travel and exposure,1-Oct-2020,,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
 8-Oct-2020,3416,,56,Female,Filipino,"24-C, Davao City",Confirmed Case (DR-3368),5-Oct-2020,,,,,,Active,24-C,Davao City,,24-C,Davao City,
 8-Oct-2020,3417,,23,Female,Filipino,"Cabantian, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Cabantian,Davao City,,Cabantian,Davao City,
@@ -3499,7 +3499,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 10-Oct-2020,3498,,42,Female,Filipino,"Matina Crossing, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Matina Crossing,Davao City,,Matina Crossing,Davao City,
 10-Oct-2020,3499,,27,Male,Filipino,"Catalunan Grande, Davao City",Confirmed Case,,Asymptomatic,9-Oct-2020,17-Oct-2020,,,Recovered,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
 10-Oct-2020,3500,,32,Female,Filipino,"Bucana, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Bucana,Davao City,,Bucana,Davao City,
-10-Oct-2020,3501,,28,Male,Filipino,"Tibungco, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Tibungco,Davao City,,Tibungco,Davao City,
+10-Oct-2020,3501,,28,Male,Filipino,"Tibungco, Davao City",Confirmed Case,,Asymptomatic,10-Oct-2020,19-Oct-2020,,,Recovered,Tibungco,Davao City,,Tibungco,Davao City,
 10-Oct-2020,3502,,49,Female,Filipino,"Tugbok Proper, Davao City",Unknown history of travel and exposure,7-Oct-2020,,,,,,Active,Tugbok Proper,Davao City,,Tugbok Proper,Davao City,"Tugbok, Davao City"
 10-Oct-2020,3503,,48,Female,Filipino,"Bago Aplaya, Davao City",Unknown history of travel and exposure,1-May-2020,,,,,,Active,Bago Aplaya,Davao City,,Bago Aplaya,Davao City,
 10-Oct-2020,3504,,45,Male,Filipino,"Bunawan Proper, Davao City",Unknown history of travel and exposure,8-Oct-2020,,,,,,Active,Bunawan Proper,Davao City,,Bunawan Proper,Davao City,"Bunawan, Davao City"
@@ -3646,7 +3646,7 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 13-Oct-2020,3645,,35,Female,Filipino,"Indangan, Davao City",Confirmed Case,8-Oct-2020,,,,,,Active,Indangan,Davao City,,Indangan,Davao City,
 13-Oct-2020,3646,,29,Female,Filipino,"Buhangin Proper, Davao City",Confirmed Case,8-Oct-2020,,,,,,Active,Buhangin Proper,Davao City,,Buhangin Proper,Davao City,
 13-Oct-2020,3647,,23,Male,Filipino,"Matina Aplaya, Davao City",Unknown history of travel and exposure,9-Oct-2020,,,,,,Active,Matina Aplaya,Davao City,,Matina Aplaya,Davao City,
-13-Oct-2020,3648,,87,Female,Filipino,"28-C, Davao City",Unknown history of travel and exposure,10-Oct-2020,,,,,,Active,28-C,Davao City,,28-C,Davao City,
+13-Oct-2020,3648,,87,Female,Filipino,"28-C, Davao City",Unknown history of travel and exposure,10-Oct-2020,,11-Oct-2020,18-Oct-2020,,,Dead,28-C,Davao City,,28-C,Davao City,
 13-Oct-2020,3649,,66,Male,Filipino,"Bucana, Davao City",Unknown history of travel and exposure,8-Oct-2020,,11-Oct-2020,,12-Oct-2020,,Dead,Bucana,Davao City,,Bucana,Davao City,
 13-Oct-2020,3650,,73,Male,Filipino,"Sasa, Davao City",Unknown history of travel and exposure,5-Oct-2020,,11-Oct-2020,,12-Oct-2020,,Dead,Sasa,Davao City,,Sasa,Davao City,
 13-Oct-2020,3651,,23,Female,Filipino,"23-C, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,23-C,Davao City,,23-C,Davao City,
@@ -4036,3 +4036,31 @@ DRDate,DR Code,PH Code,Age,Gender,Nationality,Location,History of Exposure,OS_Da
 18-Oct-2020,4035,,41,Female,Filipino,"Ising, Carmen, Davao del Norte",Ongoing Investigation,,Asymptomatic,,,,,Active,Ising,Carmen,Davao del Norte,#N/A,Davao del Norte,
 18-Oct-2020,4036,,57,Male,Filipino,"Astorga, Sta. Cruz, Davao del Sur",Local Travel,,Asymptomatic,,,,,Active,Astorga,Sta. Cruz,Davao del Sur,#N/A,Davao del Sur,
 18-Oct-2020,4037,,36,Female,Filipino,"Gredu, Panabo, Davao del Norte",Confirmed Case,,Asymptomatic,,,,,Active,Gredu,Panabo,Davao del Norte,#N/A,Davao del Norte,
+19-Oct-2020,4038,,15,Female,Filipino,"Magugpo West, Tagum City, Davao del Norte",Confirmed Case,,Asymptomatic,,,,,Active,Magugpo West,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+19-Oct-2020,4039,,25,Female,Filipino,"Mankilam, Tagum City, Davao del Norte",Confirmed Case,,Asymptomatic,,,,,Active,Mankilam,Tagum City,Davao del Norte,#N/A,Davao del Norte,
+19-Oct-2020,4040,,58,Female,Filipino,"Alfonso Angliongto Sr., Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Alfonso Angliongto Sr.,Davao City,,Alfonso Angliongto Sr.,Davao City,"A. Angliongto Sr., Davao City"
+19-Oct-2020,4041,,58,Male,Filipino,"Sasa, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
+19-Oct-2020,4042,,13,Male,Filipino,"Talomo Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+19-Oct-2020,4043,,25,Female,Filipino,"Talomo Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+19-Oct-2020,4044,,53,Female,Filipino,"Talomo Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+19-Oct-2020,4045,,53,Male,Filipino,"9-A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,9-A,Davao City,,9-A,Davao City,
+19-Oct-2020,4046,,51,Female,Filipino,"Daliaon Plantation, Toril A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Daliaon Plantation,Toril A,Davao City,Daliaon Plantation,Davao City,
+19-Oct-2020,4047,,20,Female,Filipino,"Daliaon Plantation, Toril A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Daliaon Plantation,Toril A,Davao City,Daliaon Plantation,Davao City,
+19-Oct-2020,4048,,9,Male,Filipino,"Daliaon Plantation, Toril A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Daliaon Plantation,Toril A,Davao City,Daliaon Plantation,Davao City,
+19-Oct-2020,4049,,4,Female,Filipino,"Daliaon Plantation, Toril A, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Daliaon Plantation,Toril A,Davao City,Daliaon Plantation,Davao City,
+19-Oct-2020,4050,,40,Male,Filipino,"1-A, Davao City",Confirmed Case,14-Oct-2020,,,,,,Active,1-A,Davao City,,1-A,Davao City,
+19-Oct-2020,4051,,46,Female,Filipino,"Matina Crossing, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Matina Crossing,Davao City,,Matina Crossing,Davao City,
+19-Oct-2020,4052,,59,Female,Filipino,"Talomo Proper, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,"Talomo Poblacion, Davao City"
+19-Oct-2020,4053,,37,Male,Filipino,"Vicente Hizon Sr., Sasa, Davao City",Confirmed Case,,Asymptomatic,,,,,Active,Vicente Hizon Sr.,Sasa,Davao City,Vicente Hizon Sr.,Davao City,"V. Hizon Sr, Sasa, Davao City"
+19-Oct-2020,4054,,27,Female,Filipino,"Calinan Proper, Davao City",Local Travel,,Asymptomatic,,,,,Active,Calinan Proper,Davao City,,Calinan Proper,Davao City,"Calinan, Davao City"
+19-Oct-2020,4055,,50,Male,Filipino,"5-A, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,5-A,Davao City,,5-A,Davao City,
+19-Oct-2020,4056,,51,Female,Filipino,"Catalunan Grande, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Catalunan Grande,Davao City,,Catalunan Grande,Davao City,
+19-Oct-2020,4057,,50,Female,Filipino,"32-D, Davao City",Unknown history of travel and exposure,12-Oct-2020,,,,,,Active,32-D,Davao City,,32-D,Davao City,
+19-Oct-2020,4058,,62,Male,Filipino,"Agdao Centro, Davao City",Unknown history of travel and exposure,17-Oct-2020,,,,,,Dead,Agdao Centro,Davao City,,Agdao Centro,Davao City,"Centro, Agdao, Davao City"
+19-Oct-2020,4059,,52,Male,Filipino,"Pampanga, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Pampanga,Davao City,,Pampanga,Davao City,
+19-Oct-2020,4060,,55,Male,Filipino,"Maa, Davao City",Unknown history of travel and exposure,4-Oct-2020,,,,,,Active,Maa,Davao City,,Maa,Davao City,"Ma-a, Davao City"
+19-Oct-2020,4061,,29,Female,Filipino,"Talomo Proper, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Talomo Proper,Davao City,,Talomo Proper,Davao City,
+19-Oct-2020,4062,,59,Female,Filipino,"Sasa, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Sasa,Davao City,,Sasa,Davao City,
+19-Oct-2020,4063,,47,Female,Filipino,"Catalunan Pequeño, Davao City",Unknown history of travel and exposure,,Asymptomatic,,,,,Active,Catalunan Pequeño,Davao City,,Catalunan Pequeño,Davao City,
+19-Oct-2020,4064,,29,Female,Filipino,"Tigatto, Davao City",Ongoing Investigation (ROF from Jeddah),,Asymptomatic,,,,,Active,Tigatto,Davao City,,Tigatto,Davao City,
+19-Oct-2020,4065,,40,Male,Filipino,"Ubalde, Agdao, Davao City",International Travel (ROF from Jeddah),,Asymptomatic,,,,,Active,Ubalde,Agdao,Davao City,Ubalde,Davao City,
